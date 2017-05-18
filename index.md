@@ -1,4 +1,4 @@
-## This is the main page of Francis's NLP playground
+## Welcome 
 
 Francis Fu Yao is an undergraduate research student in Peking University. He likes reading, traveling, photography, as well as NLP.
 
