@@ -1,4 +1,4 @@
-## Welcome 
+## Hi there
 
 Francis Fu Yao is an undergraduate research student in Peking University. He likes reading, traveling, photography, as well as NLP.
 
