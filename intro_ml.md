@@ -74,7 +74,7 @@ Trust me you will come back to these ideas again and again.
 
 The reason I introduce the linear model is that it is the very basic structure of neural network, or deep learning.
 
-Now you can start from Standford Udlfl. Good luck.
+Now you can start from [Standford Udlfl](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial), and go through the neural networks section and back propagation. Then you can come back to my [RNN from scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf), Good luck.
 
 ## One more thing
 
