@@ -11,3 +11,7 @@ In addition to his major in computer science, he is minor in business administra
 Francis is new to github blog, so he kept [This markdown guide](https://francix.github.io/guide) and [This github io guide](https://guides.github.com/features/pages/) for his consultant.
 
 This blog is still under construction. There will be many interesting thing soon (as well as the Chinese version).
+
+## Table of contents
+
+[Introduction to Machine Learning and Deep Learning](https://francix.github.io/intro_ml.md)
