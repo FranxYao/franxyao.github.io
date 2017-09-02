@@ -84,5 +84,5 @@ Tanh is the hyporbolic tangent. If the input is less than 0, then its output is 
 
 This is the very basic idea of a single neuron.
 
-Neuron networks is nothing but a bunch of neurons connected with each other.
+Neuron networks, or deep learning, is nothing but a bunch of neurons connected with each other.
 
