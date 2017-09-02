@@ -1,8 +1,8 @@
-** Machine learning tasks 
+## Machine learning tasks 
 
 We have two basic machine learning tasks: classification and regression. 
 
-** Classification
+## Classification
 
 Definition of classification: given a feature vector v of case x, determine x belongs to class A or class B. 
 
@@ -10,7 +10,7 @@ e.g. Given the spectrum v of a piece of sound x, determine x belongs to human vo
 
 You can see the output of classification is descrete. 
 
-** Regression
+## Regression
 
 The other task is regression: 
 
@@ -28,7 +28,7 @@ You can see that the output of regression is continuous.
 
 The input format does not matter. It can be descrete or continuous, or the mixture. Different ML models handle different input format. Typically, deep learning models usually assume the input is continuous. If it is descrete (like language), we have ways to transform descrete inputs into continuous representation. This is called "embedding" and it is one kind of Representation Learning. 
 
-** Perspective of regression and classification: 
+## Perspective of regression and classification: 
 
 We can view Regression as the continuous version of classification.
 
@@ -36,7 +36,7 @@ All machined models are about regression and classification.
 
 Now we will focus on classification. 
 
-** Machine learning models. 
+## Machine learning models. 
 
 We start from the very simple linear model. 
 
@@ -50,7 +50,7 @@ Do no underestimate this simplicity. In many cases it performs fairly well, if w
 
 So the question is: how to find w ?
 
-** Training and testing
+## Training and testing
 
 We find the best w from a large set of data.
 
@@ -62,7 +62,7 @@ The process of predicting o1 is called testing.
 
 Training and Testing is the two typical phases of machine learning.
 
-** Methods to train w
+## Methods to train w
 
 There are a variety of ways, but the most popular way is called the stochastic gradient descent or SGD.
 
@@ -76,7 +76,7 @@ The reason I introduce the linear model is that it is the very basic structure o
 
 Now you can start from Standford Udlfl. Good luck.
 
-** One more thing
+## One more thing
 
 What if we add a non-linear activation function tanh to the linear model like this: o = tanh(wv) ? 
 
