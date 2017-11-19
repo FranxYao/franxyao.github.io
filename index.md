@@ -1,6 +1,8 @@
 ## Hi there
 
-Francis Fu Yao is an undergraduate research student in Peking University. He likes reading, traveling, photography, as well as NLP.
+Francis Fu Yao is an undergraduate research student in Peking University. He likes reading, traveling, photography, as well as Natural Language Processing.
+
+He is now focusing on Answer Sentence Generation with Heterogeneous Memory Networks (coming soon)! 
 
 Recently, he did [a tutorial on Recurrent Neural Network](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) in Sun's Deep Learning Group, Centre of Energy-efficiency Computing and Application (CECA). In this tutorial, he covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
 
@@ -14,6 +16,7 @@ This blog is still under construction. There will be many interesting thing soon
 
 ## Table of contents
 
+- Mysterious Naming: why a "Francis" before "Fu Yao" (coming soon!)
 - [Introduction to Machine Learning and Deep Learning](https://francix.github.io/intro_ml)
 - Intro to DL. TBC...
 - [RNN from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
