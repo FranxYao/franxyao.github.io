@@ -20,3 +20,4 @@ This blog is still under construction. There will be many interesting thing soon
 - [Introduction to Machine Learning and Deep Learning](https://francix.github.io/intro_ml)
 - Intro to DL. TBC...
 - [RNN from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
+- [application vedio for CMU](https://francix.github.io/CMU_vedio)
