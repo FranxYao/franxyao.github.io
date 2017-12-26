@@ -8,7 +8,7 @@ Updates:
 
 I just submitted my research about Natural Answer Generation with Heterogeneous Memory (under supervision from Prof. Yansong Feng) to NAACL-HLT 2018.
 
-I joint Toutiao AI Lab this December as a Natural Language Understanding Research Intern. My mentor is Lei Li, director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
+I joint Toutiao AI Lab from this December as a Natural Language Understanding Research Intern. My mentor is Lei Li, director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
 
 -----
 Contents
