@@ -1,23 +1,35 @@
 ## Hi there
 
-Francis Fu Yao is an undergraduate research student in Peking University. He likes reading, traveling, photography, as well as Natural Language Processing.
+Francis Fu Yao is an undergraduate research student in Peking University. His research interests are Natural Language Processing and Machine Learning. He likes reading, writing, traveling and photography.
 
-He is now focusing on Answer Sentence Generation with Heterogeneous Memory Networks (coming soon)! 
+-----
 
-Recently, he did [a tutorial on Recurrent Neural Network](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) in Sun's Deep Learning Group, Centre of Energy-efficiency Computing and Application (CECA). In this tutorial, he covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
+Updates:
 
-Francis comes from a river town in Hunan Province, southwest China (Like the one in [Peter Hessler's](http://www.goodreads.com/book/show/94053.River_Town)). He is a writer and an editor in PKU Youth. At first he liked classical Chinese literature, and this later led to his interest in Natural Language Processing after becoming a computer science student. He wrote [this article](https://mp.weixin.qq.com/s?__biz=MzA3NzAzMDEyNg==&mid=207701708&idx=1&sn=af6c76946c417c67ea0a9ec4ed609d6a&mpshare=1&scene=1&srcid=YTwnivIRJqtg1DPiWP6P&key=881e642d936f5123f1432c5de5c5145a775b510776e49537be0aa1d0f9f76e8bbb23f9c219c34fe26a6e8895f21200a8d99784a729d201c5697972d8ca661f0b5460377ce517f4a06a49b04c5207130b&ascene=0&uin=MjgzMjI2NjM4NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=bMBmDNNw3zN8TAJ1yHz%2BlOI6hp9o5REtvH5ebc0cGecpTeOr%2B%2FO4BL1eeO6E5B9R) about his hometown, and [this article](https://mp.weixin.qq.com/s?__biz=MzA3NzAzMDEyNg==&mid=400112806&idx=1&sn=dba54d1e2d155b907a509930876df54f&mpshare=1&scene=1&srcid=1025rTqEKRU5aEBp5DplADjl&key=0054166caf6e68314f6c001271b87424fc9ad91983859a3c7c3c156708b79fa754e8fbe38314284289d6cf1d4e4e51cc4c180764474fc8a406d56d63e7eb3a2d286a7abd57d645fcb92edfa452075d7e&ascene=0&uin=MjgzMjI2NjM4NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12020610&nettype=WIFI&fontScale=100&pass_ticket=0mNA7TJZaFXmisouHj5Pyc6k5krPTRZlKwGfbDHtMMjACYvoA2Ete3ngwNtTfWv3) about his high school in 2014 (in Chinese). Both of them were then published in PKU Youth.
+I just submitted my research about Natural Answer Generation with Heterogeneous Memory (under supervision from Prof. Yansong Feng) to NAACL-HLT 2018.
 
-In addition to his major in computer science, he is minor in business administration in Guanghua School of Management (GSM) in Peking University. This program is focusing on startups, innovation industry, entrepreneurship, and venture investiment. He wrote [a report](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf) about the innovation industry in China in 2016. Recently, he is interested in [medical industry](https://francix.github.io/images/OnePic.pdf) and [Chinese AI startups](https://francix.github.io/summary_AI).
+I joint Toutiao AI Lab this December as a Natural Language Understanding Research Intern. My mentor is Lei Li, director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
 
-Francis is new to github blog, so he kept [This markdown guide](https://francix.github.io/guide) and [This github io guide](https://guides.github.com/features/pages/) for his consultant.
+-----
+Contents
+
+[Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
+
+* This was the tutorial about RNN I gave in Guangyu Sun's Deep Learning Group, Centre of Energy-efficiency Computing and Application (CECA). In this tutorial, I covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
+
+[application vedio for CMU](https://francix.github.io/CMU_vedio)
+
+Mysterious Naming: why a "Francis" before "Fu Yao"
+
+-----
+
+My background
+
+I come from a river town in Hunan Province, southwest China (Like the one in [Peter Hessler's](http://www.goodreads.com/book/show/94053.River_Town)). 
+I am a writer and an editor in PKU Youth. At first I liked classical Chinese literature, and this later led to my interest in Natural Language Processing after becoming a computer science student. I wrote [this article](https://mp.weixin.qq.com/s?__biz=MzA3NzAzMDEyNg==&mid=207701708&idx=1&sn=af6c76946c417c67ea0a9ec4ed609d6a&mpshare=1&scene=1&srcid=YTwnivIRJqtg1DPiWP6P&key=881e642d936f5123f1432c5de5c5145a775b510776e49537be0aa1d0f9f76e8bbb23f9c219c34fe26a6e8895f21200a8d99784a729d201c5697972d8ca661f0b5460377ce517f4a06a49b04c5207130b&ascene=0&uin=MjgzMjI2NjM4NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=bMBmDNNw3zN8TAJ1yHz%2BlOI6hp9o5REtvH5ebc0cGecpTeOr%2B%2FO4BL1eeO6E5B9R) about my hometown, and [this article](https://mp.weixin.qq.com/s?__biz=MzA3NzAzMDEyNg==&mid=400112806&idx=1&sn=dba54d1e2d155b907a509930876df54f&mpshare=1&scene=1&srcid=1025rTqEKRU5aEBp5DplADjl&key=0054166caf6e68314f6c001271b87424fc9ad91983859a3c7c3c156708b79fa754e8fbe38314284289d6cf1d4e4e51cc4c180764474fc8a406d56d63e7eb3a2d286a7abd57d645fcb92edfa452075d7e&ascene=0&uin=MjgzMjI2NjM4NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12020610&nettype=WIFI&fontScale=100&pass_ticket=0mNA7TJZaFXmisouHj5Pyc6k5krPTRZlKwGfbDHtMMjACYvoA2Ete3ngwNtTfWv3) about my high school in 2014 (in Chinese). Both of them were then published in PKU Youth.
+
+In addition to my major in computer science, I am minor in business administration in Guanghua School of Management (GSM) in Peking University. This program is focusing on startups, innovation industry, and entrepreneurship. I wrote [a report](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf) about the innovation industry in China in 2016. Recently, I am interested in [medical industry](https://francix.github.io/images/OnePic.pdf) and [Chinese AI startups](https://francix.github.io/summary_AI).
 
 This blog is still under construction. There will be many interesting thing soon (as well as the Chinese version).
 
-## Table of contents
 
-- Mysterious Naming: why a "Francis" before "Fu Yao" (coming soon!)
-- [Introduction to Machine Learning and Deep Learning](https://francix.github.io/intro_ml)
-- Intro to DL. TBC...
-- [RNN from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
-- [application vedio for CMU](https://francix.github.io/CMU_vedio)
