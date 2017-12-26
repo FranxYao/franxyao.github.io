@@ -34,6 +34,6 @@ I am a writer and an editor in PKU Youth. At first I liked classical Chinese lit
 
 In addition to my major in computer science, I am minor in business administration in Guanghua School of Management (GSM) in Peking University. This program is focusing on startups, innovation industry, and entrepreneurship. I wrote [a report](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf) about the innovation industry in China in 2016. Recently, I am interested in [medical industry](https://francix.github.io/images/OnePic.pdf) and [Chinese AI startups](https://francix.github.io/summary_AI).
 
-This blog is still under construction. There will be many interesting thing soon (as well as the Chinese version).
+This blog is still under construction. There will be many interesting things (as well as a Chinese version).
 
 
