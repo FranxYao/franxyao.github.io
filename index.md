@@ -6,14 +6,14 @@ Francis Fu Yao is an undergraduate research student at Peking University. His re
 
 -----
 
-Updates:
+### Updates:
 
-I just submitted my research about Natural Answer Generation with Heterogeneous Memory (under supervision from Prof. Yansong Feng) to NAACL-HLT 2018. This work was done during my undergraduate research in [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/), Peking University, under supervision from [Professor Yansong Feng](https://sites.google.com/site/ysfeng/home).
+I just submitted my research about Natural Answer Generation with Heterogeneous Memory (under supervision from Prof. Yansong Feng) to NAACL-HLT 2018. This work was done during my summer research in [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/), Peking University, under supervision from [Professor Yansong Feng](https://sites.google.com/site/ysfeng/home).
 
 I joint Toutiao AI Lab from this December as a Natural Language Understanding Research Intern. My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
 
 -----
-Contents
+### Contents
 
 [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
 
@@ -24,6 +24,7 @@ Contents
 Scheduling and routing models for food rescue and delivery operations.
 
 * This project was finished during my exchange in University of New South Wales, Australia. It was a scheduling and routing model for food rescue (i.e. deliver foods to people in need) traffic distribution networks. It was an extension of my mentor, [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair)'s work in 2016. This work won the Tranportation Research Board 2016 Best Paper Award. Under Dyvia's supervision, I extended the algorithm into a dynamic version. Now it is been applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
+* Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
 
 Mysterious Naming: "Fu Yao" or "Yao Fu"? why a "Francis" before "Fu Yao"? 
 
