@@ -1,19 +1,19 @@
 ## Hi there
 
-Bio
+### Bio
 
 Francis Fu Yao is an undergraduate research student at Peking University. His research interests are Natural Language Processing and Machine Learning. He likes reading, writing, traveling and photography. He is also interested in Startups and [Innovation industries in China](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf). 
 
 -----
 
-### Updates:
+### Updates
 
 I just submitted my research about Natural Answer Generation with Heterogeneous Memory (under supervision from Prof. Yansong Feng) to NAACL-HLT 2018. This work was done during my summer research in [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/), Peking University, under supervision from [Professor Yansong Feng](https://sites.google.com/site/ysfeng/home).
 
 I joint Toutiao AI Lab from this December as a Natural Language Understanding Research Intern. My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
 
 -----
-### Contents
+### Content
 
 [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
 
@@ -30,7 +30,7 @@ Mysterious Naming: "Fu Yao" or "Yao Fu"? why a "Francis" before "Fu Yao"?
 
 -----
 
-### My background
+### My personal background
 
 I come from a river town in Hunan Province, southwest China (Like the one in [Peter Hessler's](http://www.goodreads.com/book/show/94053.River_Town)). 
 
