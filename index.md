@@ -4,6 +4,8 @@
 
 Francis Fu Yao is an undergraduate research student at Peking University. His research interests are Natural Language Processing and Machine Learning. He likes reading, writing, traveling and photography. He is also interested in Startups and [Innovation industries in China](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf). 
 
+My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
+
 -----
 
 ### Updates
