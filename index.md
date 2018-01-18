@@ -10,8 +10,6 @@ My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
 
 ### Updates
 
-I just submitted my research about Natural Answer Generation with Heterogeneous Memory (under supervision from Prof. Yansong Feng) to NAACL-HLT 2018. This work was done during my summer research in [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/), Peking University, under supervision from [Professor Yansong Feng](https://sites.google.com/site/ysfeng/home).
-
 I joint Toutiao AI Lab from this December as a Natural Language Understanding Research Intern. My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
 
 -----
