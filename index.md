@@ -1,6 +1,6 @@
 ## Hi there
 
-### Bio
+### BIO
 
 Francis Fu Yao is an undergraduate research student at Peking University. His research interests are Natural Language Processing and Machine Learning. He likes reading, writing, traveling and photography. He is also interested in Startups and [Innovation industries in China](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf). 
 
@@ -8,29 +8,34 @@ My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
 
 -----
 
-### Updates
+### UPDATES
 
 I joint Toutiao AI Lab from this December as a Natural Language Understanding Research Intern. My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
 
 -----
-### Content
 
-[Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
+### PROJECTS
 
-* I gave this tutorial to new undergraduate research students in [Guangyu Sun](http://ceca.pku.edu.cn/en/team.php?action=show&member_id=15)'s (my former supervisor) Deep Learning Group at [Centre of Energy-efficiency Computing and Application](http://ceca.pku.edu.cn/en/) (CECA). In this tutorial, I covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
+* [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
+
+  * I gave this tutorial to new undergraduate research students in [Guangyu Sun](http://ceca.pku.edu.cn/en/team.php?action=show&member_id=15)'s (my former supervisor) Deep Learning Group at [Centre of Energy-efficiency Computing and Application](http://ceca.pku.edu.cn/en/) (CECA). In this tutorial, I covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
+
+* Scheduling and routing models for food rescue and delivery operations.
+
+  * This project was finished during my exchange in University of New South Wales, Australia. It was a scheduling and routing model for food rescue (i.e. deliver foods to people in need) traffic distribution networks. It was an extension of my mentor, [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair)'s work in 2016. This work won the Tranportation Research Board 2016 Best Paper Award. Under Dyvia's supervision, I extended the algorithm into a dynamic version. Now it is been applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
+  * Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
+  
+----
+
+### OTHERS
 
 [application vedio for CMU](https://francix.github.io/CMU_vedio)
-
-Scheduling and routing models for food rescue and delivery operations.
-
-* This project was finished during my exchange in University of New South Wales, Australia. It was a scheduling and routing model for food rescue (i.e. deliver foods to people in need) traffic distribution networks. It was an extension of my mentor, [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair)'s work in 2016. This work won the Tranportation Research Board 2016 Best Paper Award. Under Dyvia's supervision, I extended the algorithm into a dynamic version. Now it is been applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
-* Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
 
 Mysterious Naming: "Fu Yao" or "Yao Fu"? why a "Francis" before "Fu Yao"? 
 
 -----
 
-### My personal background
+### MY PERSONAL BACKGROUND
 
 I come from a river town in Hunan Province, southwest China (Like the one in [Peter Hessler's](http://www.goodreads.com/book/show/94053.River_Town)). 
 
