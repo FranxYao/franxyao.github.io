@@ -16,6 +16,8 @@ I joint Toutiao AI Lab from this December as a Natural Language Understanding Re
 
 ### PROJECTS
 
+* Music Generation with Sentence Level Semantics
+
 * [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
 
   * I gave this tutorial to new undergraduate research students in [Guangyu Sun](http://ceca.pku.edu.cn/en/team.php?action=show&member_id=15)'s (my former supervisor) Deep Learning Group at [Centre of Energy-efficiency Computing and Application](http://ceca.pku.edu.cn/en/) (CECA). In this tutorial, I covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
