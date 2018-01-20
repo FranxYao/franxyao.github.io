@@ -2,7 +2,9 @@
 
 ### BIO
 
-I am an undergraduate research student at Peking University. My research interests are Natural Language Processing, particularly sentence level semantics, and Machine Learning. I am an editor and writer at _PKU Youth_, the largest student organized media in China, and this is why I do NLP! I like reading, writing, traveling and photography. I am also interested in Startups and [Innovation industries in China](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf). 
+Francis Fu Yao 符尧 is an undergraduate research student at Peking University. 
+
+My research interests are Natural Language Processing, particularly sentence level semantics, and Machine Learning. I am an editor and writer at _PKU Youth_, the largest student organized media in China, and this is why I do NLP! I like reading, writing, traveling and photography. I am also interested in Startups and [Innovation industries in China](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf). 
 
 My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
 
@@ -17,15 +19,18 @@ I joint Toutiao AI Lab from December 2017 as a Natural Language Understanding Re
 ### PROJECTS
 
 * Music Generation with Sentence Level Semantics
+
   * Background knowledge of music, and Midi File format. 
   * StyleNet for performance generation. 
   * StyleNet Language Model for music composition. 
   * StyleNet Variantional Inference for music composition conditioned on latent variables. 
 
 * [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
+
   * I gave this tutorial to new undergraduate research students in [Guangyu Sun](http://ceca.pku.edu.cn/en/team.php?action=show&member_id=15)'s (my former supervisor) Deep Learning Group at [Centre of Energy-efficiency Computing and Application](http://ceca.pku.edu.cn/en/) (CECA). In this tutorial, I covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
 
 * [Scheduling and routing models for food rescue and delivery operations](https://github.com/Francix/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master).
+
   * This project was finished during my exchange in University of New South Wales, Australia. 
   * It was a scheduling and routing model for food rescue (i.e. deliver foods to people in need) traffic distribution networks. 
   * It was an extension of my mentor, [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair)'s work in 2016. This work won the Tranportation Research Board 2016 Best Paper Award. 
@@ -34,6 +39,7 @@ I joint Toutiao AI Lab from December 2017 as a Natural Language Understanding Re
   * Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
   
 *  Energy-efficient Drone Motion Tracking
+
   * An energy-efficiency tracking system with low latency for embedded system. 
   
 ----
@@ -58,10 +64,11 @@ Mysterious Naming: "Fu Yao" or "Yao Fu"? why a "Francis" before "Fu Yao"?
 
 ### FRANCIS AS A BUSINESS SCHOOL STUDENT
 
-* In addition to my major in computer science, I am minor in business administration in Guanghua School of Management (GSM) in Peking University. This program focuses on startups, innovation industry, and entrepreneurship. 
-  * I wrote [this report](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf) about the innovation industry in China in 2016 Fall. 
-  * I did this report about the intersection of [medical industry and the Internet](https://francix.github.io/images/OnePic.pdf) in 17 Spring. 
-  * Recently, I lead a group and successfully applied new business strategies for [a startup](http://www.hg707.com) focusing on Chemistry industry information exchange. (17 Fall)
+In addition to my major in computer science, I am minor in business administration in Guanghua School of Management (GSM) in Peking University. This program focuses on startups, innovation industry, and entrepreneurship. 
+
+* I wrote [this report](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf) about the innovation industry in China in 2016 Fall. 
+* I did this report about the intersection of [medical industry and the Internet](https://francix.github.io/images/OnePic.pdf) in 17 Spring. 
+* Recently, I lead a group and successfully applied new business strategies for [a startup](http://www.hg707.com) focusing on Chemistry industry information exchange. (17 Fall)
 
 
 
