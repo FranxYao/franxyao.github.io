@@ -25,12 +25,12 @@ I joint Toutiao AI Lab from December 2017 as a Natural Language Understanding Re
 * [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
   * I gave this tutorial to new undergraduate research students in [Guangyu Sun](http://ceca.pku.edu.cn/en/team.php?action=show&member_id=15)'s (my former supervisor) Deep Learning Group at [Centre of Energy-efficiency Computing and Application](http://ceca.pku.edu.cn/en/) (CECA). In this tutorial, I covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
 
-* Scheduling and routing models for food rescue and delivery operations.
+* [Scheduling and routing models for food rescue and delivery operations](https://github.com/Francix/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master).
   * This project was finished during my exchange in University of New South Wales, Australia. 
   * It was a scheduling and routing model for food rescue (i.e. deliver foods to people in need) traffic distribution networks. 
   * It was an extension of my mentor, [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair)'s work in 2016. This work won the Tranportation Research Board 2016 Best Paper Award. 
   * Under Dyvia's supervision, I extended the algorithm into a dynamic version. 
-  * Now it is been applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
+  * Now it is being applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
   * Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
   
 *  Energy-efficient Drone Motion Tracking
