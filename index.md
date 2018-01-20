@@ -38,8 +38,7 @@ I joint Toutiao AI Lab from December 2017 as a Natural Language Understanding Re
   * Now it is being applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
   * Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
   
-*  Energy-efficient Drone Motion Tracking
-
+* [Energy-efficient Drone Motion Tracking](https://github.com/Francix/Drone-Motion-Tracking)
   * An energy-efficiency tracking system with low latency for embedded system. 
   
 ----
