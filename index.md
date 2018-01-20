@@ -72,7 +72,7 @@ In addition to my major in computer science, I am minor in business administrati
 
 -----
 
-### FRANCIS AS AN EDITOR AT PKY YOUTH
+### FRANCIS AS AN EDITOR AT PKU YOUTH
 
 The following content will be in Chinese.
 
