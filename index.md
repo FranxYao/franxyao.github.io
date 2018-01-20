@@ -78,14 +78,14 @@ The following content will be in Chinese.
 
 我在北青发表/ 参与过的文章合集
 
-* 夏记|[活在夜的大永顺帝国](https://mp.weixin.qq.com/s/IW5RuYiBCiQtKkhFF8hD3g)(2015-08-27)
-* 言己|[十七岁请恣意唱歌](https://mp.weixin.qq.com/s/1A3LcW4Pqi1_EF8Unewm4Q)(2015-10-24)
-* 言己|[众生](https://mp.weixin.qq.com/s/FMwiFNrBrGUkxGchZZ-ICA)(2016-03-13)
-* 言己|[澳洲第一工程学府的里外世界](https://mp.weixin.qq.com/s/LK0NTs-Md1CnWS6yDaTY8w)(2016-09-14)
-* 副刊|[努力型学霸的时光](https://mp.weixin.qq.com/s/Ov-4998_ncQvlI5SPHFgPQ)(2016-09-29)
-* 新年献词 | [在众声喧哗的时代依然选择求真](https://mp.weixin.qq.com/s/O0QQZXeMGcLWI6nZF5Wsjg)(2017-01-01)
-* 见字如晤｜[给尧先生的一封信](https://mp.weixin.qq.com/s/l5w1ZnMGy_htRMvnF5UAaA)(2017-04-27)
-* 新年献词｜[新时代，青年当仁不让](https://mp.weixin.qq.com/s/gYnEzTDIXPLE4poXtZOPsw)(2018-01-01)
+* 夏记 - [活在夜的大永顺帝国](https://mp.weixin.qq.com/s/IW5RuYiBCiQtKkhFF8hD3g)(2015-08-27)
+* 言己 - [十七岁请恣意唱歌](https://mp.weixin.qq.com/s/1A3LcW4Pqi1_EF8Unewm4Q)(2015-10-24)
+* 言己 - [众生](https://mp.weixin.qq.com/s/FMwiFNrBrGUkxGchZZ-ICA)(2016-03-13)
+* 言己 - [澳洲第一工程学府的里外世界](https://mp.weixin.qq.com/s/LK0NTs-Md1CnWS6yDaTY8w)(2016-09-14)
+* 副刊 - [努力型学霸的时光](https://mp.weixin.qq.com/s/Ov-4998_ncQvlI5SPHFgPQ)(2016-09-29)
+* 新年献词 - [在众声喧哗的时代依然选择求真](https://mp.weixin.qq.com/s/O0QQZXeMGcLWI6nZF5Wsjg)(2017-01-01)
+* 见字如晤 - [给尧先生的一封信](https://mp.weixin.qq.com/s/l5w1ZnMGy_htRMvnF5UAaA)(2017-04-27)
+* 新年献词 - [新时代，青年当仁不让](https://mp.weixin.qq.com/s/gYnEzTDIXPLE4poXtZOPsw)(2018-01-01)
 
 
 
