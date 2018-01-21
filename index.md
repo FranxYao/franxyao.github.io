@@ -18,7 +18,7 @@ I joint Toutiao AI Lab from December 2017 as a Natural Language Understanding Re
 
 ### PROJECTS
 
-* Music Generation with Sentence Level Semantics
+* Music Generation with Sentence Level Semantics (Current)
 
   * Background knowledge of music, and Midi File format. 
   * StyleNet for performance generation. 
