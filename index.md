@@ -40,14 +40,6 @@ I joint Toutiao AI Lab from December 2017 as a Natural Language Understanding Re
   
 * [Energy-efficient Drone Motion Tracking](https://github.com/Francix/Drone-Motion-Tracking)
   * An energy-efficiency tracking system with low latency for embedded system. 
-  
-----
-
-### OTHERS
-
-[application vedio for CMU](https://francix.github.io/CMU_vedio)
-
-Mysterious Naming: "Fu Yao" or "Yao Fu"? why a "Francis" before "Fu Yao"? 
 
 -----
 
@@ -73,7 +65,7 @@ In addition to my major in computer science, I am minor in business administrati
 
 ### FRANCIS AS AN EDITOR AT PKU YOUTH
 
-The following content will be in Chinese.
+Articles I published in _PKU Youth_. The following content will be in Chinese.
 
 我在北青发表/ 参与过的文章合集
 
@@ -86,6 +78,13 @@ The following content will be in Chinese.
 * 见字如晤 - [给尧先生的一封信](https://mp.weixin.qq.com/s/l5w1ZnMGy_htRMvnF5UAaA)(2017-04-27)
 * 新年献词 - [新时代，青年当仁不让](https://mp.weixin.qq.com/s/gYnEzTDIXPLE4poXtZOPsw)(2018-01-01)
 
+----
+
+### OTHERS
+
+[application video for CMU](https://francix.github.io/CMU_vedio)
+
+Mysterious Naming: "Fu Yao" or "Yao Fu"? why a "Francis" before "Fu Yao"? 
 
 
 
