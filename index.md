@@ -12,6 +12,8 @@ My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
 
 ### UPDATES
 
+I did a survey about Memory Networks at Toutiao AI Lab. [EN](https://francix.github.io/MemNN-Fuyao-EN.html), [CN](https://francix.github.io/MemNN-Fuyao-CN.html)
+
 I joint Toutiao AI Lab from December 2017 as a Natural Language Understanding Research Intern. My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. We are now focusing on sentence level models for music composition. 
 
 -----
