@@ -12,7 +12,7 @@ My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
 
 ### UPDATES
 
-An [introduction](https://francix.github.io/MemNN-Fuyao-EN.html)([CN](https://francix.github.io/MemNN-Fuyao-CN.html)) ([EN pdf](https://francix.github.io/MemNN-Fuyao-EN.pdf), [CN pdf](https://francix.github.io/MemNN-Fuyao-CN.pdf)) about Memory Networks at Toutiao AI Lab. 
+I gave an [introduction](https://francix.github.io/MemNN-Fuyao-EN.html)([CN](https://francix.github.io/MemNN-Fuyao-CN.html)) ([EN pdf](https://francix.github.io/MemNN-Fuyao-EN.pdf), [CN pdf](https://francix.github.io/MemNN-Fuyao-CN.pdf)) about Memory Networks at Toutiao AI Lab. My summer research is closely related to the memory networks. In this tutorial, I discussed multiple variants of attention mechanisms, and clarified the differences between matching based machine reading and reasoning based machine reading. 
 
 I joint Toutiao AI Lab from December 2017 as a Natural Language Understanding Research Intern. My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. We are now focusing on sentence level models for music composition. 
 
