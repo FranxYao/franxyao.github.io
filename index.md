@@ -12,10 +12,10 @@ My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
 
 ### UPDATES
 
-* Feb 15 2018, Our paper _Natural Answer Generation with Heterogeneous Memory_ is accepted by NAACL-HLT 2018! 
+* Feb 15 2018, Our paper _Natural Answer Generation with Heterogeneous Memory_ is accepted by NAACL-HLT 2018!  
 
- - This is a QA system aims to compose answer words into sentences. Given a question, the system is able to read the question, find answer words from information of different sources, compose these words into sentences with related information in the memory.
- - This work in my summer research project under supervision of Professor [Yansong Feng](https://sites.google.com/site/ysfeng/home)
+  * This is a QA system aims to compose answer words into sentences. Given a question, the system is able to read the question, find answer words from information of different sources, compose these words into sentences with related information in the memory.
+  * This work is my summer research project under supervision of Professor [Yansong Feng](https://sites.google.com/site/ysfeng/home)
 
 * Feb 05 2018, I gave an [introduction](https://francix.github.io/MemNN-Fuyao-EN.html)([CN](https://francix.github.io/MemNN-Fuyao-CN.html)) ([EN pdf](https://francix.github.io/MemNN-Fuyao-EN.pdf), [CN pdf](https://francix.github.io/MemNN-Fuyao-CN.pdf)) about Memory Networks at Toutiao AI Lab. 
 
