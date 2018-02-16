@@ -6,7 +6,7 @@ Francis Fu Yao 符尧 is an undergraduate research student at Peking University.
 
 My research interests are Natural Language Processing, particularly sentence level semantics, and Machine Learning. I am an editor and writer at _PKU Youth_, the largest student organized media in China, and this is why I do NLP! I like reading, writing, traveling and photography. I am also interested in Startups and [Innovation industries in China](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf). 
 
-My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
+My [CV](https://francix.github.io/images/CV_FrancisYao.pdf)
 
 -----
 
@@ -36,6 +36,11 @@ My [CV](https://francix.github.io/images/CV_FrancisYao20180112.pdf)
   * StyleNet for performance generation. 
   * StyleNet Language Model for music composition. 
   * StyleNet Variantional Inference for music composition conditioned on latent variables. 
+  
+* Natural Answer Generation with Heterogeneous Memory
+
+  * A QA system aims to compose answer words into sentences with information enrichment. 
+  * Publication: Yao Fu and Yansong Feng, _Natural Answer Generation with Heterogeneous Memory_, to appear in NAACL-HLT 2018. 
 
 * [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
 
@@ -94,9 +99,7 @@ Articles I published in _PKU Youth_. The following content will be in Chinese.
 
 ### OTHERS
 
-[application video for CMU](https://francix.github.io/CMU_vedio)
-
-Mysterious Naming: "Fu Yao" or "Yao Fu"? why a "Francis" before "Fu Yao"? 
+* Mysterious Naming: "Fu Yao" or "Yao Fu"? why a "Francis" before "Fu Yao"? 
 
 
 
