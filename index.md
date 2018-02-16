@@ -6,7 +6,7 @@ Francis Fu Yao 符尧 is an undergraduate research student at Peking University.
 
 My research interests are Natural Language Processing, particularly sentence level semantics, and Machine Learning. I am an editor and writer at _PKU Youth_, the largest student organized media in China, and this is why I do NLP! I like reading, writing, traveling and photography. I am also interested in Startups and [Innovation industries in China](https://francix.github.io/images/the%20chinese%20innovation%20industry.pdf). 
 
-My [CV](https://francix.github.io/images/CV_FrancisYao.pdf)
+My [CV](https://francix.github.io/CV_FrancisYao.pdf)
 
 -----
 
