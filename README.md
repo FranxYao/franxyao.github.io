@@ -8,5 +8,5 @@ This is the project of Yao's blog. Below are some articles:
 * [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) - A tutorial on RNN, best for people who knows it, but want some more in-depth discussion. 
 
 Articles in Chinese:
-* [音乐生成模型综述](https://francix.github.io/MusicGeneration.html) - 讨论了音乐的不同表示方法，音乐的直观特征
-* [Long-term Dependency and Global Coherence in RNNs](https://francix.github.io/MusicGeneration.html) - 接着上一篇博客，讨论了关于长时间依赖的一些方法论
+* [音乐生成模型综述(Generations models for music)](https://francix.github.io/MusicGeneration.html) - 讨论了音乐的不同表示方法，音乐的直观特征 discussed different representation for music, and the intuitive features of music
+* [Long-term Dependency and Global Coherence in RNNs](https://francix.github.io/MusicGeneration.html) - 接着上一篇博客，讨论了关于长时间依赖的一些方法论 Continued from the music blog, discussed methods and thoughts about long-term dependency.
