@@ -9,4 +9,4 @@ This is the project of Yao's blog. Below are some articles:
 
 Articles in Chinese:
 * [音乐生成模型综述(Generations models for music)](https://francix.github.io/MusicGeneration.html) - 讨论了音乐的不同表示方法，音乐的直观特征 discussed different representation for music, and the intuitive features of music
-* [Long-term Dependency and Global Coherence in RNNs](https://francix.github.io/MusicGeneration.html) - 接着上一篇博客，讨论了关于长时间依赖的一些方法论 Continued from the music blog, discussed methods and thoughts about long-term dependency.
+* [Long-term Dependency and Global Coherence in RNNs](https://francix.github.io/Long-term-Dependency.html) - 接着上一篇博客，讨论了关于长时间依赖的一些方法论 Continued from the music blog, discussed methods and thoughts about long-term dependency.
