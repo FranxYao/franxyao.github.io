@@ -18,13 +18,13 @@ I am interested in the interaction between the machine and the world. This inclu
   * This is [a QA system aims to compose answer words into sentences](https://francix.github.io/NaturalAnswer.html). Given a question, the system is able to read the question, find answer words from information of different sources, compose these words into sentences with related information in the memory.
   * This work is my summer research project under supervision of Professor [Yansong Feng](https://sites.google.com/site/ysfeng/home)
 
-* Feb 05 2018, I gave an [introduction](https://francix.github.io/MemNN-Fuyao-EN.html)([CN](https://francix.github.io/MemNN-Fuyao-CN.html)) ([EN pdf](https://francix.github.io/MemNN-Fuyao-EN.pdf), [CN pdf](https://francix.github.io/MemNN-Fuyao-CN.pdf)) about Memory Networks at Toutiao AI Lab. 
+* Feb 05 2018, I gave an [introduction](https://francix.github.io/MemNN-Fuyao-EN.html)([CN](https://francix.github.io/MemNN-Fuyao-CN.html)) ([EN pdf](https://francix.github.io/MemNN-Fuyao-EN.pdf), [CN pdf](https://francix.github.io/MemNN-Fuyao-CN.pdf)) about Memory Networks at Bytedance AI Lab. 
 
   - My summer research in 2017 is closely related to the memory networks. In this tutorial, I discussed multiple variants of attention mechanisms, and clarified the differences between matching based machine reading and reasoning based machine reading. 
 
 * Dec 18 2017, I joint Bytedance AI Lab from December 2017 as a Natural Language Understanding Research Intern. 
 
-  - My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Toutiao AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
+  - My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Bytedance AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
   - We are now focusing on sentence level models for music composition. 
 
 -----
