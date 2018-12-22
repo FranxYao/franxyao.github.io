@@ -11,7 +11,7 @@ I am interested in the interaction between the machine and the world. This inclu
 
 ### UPDATES
 
-* Dec 22 2018. I will be joining Tencent AI Lab, Seattle in the Summer of 2019. 
+* Dec 22 2018. I will be joining Tencent AI Lab, Seattle in the Summer of 2019 as a NLP research intern. 
 
 * Feb 15 2018, Our paper [Natural Answer Generation with Heterogeneous Memory](https://francix.github.io/NaturalAnswerGeneration.pdf) is accepted by NAACL-HLT 2018!  
 
