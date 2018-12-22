@@ -33,8 +33,8 @@ I am interested in the interaction between the machine and the world. This inclu
 
 * Text Style Transfer In-depth
 
- * What is the determinant of the class of a sentence. 
- * What are the underlying assumptions of state-of-the-art text style transfer systems. 
+  * What is the determinant of the class of a sentence. 
+  * What are the underlying assumptions of state-of-the-art text style transfer systems. 
 
 * Music Generation with Sentence Level Semantics (Current)
 
