@@ -36,12 +36,13 @@ This includes how the machine shall learn the world through knowledge reprensent
 
 ### PROJECTS
 
-* Text Style Transfer In-depth
+* Text Style Transfer In-depth (in submission)
 
-  * What is the determinant of the class of a sentence. 
-  * What are the underlying assumptions of state-of-the-art text style transfer systems. 
+  * Study the determinant of the class of a sentence. 
+  * Analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
+  * Study the one-to-many transfer problem. 
 
-* Music Generation with Sentence Level Semantics (Current)
+* Music Generation with Sentence Level Semantics
 
   * Background knowledge of music, and Midi File format. 
   * StyleNet for performance generation. 
