@@ -16,6 +16,8 @@ This includes how the machine shall learn the world through knowledge reprensent
 
 * Dec 22 2018. I will be joining Tencent AI Lab, Seattle in the Summer of 2019 as a NLP research intern. 
 
+* Sep 15 2018. I start an Emotional Speech Analysis project at the Columbia Speech Lab, under supervision from professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). 
+
 * Feb 15 2018, Our paper [Natural Answer Generation with Heterogeneous Memory](https://francix.github.io/NaturalAnswerGeneration.pdf) is accepted by NAACL-HLT 2018!  
 
   * This is [a QA system aims to compose answer words into sentences](https://francix.github.io/NaturalAnswer.html). Given a question, the system is able to read the question, find answer words from information of different sources, compose these words into sentences with related information in the memory.
