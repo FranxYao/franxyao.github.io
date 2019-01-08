@@ -2,10 +2,13 @@
 
 ### BIO
 
-Yao Francis Fu 符尧 is an MS. student at Columbia University. 
+Yao Francis Fu 符尧 
 
-My research interests focus on Natural Language Understanding, particularly sentence level semantics. 
-I am interested in the interaction between the machine and the world. This includes how the machine shall learn the world through knowledge reprensentation (Knowledge Graphs), how the machine may understand the world through language (Language Understanding), and how to perform meaningful interaction (Question Answering, Sentence Generation). 
+I am an MS. student at Columbia University. 
+
+I am interested in the interaction between the machine and the world through Natural Language. 
+Natural Language Understanding is an essential step to achieve this goal, particularly at sentence level semantics. 
+This includes how the machine shall learn the world through knowledge reprensentation (Knowledge Graphs), how the machine may understand the world through language (Language Understanding), and how to perform meaningful interaction (Question Answering, Sentence Generation). 
 
 -----
 
