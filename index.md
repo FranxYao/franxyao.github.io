@@ -18,7 +18,7 @@ This includes how the machine shall learn the world through knowledge reprensent
 
 * Sep 15 2018. I did an Emotional Speech Analysis project at the Columbia Speech Lab, under supervision from professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). 
 
-  * See the blog about this project, and the [final report](https://francix.github.io/blog/FinalReport.pdf)
+  * See the [blog about this project](Francix.github.io/blog/Attempts on the Emotional Speech Generation.html).
 
 * Feb 15 2018, Our paper [Natural Answer Generation with Heterogeneous Memory](https://francix.github.io/NaturalAnswerGeneration.pdf) is accepted by NAACL-HLT 2018!  
 
