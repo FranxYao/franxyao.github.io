@@ -47,10 +47,11 @@ This includes how the machine shall learn the world through knowledge reprensent
 
 * Music Generation with Sentence Level Semantics
 
-  * Background knowledge of music, and Midi File format. 
+  * Background knowledge of music, and Midi File format. [The blog](https://francix.github.io/MusicGeneration.html) (in Chinese) 
   * StyleNet for performance generation. 
   * StyleNet Language Model for music composition. 
   * StyleNet Variantional Inference for music composition conditioned on latent variables. 
+  * Discussion on [the Long Term Dependency on music](https://francix.github.io/Long-term-Dependency.html)
   
 * Natural Answer Generation with Heterogeneous Memory
 
@@ -69,9 +70,6 @@ This includes how the machine shall learn the world through knowledge reprensent
   * Under Dyvia's supervision, I extended the algorithm into a dynamic version. 
   * Now it is being applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
   * Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
-  
-* [Energy-efficient Drone Motion Tracking](https://github.com/Francix/Drone-Motion-Tracking)
-  * An energy-efficiency tracking system with low latency for embedded system. 
 
 -----
 
