@@ -10,6 +10,8 @@ I am interested in the interaction between the machine and the world through Nat
 Natural Language Understanding is an essential step to achieve this goal, particularly at sentence level semantics. 
 This includes how the machine shall learn the world through knowledge reprensentation (Knowledge Graphs), how the machine may understand the world through language (Language Understanding), and how to perform meaningful interaction (Question Answering, Sentence Generation). 
 
+Beside research, I love photography in my spare time. Follow [my ins](https://www.instagram.com/franx_yao/)! 
+
 -----
 
 ### UPDATES
