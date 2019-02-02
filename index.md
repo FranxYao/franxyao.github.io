@@ -16,8 +16,6 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 
 ### UPDATES
 
-* Dec 22 2018. I will be joining Tencent AI Lab, Seattle in the Summer of 2019 as an NLP research intern. 
-
 * Sep 15 2018. I did an Emotional Speech Analysis project at the Columbia Speech Lab, under supervision from professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). 
 
   * See the [blog about this project](https://Francix.github.io/blog/Attempts-on-the-Emotional-Speech-Generation).
