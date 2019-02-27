@@ -19,7 +19,6 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 * Sep 15 2018. I did an Emotional Speech Analysis project at the Columbia Speech Lab, under supervision from professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). 
 
   * See the [blog about this project](https://Francix.github.io/blog/Attempts-on-the-Emotional-Speech-Generation).
-  * An additional post during this project is the analysis of the VAE objective function: [Everything within the VAE ELBO loss function](https://francix.github.io/blog/Everything%20within%20the%20VAE%20ELBO%20loss%20function.html)
 
 * Feb 15 2018, Our paper [Natural Answer Generation with Heterogeneous Memory](https://francix.github.io/NaturalAnswerGeneration.pdf) is accepted by NAACL-HLT 2018!  
 
