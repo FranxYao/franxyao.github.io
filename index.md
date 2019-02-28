@@ -37,19 +37,19 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 -----
 
 ### PROJECTS
-* Assessing the BERT Language Model pretraining influence on text generation tasks. (in submission)
+* Assessing the BERT Language Model pretraining influence on text generation tasks. (in submission). Dec 18 - 
 
   * The recent BERT model use a Maskded-LM Pretraining method to improve the classification/ structural prediction performance significantly, how will it influence text generation tasks? 
   * We study the BERT pre-training methods, as well as other pre-training methods for text generation. 
   * We find out that the BERT-style Masked LM CANNOT really increase the generation performance, but the left-to-right LM can. 
 
-* Text Style Transfer In-depth (in submission)
+* Text Style Transfer In-depth (in submission). Mar 18 - Dec 18 
 
   * Text style transfer is recently a hot topic in NLP, but few have examined what determines the style and what is changed during the transfer.
   * We analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
   * We study the one-to-many transfer problem and show how it brings new challenges to the existing binary transfer. 
 
-* Music Generation with Sentence Level Semantics
+* Music Generation with Sentence Level Semantics. Dec 18 - Mar 18 
 
   * Background knowledge of music, and Midi File format. [The blog](https://francix.github.io/MusicGeneration.html) (in Chinese) 
   * StyleNet for performance generation. 
@@ -57,16 +57,16 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
   * StyleNet Variantional Inference for music composition conditioned on latent variables. 
   * Discussion on [the Long Term Dependency on music](https://francix.github.io/Long-term-Dependency.html)
   
-* Natural Answer Generation with Heterogeneous Memory
+* Natural Answer Generation with Heterogeneous Memory. Jul 17 - Dec 17 
 
   * A QA system aims to compose answer words into sentences with information enrichment. 
   * Publication: Yao Fu and Yansong Feng, _Natural Answer Generation with Heterogeneous Memory_, to appear in NAACL-HLT 2018. 
 
-* [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf) 
+* [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf). May 17 
 
   * I gave this tutorial to new undergraduate research students in [Guangyu Sun](http://ceca.pku.edu.cn/en/team.php?action=show&member_id=15)'s (my former supervisor) Deep Learning Group at [Centre of Energy-efficiency Computing and Application](http://ceca.pku.edu.cn/en/) (CECA). In this tutorial, I covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
 
-* [Scheduling and routing models for food rescue and delivery operations](https://github.com/Francix/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master).
+* [Scheduling and routing models for food rescue and delivery operations](https://github.com/Francix/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master). Mar 16 - Dec 16
 
   * This project was finished during my exchange in University of New South Wales, Australia. 
   * It was a scheduling and routing model for food rescue (i.e. deliver foods to people in need) traffic distribution networks. 
