@@ -37,7 +37,7 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 -----
 
 ### PROJECTS
-* Assessing the BERT Language Model pretraining influence for text generation tasks. (in submission)
+* Assessing the BERT Language Model pretraining influence on text generation tasks. (in submission)
 
   * The recent BERT model use a Maskded-LM Pretraining method to improve the classification/ structural prediction performance significantly, how will it influence text generation tasks? 
   * We study the BERT pre-training methods, as well as other pre-training methods for text generation. 
