@@ -37,12 +37,17 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 -----
 
 ### PROJECTS
+* Assessing the BERT Language Model pretraining influence for text generation tasks. (in submission)
+
+  * The recent BERT model use a Maskded-LM Pretraining method to improve the classification/ structural prediction performance significantly, how will it influence text generation tasks? 
+  * We study the BERT pre-training methods, as well as other pre-training methods for text generation. 
+  * We find out that the BERT-style Masked LM CANNOT really increase the generation performance, but the left-to-right LM can. 
 
 * Text Style Transfer In-depth (in submission)
 
-  * Study the determinant of the class of a sentence. 
-  * Analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
-  * Study the one-to-many transfer problem. 
+  * Text style transfer is recently a hot topic in NLP, but few have examined what determines the style and what is changed during the transfer.
+  * We analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
+  * We study the one-to-many transfer problem and show how it brings new challenges to the existing binary transfer. 
 
 * Music Generation with Sentence Level Semantics
 
