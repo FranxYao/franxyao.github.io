@@ -42,6 +42,7 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
   * The recent BERT model use a Maskded-LM Pretraining method to improve the classification/ structural prediction performance significantly, how will it influence text generation tasks? 
   * We study the BERT pre-training methods, as well as other pre-training methods for text generation. 
   * We find out that the BERT-style Masked LM CANNOT really increase the generation performance, but the left-to-right LM can. 
+  * In extreme scenarios where we only have 1K labeled instances, all models withou pre-training failed (2+ BLEU) because such small amount of data simply cannot support a neural generation model. However, if we initialize the model with a pre-trained LM, the model can still perform relatively well (17+ BLEU)
 
 * Text Style Transfer In-depth (in submission). Mar 18 - Dec 18 
 
