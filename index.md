@@ -29,11 +29,6 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 
   - My summer research in 2017 is closely related to the memory networks. In this tutorial, I discussed multiple variants of attention mechanisms, and clarified the differences between matching based machine reading and reasoning based machine reading. 
 
-* Dec 18 2017, I joint Bytedance AI Lab from December 2017 as a Natural Language Understanding Research Intern. 
-
-  - My mentor is [Lei Li](http://www.cs.cmu.edu/~./leili/), director of Bytedance AI Lab, and former Principal Research Scientist at Baidu's Institute of Deep Learning. 
-  - We are now focusing on sentence level models for music composition. 
-
 -----
 
 ### PROJECTS
