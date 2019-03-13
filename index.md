@@ -37,6 +37,8 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 -----
 
 ### PROJECTS
+* Modeling text diversity through stochasticity. (Feb 19 - )
+
 * Assessing the BERT Language Model pretraining influence on text generation tasks. (in submission). Dec 18 - 
 
   * The recent BERT model use a Maskded-LM Pretraining method to improve the classification/ structural prediction performance significantly, how will it influence text generation tasks? 
