@@ -12,7 +12,7 @@ This includes how the machine shall learn the world through knowledge reprensent
 
 In terms of specific topics, I am interested in 
 * Text generation
-* Bayesian probablistic modeling
+* Bayesian probablistic modeling, Representation Learning
 * Interpretability 
 
 Beside research, I love photography in my spare time. Follow [my ins](https://www.instagram.com/franx_yao/)! 
