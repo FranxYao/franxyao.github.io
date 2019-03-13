@@ -6,9 +6,14 @@ Yao Francis Fu 符尧
 
 I am an MS. student at Columbia University. 
 
-I am interested in the interaction between the machine and the world through Natural Language. 
-Natural Language Understanding is an essential step to achieve this goal, particularly at sentence level semantics. 
-This includes how the machine shall learn the world through knowledge reprensentation (Knowledge Graphs), how the machine may understand the world through language (Language Understanding), and how to perform meaningful interaction (Question Answering, Sentence Generation). 
+Generally, I am interested in the interaction between the machine and the world through Natural Language. 
+Natural Language Understanding is an essential step to achieve this goal, particularly and practically at sentence level. 
+This includes how the machine shall learn the world through knowledge reprensentation (Knowledge Graphs), how the machine may understand the world through language (Language Understanding), and how to perform meaningful interaction (Sentence Generation). 
+
+In terms of specific topics, I am interested in 
+* Text generation
+* Bayesian probablistic modeling
+* Interpretability 
 
 Beside research, I love photography in my spare time. Follow [my ins](https://www.instagram.com/franx_yao/)! 
 
