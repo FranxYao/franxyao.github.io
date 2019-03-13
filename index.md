@@ -37,7 +37,9 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 -----
 
 ### PROJECTS
-* Modeling text diversity through stochasticity. (Feb 19 - )
+* Modeling text diversity through stochasticity. (Current)
+
+  * [Columbia Stats Deep Generative Models](http://stat.columbia.edu/~cunningham/teaching/GR8201/), advised by prof. John Cunningham. course project. 
 
 * Assessing the BERT Language Model pretraining influence on text generation tasks. (in submission). Dec 18 - 
 
