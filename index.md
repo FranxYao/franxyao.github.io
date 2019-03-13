@@ -54,7 +54,7 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
   * We analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
   * We study the one-to-many transfer problem and show how it brings new challenges to the existing binary transfer. 
 
-* Music Generation with Sentence Level Semantics. Dec 18 - Mar 18 
+* Music Sequence Generation. Dec 18 - Mar 18 
 
   * Background knowledge of music, and Midi File format. [The blog](https://francix.github.io/MusicGeneration.html) (in Chinese) 
   * StyleNet for performance generation. 
