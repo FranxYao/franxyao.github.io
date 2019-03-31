@@ -4,16 +4,18 @@
 
 Yao Francis Fu 符尧 
 
-I am an MS. student at Columbia University. 
+I am an MSCS student at Columbia University. 
 
-Generally, I am interested in the interaction between the machine and the world through Natural Language. 
+Generally, I am interested in the interaction between the machine and the world through Human Language. 
 Natural Language Understanding is an essential step to achieve this goal, particularly and practically at sentence level. 
-This includes how the machine shall learn the world through knowledge reprensentation (Knowledge Graphs), how the machine may understand the world through language (Language Understanding), and how to perform meaningful interaction (Sentence Generation). 
+This includes how the machine shall learn the world through knowledge reprensentation, how the machine may understand the world through language understanding, and how to perform meaningful interaction through language generation. 
 
 In terms of specific topics, I am interested in 
-* Text generation
-* Bayesian probablistic modeling, Representation Learning
-* Interpretability 
+* Text Generation, Knowledge Representation Learning
+* Bayesian Probablistic Modeling, Generative Models
+* Model Interpretability 
+
+During my MS study at Columbia, between ML and NLP, I focus more on the ML side. Recently I am particularly interested in Deep Generative Models and Causal Inference for NLP. I will switch back to the NLP side in my Ph.D. study. 
 
 Beside research, I love photography in my spare time. Follow [my ins](https://www.instagram.com/franx_yao/)! 
 
