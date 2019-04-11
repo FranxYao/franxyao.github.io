@@ -1,4 +1,8 @@
-## Hi there
+### Bayesian's Creed
+
+Never let your shallow understanding override the truth of the world.
+
+But, fight for your deepest belief no mater what the world is. 
 
 ### BIO
 
