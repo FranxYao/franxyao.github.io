@@ -1,4 +1,3 @@
-![img](https://francix.github.io/images/WechatIMG1022.png)
 
 ### Bayesian's Creed
 
