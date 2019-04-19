@@ -1,3 +1,5 @@
+[img](https://francix.github.io/images/WechatIMG1022.png)
+
 ### Bayesian's Creed
 
 Never let your shallow understanding override the truth of the world.
