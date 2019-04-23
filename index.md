@@ -20,6 +20,10 @@ In terms of specific topics, I am interested in
 * Bayesian Probablistic Modeling, Deep Generative Models
 * Causality in Text, Model Interpretability 
 
+I am also maintaining the reading lists about:
+* Deep Generative Models for Natural Language Processing. ([link](https://github.com/Francix/Deep-Generative-Models-for-Natural-Language-Processing))
+* Language Model Pretraining for Text Generation ([link](https://github.com/Francix/Language-Model-Pretraining-for-Text-Generation))
+
 During my MS study at Columbia, between ML and NLP, I focus more on the ML side. Recently I am particularly interested in [Deep Generative Models](http://stat.columbia.edu/~cunningham/teaching/GR8201/) and [Causal Inference for NLP](https://arxiv.org/abs/1802.02163). I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
 
 Beside research, I love photography in my spare time. Follow [my ins](https://www.instagram.com/franx_yao/)! 
