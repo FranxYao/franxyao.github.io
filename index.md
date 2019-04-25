@@ -33,7 +33,7 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 
 ### UPDATES
 
-* Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/Francix/Deep-Generative-Models-for-Natural-Language-Processing). This is my reading list in the Columbia DGM seminar class, and I gave a detailed presentation about the [Adversarially Regularizaed Autoencoder paper](https://francix.github.io/blog/annotated_arae.pdf). 
+* Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/Francix/Deep-Generative-Models-for-Natural-Language-Processing). This is my reading list in the Columbia DGM seminar class, and I gave a detailed presentation about the [Adversarially Regularizaed Autoencoder paper](https://francix.github.io/blog/annotated_arae.html). 
 
 * Sep 15 2018. I did an Emotional Speech Analysis project at the Columbia Speech Lab, under supervision from professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). 
 
