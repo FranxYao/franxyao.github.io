@@ -1,4 +1,6 @@
 
+![](https://github.com/Francix/images.Empire State Building-1.jpg)
+
 ### Bayesian's Creed
 
 Never let your shallow understanding override the truth of the world.
