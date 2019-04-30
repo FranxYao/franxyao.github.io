@@ -1,5 +1,5 @@
 
-![](https://francix.github.io/images//images/ESB.jpg)
+![](https://francix.github.io/images/ESB.jpg)
 
 ### Bayesian's Creed
 
