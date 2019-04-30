@@ -16,4 +16,4 @@ But for open ended tasks like dialog (especially chit chat), data to text, visua
 
 In the talk I gave at Interactions, I discussed how the challenges transfer from close ended generation to open ended generation, why the decoder is playing central role in this task, and what are the evaluation considerations when matching based evaluation is no longer reliable. 
 
-Here is a link to the slides. 
+Here is a [link](https://francix.github.io/blog/yaofu_NLG.pdf) to the slides. 
