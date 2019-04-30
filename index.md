@@ -33,7 +33,7 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 
 ### UPDATES
 
-* Apr 29 2019. I gave a talk about [table to text generation and evaluation](https://francix.github.io/blog/on_text_generation_evaluation.md) at [Interactios](https://www.interactions.com/). 
+* Apr 29 2019. I gave a talk about [table to text generation and evaluation](https://francix.github.io/blog/on_text_generation_evaluation) at [Interactios](https://www.interactions.com/). 
 
 * Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/Francix/Deep-Generative-Models-for-Natural-Language-Processing). This is my reading list in the Columbia DGM seminar class, and I gave a detailed presentation about the [Adversarially Regularizaed Autoencoder paper](https://francix.github.io/blog/annotated_arae.pdf). 
 
