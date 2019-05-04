@@ -55,9 +55,9 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 -----
 
 ### PROJECTS
-* Modeling text diversity through stochasticity. (Current)
+* Paraphrase Generation with Latent Bag of Words. (Current)
 
-  * [Columbia Stats Deep Generative Models](http://stat.columbia.edu/~cunningham/teaching/GR8201/), advised by prof. John Cunningham. course project. 
+  * [Columbia Stats Deep Generative Models seminar](http://stat.columbia.edu/~cunningham/teaching/GR8201/), advised by prof. John Cunningham. course project. 
 
 * Assessing the BERT Language Model pretraining influence on text generation tasks. (in submission). Dec 18 - 
 
@@ -66,28 +66,16 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
   * We find out that the BERT-style Masked LM CANNOT really increase the generation performance, but the left-to-right LM can. 
   * In extreme scenarios where we only have 1K labeled instances, all models withou pre-training failed (2+ BLEU) because such small amount of data simply cannot support a neural generation model. However, if we initialize the model with a pre-trained LM, the model can still perform relatively well (17+ BLEU)
 
-* Text Style Transfer In-depth (in submission). Mar 18 - Dec 18 
+* Text Style Transfer In-depth (current). Mar 18 - Dec 18 
 
   * Text style transfer is recently a hot topic in NLP, but few have examined what determines the style and what is changed during the transfer.
   * We analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
   * We study the one-to-many transfer problem and show how it brings new challenges to the existing binary transfer. 
-
-* Music Sequence Generation. Dec 18 - Mar 18 
-
-  * Background knowledge of music, and Midi File format. [The blog](https://francix.github.io/MusicGeneration.html) (in Chinese) 
-  * StyleNet for performance generation. 
-  * StyleNet Language Model for music composition. 
-  * StyleNet Variantional Inference for music composition conditioned on latent variables. 
-  * Discussion on [the Long Term Dependency on music](https://francix.github.io/Long-term-Dependency.html)
   
 * Natural Answer Generation with Heterogeneous Memory. Jul 17 - Dec 17 
 
   * A QA system aims to compose answer words into sentences with information enrichment. 
   * Publication: Yao Fu and Yansong Feng, _Natural Answer Generation with Heterogeneous Memory_, to appear in NAACL-HLT 2018. 
-
-* [Recurrent Neural Network from Scratch](https://francix.github.io/images/RNNfromScratch_fuyao.pdf). May 17 
-
-  * I gave this tutorial to new undergraduate research students in [Guangyu Sun](http://ceca.pku.edu.cn/en/team.php?action=show&member_id=15)'s (my former supervisor) Deep Learning Group at [Centre of Energy-efficiency Computing and Application](http://ceca.pku.edu.cn/en/) (CECA). In this tutorial, I covered the story from vanilla RNN to LSTM seq2seq with attention mechanism.
 
 * [Scheduling and routing models for food rescue and delivery operations](https://github.com/Francix/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master). Mar 16 - Dec 16
 
@@ -97,6 +85,12 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
   * Under Dyvia's supervision, I extended the algorithm into a dynamic version. 
   * Now it is being applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
   * Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
+  
+-----
+
+### Teaching 
+
+* [Columbia COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 19 Spring, Course Assistant. Tought by prof. Andreas Muller. 
 
 -----
 
