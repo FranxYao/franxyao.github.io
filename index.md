@@ -1,7 +1,7 @@
 
 ![](https://francix.github.io/images/ESB.jpg)
 
-### Bayesian's Creed
+### The Bayesian's Creed
 
 Never let your shallow understanding override the truth of the world.
 
@@ -11,23 +11,22 @@ But, fight for your deepest belief no mater what the world is.
 
 Yao Francis Fu 符尧 
 
-I am an MSCS student at Columbia University. I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student
+I am an MSCS student at Columbia University. I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. 
 
 Generally, I am interested in the interaction between the machine and the world through Human Language. 
-Natural Language Understanding is an essential step to achieve this goal, particularly and practically at sentence level. 
-This includes how the machine shall learn the world through knowledge reprensentation, how the machine may understand the world through language understanding, and how to perform meaningful interaction through language generation. 
+Natural Language Understanding is an essential step to achieve this goal. 
+This includes how the machine shall learn the world through discrete knowledge reprensentation, how the machine may understand the world through language understanding, and how to perform meaningful interactions through language generation. 
 
 In terms of specific topics, I am interested in 
-* [Text Generation](https://francix.github.io/blog/yaofu_NLG.pdf), Knowledge Representation Learning
-* Bayesian Probablistic Modeling, Deep Generative Models
-* Causality in Text, Model Interpretability 
+* [Text Generation](https://francix.github.io/blog/yaofu_NLG.pdf), Structural Knowledge Representation Learning
+* Deep Generative Models with Discrete Latent Variables
+* Model Transparency, Interpretability, and Controllability
 
 I am also maintaining the reading lists about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/Francix/Deep-Generative-Models-for-Natural-Language-Processing))
-* Language Model Pretraining for Text Generation ([link](https://github.com/Francix/Language-Model-Pretraining-for-Text-Generation))
-* In my opinion, the two most compelling problems of NLG are (1) decoding and (2) evaluation. I am consistently focusing on this. 
+* Language Model Pretraining for Text Generation ([link](https://github.com/Francix/Language-Model-Pretraining-for-Text-Generation)) 
 
-During my MS study at Columbia, between ML and NLP, I focus more on the ML side. Recently I am particularly interested in [Deep Generative Models](http://stat.columbia.edu/~cunningham/teaching/GR8201/) and [Causal Inference for NLP](https://arxiv.org/abs/1802.02163). I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
+During my MS study at Columbia, between ML and NLP, I focus more on the ML side. Recently I am particularly interested in [Deep Generative Models](http://stat.columbia.edu/~cunningham/teaching/GR8201/). I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
 
 Beside research, I love photography in my spare time. Follow [my ins](https://www.instagram.com/franx_yao/)! 
 
@@ -55,18 +54,11 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 -----
 
 ### PROJECTS
-* Paraphrase Generation with Latent Bag of Words. (Current)
+* Paraphrase Generation with Latent Bag of Words. (In submission)
 
-  * [Columbia Stats Deep Generative Models seminar](http://stat.columbia.edu/~cunningham/teaching/GR8201/), advised by prof. John Cunningham. course project. 
+  * A latent bag of words model with differentiable content planning and surface realization. advised by [prof. John P. Cunningham](https://stat.columbia.edu/~cunningham/).  
 
-* Assessing the BERT Language Model pretraining influence on text generation tasks. (in submission). Dec 18 - 
-
-  * The recent BERT model use a Maskded-LM Pretraining method to improve the classification/ structural prediction performance significantly, how will it influence text generation tasks? 
-  * We study the BERT pre-training methods, as well as other pre-training methods for text generation. 
-  * We find out that the BERT-style Masked LM CANNOT really increase the generation performance, but the left-to-right LM can. 
-  * In extreme scenarios where we only have 1K labeled instances, all models withou pre-training failed (2+ BLEU) because such small amount of data simply cannot support a neural generation model. However, if we initialize the model with a pre-trained LM, the model can still perform relatively well (17+ BLEU)
-
-* Text Style Transfer In-depth (current). Mar 18 - Dec 18 
+* Pivot Analysis: An Lexical Analysis Method for Text Attribute Transfer. (Current) 
 
   * Text style transfer is recently a hot topic in NLP, but few have examined what determines the style and what is changed during the transfer.
   * We analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
@@ -91,6 +83,14 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 ### Teaching 
 
 * [Columbia COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 19 Spring, Course Assistant. Tought by prof. Andreas Muller. 
+
+
+-----
+
+### Experiences
+
+* May 19 -.  Natural Language Processing Research Intern. Tencent AI Lab, Seattle.
+* Dec 17 - Aug 18. Natural Language Processing Research Intern. Bytedance AI Lab, Beijing. 
 
 -----
 
