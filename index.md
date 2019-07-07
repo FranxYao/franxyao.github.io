@@ -7,7 +7,7 @@ Never let your shallow understanding override the truth of the world.
 
 But, fight for your deepest belief no mater what the world is. 
 
-### BIO
+### General
 
 Yao Francis Fu 符尧 
 
@@ -19,7 +19,7 @@ This includes how the machine shall learn the world through discrete knowledge r
 
 In terms of specific topics, I am interested in 
 * [Text Generation](https://francix.github.io/blog/yaofu_NLG.pdf), Structural Knowledge Representation Learning
-* Deep Generative Models with Discrete Latent Variables
+* Deep Generative Models with Discrete Latent Structures
 * Model Transparency, Interpretability, and Controllability
 
 I am also maintaining the reading lists about:
@@ -62,7 +62,6 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 
   * Text style transfer is recently a hot topic in NLP, but few have examined what determines the style and what is changed during the transfer.
   * We analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
-  * We study the one-to-many transfer problem and show how it brings new challenges to the existing binary transfer. 
   
 * Natural Answer Generation with Heterogeneous Memory. Jul 17 - Dec 17 
 
