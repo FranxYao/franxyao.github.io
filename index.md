@@ -1,5 +1,5 @@
 
-![](https://francix.github.io/images/ESB.jpg)
+![](https://franxyao.github.io/images/ESB.jpg)
 
 ### The Bayesian's Creed
 
@@ -18,13 +18,13 @@ Natural Language Understanding is an essential step to achieve this goal.
 This includes how the machine shall learn the world through discrete knowledge reprensentation, how the machine may understand the world through language understanding, and how to perform meaningful interactions through language generation. 
 
 In terms of specific topics, I am interested in 
-* [Text Generation](https://francix.github.io/blog/yaofu_NLG.pdf), Structural Knowledge Representation Learning
+* [Text Generation](https://franxyao.github.io/blog/yaofu_NLG.pdf), Structural Knowledge Representation Learning
 * Deep Generative Models with Discrete Latent Structures
 * Model Transparency, Interpretability, and Controllability
 
 I am also maintaining the reading lists about:
-* Deep Generative Models for Natural Language Processing. ([link](https://github.com/Francix/Deep-Generative-Models-for-Natural-Language-Processing))
-* Language Model Pretraining for Text Generation ([link](https://github.com/Francix/Language-Model-Pretraining-for-Text-Generation)) 
+* Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
+* Language Model Pretraining for Text Generation ([link](https://github.com/franxyao/Language-Model-Pretraining-for-Text-Generation)) 
 
 During my MS study at Columbia, between ML and NLP, I focus more on the ML side. Recently I am particularly interested in [Deep Generative Models](http://stat.columbia.edu/~cunningham/teaching/GR8201/). I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
 
@@ -34,20 +34,20 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 
 ### UPDATES
 
-* Apr 29 2019. I gave a talk about [table to text generation and evaluation](https://francix.github.io/blog/on_text_generation_evaluation) at [Interactions](https://www.interactions.com/). 
+* Apr 29 2019. I gave a talk about [table to text generation and evaluation](https://franxyao.github.io/blog/on_text_generation_evaluation) at [Interactions](https://www.interactions.com/). 
 
-* Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/Francix/Deep-Generative-Models-for-Natural-Language-Processing). This is my reading list in the Columbia DGM seminar class, and I gave a detailed presentation about the [Adversarially Regularizaed Autoencoder paper](https://francix.github.io/blog/annotated_arae.pdf). 
+* Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). This is my reading list in the Columbia DGM seminar class, and I gave a detailed presentation about the [Adversarially Regularizaed Autoencoder paper](https://franxyao.github.io/blog/annotated_arae.pdf). 
 
 * Sep 15 2018. I did an Emotional Speech Analysis project at the Columbia Speech Lab, under supervision from professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). 
 
-  * See the [blog about this project](https://Francix.github.io/blog/Attempts-on-the-Emotional-Speech-Generation).
+  * See the [blog about this project](https://franxyao.github.io/blog/Attempts-on-the-Emotional-Speech-Generation).
 
-* Feb 15 2018, Our paper [Natural Answer Generation with Heterogeneous Memory](https://francix.github.io/NaturalAnswerGeneration.pdf) is accepted by NAACL-HLT 2018!  
+* Feb 15 2018, Our paper [Natural Answer Generation with Heterogeneous Memory](https://franxyao.github.io/NaturalAnswerGeneration.pdf) is accepted by NAACL-HLT 2018!  
 
-  * This is [a QA system aims to compose answer words into sentences](https://francix.github.io/NaturalAnswer.html). Given a question, the system is able to read the question, find answer words from information of different sources, compose these words into sentences with related information in the memory.
+  * This is [a QA system aims to compose answer words into sentences](https://franxyao.github.io/NaturalAnswer.html). Given a question, the system is able to read the question, find answer words from information of different sources, compose these words into sentences with related information in the memory.
   * This work is my summer research project under supervision of Professor [Yansong Feng](https://sites.google.com/site/ysfeng/home)
 
-* Feb 05 2018, I gave an [introduction](https://francix.github.io/MemNN-Fuyao-EN.html)([CN](https://francix.github.io/MemNN-Fuyao-CN.html)) ([EN pdf](https://francix.github.io/MemNN-Fuyao-EN.pdf), [CN pdf](https://francix.github.io/MemNN-Fuyao-CN.pdf)) about Memory Networks at Bytedance AI Lab. 
+* Feb 05 2018, I gave an [introduction](https://franxyao.github.io/MemNN-Fuyao-EN.html)([CN](https://franxyao.github.io/MemNN-Fuyao-CN.html)) ([EN pdf](https://franxyao.github.io/MemNN-Fuyao-EN.pdf), [CN pdf](https://franxyao.github.io/MemNN-Fuyao-CN.pdf)) about Memory Networks at Bytedance AI Lab. 
 
   - My summer research in 2017 is closely related to the memory networks. In this tutorial, I discussed multiple variants of attention mechanisms, and clarified the differences between matching based machine reading and reasoning based machine reading. 
 
@@ -68,7 +68,7 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
   * A QA system aims to compose answer words into sentences with information enrichment. 
   * Publication: Yao Fu and Yansong Feng, _Natural Answer Generation with Heterogeneous Memory_, to appear in NAACL-HLT 2018. 
 
-* [Scheduling and routing models for food rescue and delivery operations](https://github.com/Francix/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master). Mar 16 - Dec 16
+* [Scheduling and routing models for food rescue and delivery operations](https://github.com/franxyao/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master). Mar 16 - Dec 16
 
   * This project was finished during my exchange in University of New South Wales, Australia. 
   * It was a scheduling and routing model for food rescue (i.e. deliver foods to people in need) traffic distribution networks. 
