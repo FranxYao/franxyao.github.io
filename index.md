@@ -3,7 +3,7 @@
 
 ### The Bayesian's Creed
 
-Never let your shallow understanding override the truth of the world.
+Never let your shallow prior understanding override the truth of the world.
 
 But, fight for your deepest belief no mater what the world is. 
 
@@ -15,12 +15,12 @@ I am an MSCS student at Columbia University. I will be coming to University of E
 
 Generally, I am interested in the interaction between the machine and the world through Human Language. 
 Natural Language Understanding is an essential step to achieve this goal. 
-This includes how the machine shall learn the world through discrete knowledge reprensentation, how the machine may understand the world through language understanding, and how to perform meaningful interactions through language generation. 
+This includes how the machine shall learn the world through discrete knowledge reprensentation, how the machine may know the world through language understanding, and how to perform meaningful interactions through language generation. 
 
 In terms of specific topics, I am interested in 
-* [Text Generation](https://franxyao.github.io/blog/yaofu_NLG.pdf), Structural Knowledge Representation Learning
-* Deep Generative Models with Discrete Latent Structures
-* Model Transparency, Interpretability, and Controllability
+* [Text generation](https://franxyao.github.io/blog/yaofu_NLG.pdf), structural knowledge representation learning
+* Deep generative models with discrete variables and continuous relaxation of discrete Structures
+* Model transparency, interpretability, and controllability
 
 I am also maintaining the reading lists about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
@@ -28,7 +28,7 @@ I am also maintaining the reading lists about:
 
 During my MS study at Columbia, between ML and NLP, I focus more on the ML side. Recently I am particularly interested in [Deep Generative Models](http://stat.columbia.edu/~cunningham/teaching/GR8201/). I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
 
-Beside research, I love photography in my spare time. Follow [my ins](https://www.instagram.com/franx_yao/)! 
+Beside research, I love photography. Follow [my ins](https://www.instagram.com/franx_yao/)! 
 
 -----
 
@@ -58,7 +58,7 @@ Beside research, I love photography in my spare time. Follow [my ins](https://ww
 
   * A latent bag of words model with differentiable content planning and surface realization. advised by [prof. John P. Cunningham](https://stat.columbia.edu/~cunningham/).  
 
-* Pivot Analysis: An Lexical Analysis Method for Text Attribute Transfer. (Current) 
+* Pivot Analysis: An Lexical Analysis Method for Text Attribute Transfer. (In submission) 
 
   * Text style transfer is recently a hot topic in NLP, but few have examined what determines the style and what is changed during the transfer.
   * We analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
