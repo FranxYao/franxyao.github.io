@@ -34,6 +34,11 @@ Beside research, I love photography. Follow [my ins](https://www.instagram.com/f
 
 ### UPDATES
 
+* Sep 03 2019. Two papers get accepted!
+
+  * _Paraphrase Generation with Latent Bag of Words_. w. prof. Cunningham at Columbia Stats. To be appear at NeurIPS 2019
+  * _Rethink Text Style Transfer: A Lexical Analysis_. w. Dr. Hao Zhou and Dr. Lei Li at Bytedance AI Lab. To be appear at INLG 2019.
+
 * Apr 29 2019. I gave a talk about [table to text generation and evaluation](https://franxyao.github.io/blog/on_text_generation_evaluation) at [Interactions](https://www.interactions.com/). 
 
 * Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). This is my reading list in the Columbia DGM seminar class, and I gave a detailed presentation about the [Adversarially Regularizaed Autoencoder paper](https://franxyao.github.io/blog/annotated_arae.pdf). 
