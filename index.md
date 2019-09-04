@@ -36,8 +36,8 @@ Beside research, I love photography. Follow [my ins](https://www.instagram.com/f
 
 * Sep 03 2019. Two papers get accepted!
 
-  * _Paraphrase Generation with Latent Bag of Words_. w. prof. Cunningham at Columbia Stats. To be appear at NeurIPS 2019
-  * _Rethink Text Style Transfer: A Lexical Analysis_. w. Dr. Hao Zhou and Dr. Lei Li at Bytedance AI Lab. To be appear at INLG 2019.
+  * _Paraphrase Generation with Latent Bag of Words_. w. prof. Cunningham at Columbia Stats. To appear at NeurIPS 2019
+  * _Rethink Text Style Transfer: A Lexical Analysis_. w. Dr. Hao Zhou and Dr. Lei Li at Bytedance AI Lab. To appear at INLG 2019.
 
 * Apr 29 2019. I gave a talk about [table to text generation and evaluation](https://franxyao.github.io/blog/on_text_generation_evaluation) at [Interactions](https://www.interactions.com/). 
 
