@@ -15,7 +15,7 @@ I am an MSCS student at Columbia University. I will be coming to University of E
 
 Generally, I am interested in the interaction between the machine and the world through Human Language. 
 Natural Language Understanding is an essential step to achieve this goal. 
-This includes how the machine shall learn the world through probabilistic structural reprensentation, how it may process the knowledge through efficient statistical inference, and how to perform meaningful interactions through language generation. 
+This includes how the machine shall learn the world through probabilistic structural reprensentation, how it may process the knowledge through efficient statistical inference, and how to produce meaningful responses through language generation. 
 
 In terms of specific topics, I am interested in 
 * [Text generation](https://franxyao.github.io/blog/yaofu_NLG.pdf), structural knowledge representation learning
@@ -49,6 +49,10 @@ Beside research, I love photography. Follow [my ins](https://www.instagram.com/f
 -----
 
 ### PROJECTS
+* Structure-preserving text generation (Current, with prof. John Cunningham and prof Alexander Rush)
+
+* The exploration of supervised, semi-supervised, and transfered semantic parsing (Current, partially done during my internship at Tencent AI Lab with Dr. Kun Xu). 
+
 * Paraphrase Generation with Latent Bag of Words. NeurIPS 2019. 
 
   * A latent bag of words model with differentiable content planning and surface realization. advised by [prof. John P. Cunningham](https://stat.columbia.edu/~cunningham/).  
