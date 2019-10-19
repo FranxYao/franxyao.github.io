@@ -11,11 +11,11 @@ But, fight for your deepest belief no mater what the world is.
 
 Yao Francis Fu 符尧 
 
-I am an MSCS student at Columbia University. I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. 
+I am an MSCS student at Columbia University. I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. During my MS study at Columbia, I focus more on statistical machine learning. I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
 
 Generally, I am interested in the interaction between the machine and the world through Human Language. 
 Natural Language Understanding is an essential step to achieve this goal. 
-This includes how the machine shall learn the world through discrete knowledge reprensentation, how the machine may know the world through language understanding, and how to perform meaningful interactions through language generation. 
+This includes how the machine shall learn the world through probabilistic structural reprensentation, how it may process the knowledge through efficient statistical inference, and how to perform meaningful interactions through language generation. 
 
 In terms of specific topics, I am interested in 
 * [Text generation](https://franxyao.github.io/blog/yaofu_NLG.pdf), structural knowledge representation learning
@@ -26,9 +26,7 @@ I am also maintaining the reading lists about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
 * Language Model Pretraining for Text Generation ([link](https://github.com/franxyao/Language-Model-Pretraining-for-Text-Generation)) 
 
-During my MS study at Columbia, between ML and NLP, I focus more on the ML side. I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
-
-Beside research, I love photography. Follow [my ins](https://www.instagram.com/franx_yao/)! 
+Beside research, I love photography. Follow [my ins](https://www.instagram.com/franx_yao/)
 
 -----
 
