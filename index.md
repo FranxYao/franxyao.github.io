@@ -14,7 +14,6 @@ Yao Francis Fu 符尧
 I am an MSCS student at Columbia University. I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. During my MS study at Columbia, I focus more on statistical machine learning. I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
 
 Generally, I am interested in the interaction between the machine and the world through Human Language. 
-Natural Language Understanding is an essential step to achieve this goal. 
 This includes how the machine shall learn the world through probabilistic structural reprensentation, how it may process the knowledge through efficient statistical inference, and how to produce meaningful responses through language generation. 
 
 In terms of specific topics, I am interested in 
