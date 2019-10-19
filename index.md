@@ -51,7 +51,7 @@ Beside research, I love photography. Follow [my ins](https://www.instagram.com/f
 ### PROJECTS
 * Structure-preserving text generation (Current, with prof. John Cunningham and prof Alexander Rush)
 
-* The exploration of supervised, semi-supervised, and transfered semantic parsing (Current, partially done during my internship at Tencent AI Lab with Dr. Kun Xu). 
+* Semantic parsing with RNNGs under supervised, semi-supervised, and transfer learning settings (Current, partially done during my internship at Tencent AI Lab with Dr. Kun Xu). 
 
 * Paraphrase Generation with Latent Bag of Words. NeurIPS 2019. 
 
