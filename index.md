@@ -23,7 +23,6 @@ In terms of specific topics, I am interested in
 
 I am also maintaining the reading lists about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
-* Language Model Pretraining for Text Generation ([link](https://github.com/franxyao/Language-Model-Pretraining-for-Text-Generation)) 
 
 Beside research, I love photography. Follow [my ins](https://www.instagram.com/franx_yao/)
 
