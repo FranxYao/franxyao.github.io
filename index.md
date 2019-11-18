@@ -11,7 +11,7 @@ But, fight for your deepest belief no mater what the world is.
 
 Yao Francis Fu 符尧 
 
-I am an MSCS student at Columbia University. I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. During my MS study at Columbia, I focus more on statistical machine learning. I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
+I am an MSCS student at Columbia University (w. Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). I finished my undergraduate at Peking University (w. Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. During my MS study at Columbia, I focus more on statistical machine learning. I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
 
 Generally, I am interested in the interaction between the machine and the world through Human Language. 
 This includes how the machine shall learn the world through probabilistic structural reprensentation, how it may process the knowledge through efficient statistical inference, and how to produce meaningful responses through language generation. 
