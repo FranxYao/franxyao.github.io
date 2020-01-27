@@ -7,6 +7,9 @@ Never let your shallow prior understanding override the truth of the world.
 
 But, fight for your deepest belief no mater what the world is. 
 
+### Current
+All the best for Wuhan and Hubei.
+
 ### General
 
 Yao Francis Fu 符尧 
