@@ -17,7 +17,7 @@ Generally, I am interested in the interaction between the machine and the world 
 This includes how the machine shall learn the world through meaningful reprensentations, how it may process the knowledge through efficient statistical inference, and how to produce responses through language generation. 
 
 In terms of specific topics, I am interested in 
-* [Text generation](https://franxyao.github.io/blog/yaofu_NLG.pdf), structural knowledge representation learning
+* [Text generation](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/yaofu_NLG.pdf), structural knowledge representation learning
 * Deep generative models with discrete variables and continuous relaxation of discrete Structures
 * Model transparency, interpretability, and controllability
 
