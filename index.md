@@ -7,27 +7,24 @@ Never let your shallow prior understanding override the truth of the world.
 
 But, fight for your deepest belief no mater what the world is. 
 
-### Current
-All the best for Wuhan and Hubei.
-
 ### General
 
-Yao Francis Fu 符尧 
+Yao Fu 符尧 
 
-I am an MSCS student at Columbia University (w. Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). I finished my undergraduate at Peking University (w. Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. During my MS study at Columbia, I focus more on statistical machine learning. I will switch back to the NLP side in my Ph.D. study at Edinburgh. 
+I am an MSCS student at Columbia University (w. Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). I finished my undergraduate at Peking University (w. Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. During my MS at Columbia, I focus on statistical machine learning. I will switch back to NLP in my Ph.D. study at Edinburgh. 
 
 Generally, I am interested in the interaction between the machine and the world through Human Language. 
-This includes how the machine shall learn the world through probabilistic structural reprensentation, how it may process the knowledge through efficient statistical inference, and how to produce meaningful responses through language generation. 
+This includes how the machine shall learn the world through meaningful reprensentations, how it may process the knowledge through efficient statistical inference, and how to produce responses through language generation. 
 
 In terms of specific topics, I am interested in 
 * [Text generation](https://franxyao.github.io/blog/yaofu_NLG.pdf), structural knowledge representation learning
 * Deep generative models with discrete variables and continuous relaxation of discrete Structures
 * Model transparency, interpretability, and controllability
 
-I am also maintaining the reading lists about:
+I am maintaining the reading lists about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
 
-Beside research, I love photography. Follow [my ins](https://www.instagram.com/franx_yao/)
+Beside research, I love photography, boating and hiking. Follow [my ins](https://www.instagram.com/franx_yao/)
 
 -----
 
