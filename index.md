@@ -84,7 +84,8 @@ Beside research, I love photography, boating and hiking. Follow [my ins](https:/
 
 ### Experiences
 
-* May 19 -.  Natural Language Processing Research Intern. Tencent AI Lab, Seattle.
+* Dec 19 - . Natural Language Processing Research Intern. Alibaba Damo Academy, Beijing
+* May 19 - Aug 19.  Natural Language Processing Research Intern. Tencent AI Lab, Seattle.
 * Dec 17 - Aug 18. Natural Language Processing Research Intern. Bytedance AI Lab, Beijing. 
 
 -----
