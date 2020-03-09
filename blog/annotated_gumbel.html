@@ -13117,7 +13117,21 @@ div#notebook {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="The-Annotated-Gumbel-Softmax">The Annotated Gumbel-Softmax<a class="anchor-link" href="#The-Annotated-Gumbel-Softmax">&#182;</a></h1><p>Yao Fu, Columbia University | yao.fu@columbia.edu | Mon Mar 02nd 2020</p>
-<p>The gumbel estimator is an increasingly popular estimator for the gradients over discrete samples. In this notebook, we investigate this estimator from an engineering perspective, and reveal all the coding details of it</p>
+<h3 id="Background">Background<a class="anchor-link" href="#Background">&#182;</a></h3><p>The gumbel-softmax estimator is an increasingly popular estimator for the gradients over discrete samples. 
+Although conceptually simple, hyper-parameter tuning is always a troublesome work in practice. 
+What are the implementation detais of this estimator?
+How to tune parameters of it?
+In this notebook, we investigate this estimator from an engineering perspective, and reveal all the coding details of it.</p>
+<p>prerequisites</p>
+<ul>
+<li><a href="https://arxiv.org/abs/1312.6114">Auto-encoding Variational Bayes</a></li>
+<li><a href="https://arxiv.org/abs/1611.01144">Categorical Reparameterization with Gumbel-Softmax</a></li>
+<li><a href="https://arxiv.org/abs/1611.00712">The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables</a></li>
+</ul>
+<p>We use a categorical VAE for mnist digits as our base model. This model encode an image $x$ to a latent code $z$ with the encoder $q_\phi(z|x)$, then decode it back to the image with the decoder $p_\theta(x|z)$. The ELBO ojbective is:</p>
+$$\mathcal{L} = \mathbb{E}_{q_\phi(z|x)}[p_\theta(x|z)] - \text{KL}[q_\phi(z|x) || p(z)]$$<p>Where $z$ is a discrete random variable. In optimization, generally, the gradient w.r.t $\phi$ through the discrete sample $z$ is intractable:</p>
+$$\nabla_\phi \mathbb{E}_{q_\phi(z|x)}[p_\theta(x|z)] $$<p>The reparameterization trick removes the stochasticity out from the computational graph by a deterministic mapping $z \sim q_\phi(z|x) = g(\phi, \epsilon), \epsilon \sim p(\epsilon)$ so we can backpropagate through the sampled $z$:</p>
+$$\nabla_\phi \mathbb{E}_{q_\phi(z|x)}[p_\theta(x|z)] = \nabla_\phi \mathbb{E}_{p(\epsilon)}[p_\theta(x|g(\phi, \epsilon))] $$<p>The gumbel-softmax further use a relaxed one-hot representation of $z$ to make the objective differentiable w.r.t. the categorical random variable. In this notebook, we implement gumbel-softmax from scratch and discuss the engineering details.</p>
 <p>Speciafically, we discuss</p>
 <ul>
 <li><a href="#Implementation-of-the-gumbel-estimator">Implementation of the Gumbel estimator</a></li>
@@ -13126,18 +13140,9 @@ div#notebook {
 <li><a href="#Interpretability-and-Controllability">Interpretability and Controllability</a></li>
 <li><a href="#Strength-of-beta">Strength of beta</a></li>
 <li><a href="#Influence-of-temperature-annealing">Influence of temperature annealing</a></li>
-<li><a href="#conclusion">Conclusion</a></li>
+<li><a href="#conclusion">Conclusion and best practice</a></li>
 </ul>
 <p>This notebook is, of course, inspired by Sasha Rush's <em>The Annotated Transformer</em>: <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">https://nlp.seas.harvard.edu/2018/04/03/attention.html</a></p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<hr>
-<p>We use the mnist dataset as the standard test bed</p>
 
 </div>
 </div>
@@ -13206,16 +13211,18 @@ div#notebook {
 <p><code>z_sample = sample_reparameterize(log_prob)</code></p>
 <p>However, in the original implementation from <a href="https://github.com/ericjang/gumbel-softmax/blob/master/gumbel_softmax_vae_v2.ipynb">https://github.com/ericjang/gumbel-softmax/blob/master/gumbel_softmax_vae_v2.ipynb</a>, it is the <code>logits</code> that is used as the input of the reparameterization function:</p>
 <p><code>z_sample = sample_reparameterize(logits)</code></p>
-<p>Generally, their is a constant <code>C</code> difference between <code>logits</code> and <code>log_prob</code></p>
-<p><code>logits = log_prob + C</code></p>
-<p><code>C</code> is determined by initialization and convergence path, since we are adding gumbel noise <code>g</code> to <code>logits</code> or <code>log_prob</code>, the standard implementation should be:</p>
-<p><code>gumbel_perturbed_log_p = log_prob + g</code></p>
-<p>If we are using <code>logits</code>, it would be:</p>
-<p><code>gumbel_perturbed_log_p = logits + g = log_prob + C + g</code></p>
-<p>Generall, <code>-3 &lt; g &lt; 5</code> (see: <a href="https://en.wikipedia.org/wiki/Gumbel_distribution">https://en.wikipedia.org/wiki/Gumbel_distribution</a>), but if <code>C &gt; 10</code>, the constant will overwhelm the gumbel noise, making the sampling function back the argmax function:</p>
-<p><code>z_sample = sample_reparameterize(logits) = argmax(logits)</code> if <code>C</code> too large</p>
-<p>which is obviously not what we want.</p>
-<p><strong>Decision: use <code>log_prob</code>, instead of <code>logits</code></strong></p>
+<p>Will there be consequences that they use <code>logits</code> instead of <code>log_prob</code>? The answer is no. Here we explain why:</p>
+<p>First, the <code>sample_reparameterize(·)</code> function is defined as:</p>
+$$s = \text{sample_reparameterize}(a) = \text{softmax}((a + g) / \tau)$$$$s_i = \frac{\exp((a_i + g_i)/ \tau)}{\sum_i \exp((a_i + g_i)/ \tau)}$$<p>We denote $s = $ <code>z_sample</code>, $a^* = $ <code>logits</code> or $a^\star = $ <code>log_prob</code>. $g$ is the gumbel noise.</p>
+<p>One can easily show that there is a constant <code>C</code> difference between <code>logits</code> and <code>log_prob</code></p>
+$$a^* = a^\star + C$$<p><code>C</code> is determined by initialization and convergence path.</p>
+<p>The standard implementation is to use <code>log_prob</code> as inputs, then the output is:</p>
+$$s^\star_i = \frac{\exp((a^\star_i + g_i)/ \tau)}{\sum_i \exp((a^\star_i + g_i)/ \tau)}$$<p>If we use <code>logits</code> as inputs, then the output is:
+$$s^*_i = \frac{\exp((a^*_i + g_i)/ \tau)}{\sum_i \exp((a^*_i + g_i)/ \tau)}$$</p>
+<p>We have: 
+$$s^\star_i = \frac{\exp((a^\star_i + g_i)/ \tau)}{\sum_i \exp((a^\star_i + g_i)/ \tau)} = \frac{\exp((a^*_i + g_i + C)/ \tau)}{\sum_i \exp((a^*_i + g_i + C)/ \tau)} = \frac{\exp((a^*_i + g_i)/ \tau)}{\sum_i \exp((a^*_i + g_i)/ \tau)} = s^*_i$$</p>
+<p>Note that the constant $C$ cancels out. So <code>logits</code> and <code>log_prob</code> would give us the sample output. In fact, the cancellation of $C$ is similar to the <a href="https://en.wikipedia.org/wiki/LogSumExp">log_sum_exp</a> trick in the semiring algorithm.</p>
+<p>Conclusion: using <code>logits</code> or <code>log_prob</code> will give the same output.</p>
 
 </div>
 </div>
@@ -13371,7 +13378,8 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Training-process">Training process<a class="anchor-link" href="#Training-process">&#182;</a></h1>
+<h1 id="Training-process">Training process<a class="anchor-link" href="#Training-process">&#182;</a></h1><p>We keep the output log here. Please pay attention to the decreasing <code>nll</code>, the decreasing <code>ent_z</code>, the annealing of <code>tau</code>, and the corresponding <code>z_sample</code></p>
+
 </div>
 </div>
 </div>
@@ -13476,7 +13484,12 @@ finished!
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>As we can see from the above training log, as the model converges, the samples look more like one-hot</p>
+<p>As we can see from the above training log, as the model converges, the samples look more like one-hot:</p>
+<ul>
+<li>In step 0, samples are completely not one-hot. This is why we call them the continuous relaxation</li>
+<li>In the middle steps, except the peak number, the magnitude of other numbers in the samples is decreasing: about 1e-5 at step 2000, 1e-15 at step 6000, 1e-20 at step 8000</li>
+<li>In step 9999, the final step, since <code>tau</code> is annealed to 1e-2, the samples anneal to one-hot</li>
+</ul>
 <h1 id="Influence-of-the-number-of-class">Influence of the number of class<a class="anchor-link" href="#Influence-of-the-number-of-class">&#182;</a></h1><p>Question: if we set the number of class to 10, will the model output 10 different digits?</p>
 <p>Answer: no, as we can see that in the previous run, <code>z = 0</code> and <code>z = 5</code> all decode to the digit <code>3</code>. The different class <code>z</code> will represent different <strong>modes</strong> of the distribution of <code>x</code>, instead of different numbers.</p>
 <p>We can also obeserve the <strong>Permutation Invariance</strong> of the NLL loss if we run the above cell multiple times. This is to say, we cannot expect that <code>z = 0</code> decodes the digit <code>0</code>, <code>z = 1</code> decode the digit <code>1</code> ... In fact, <code>z = i</code> could correspond to any digit <code>j</code>. The permutation of <code>z</code> does not change the NLL convergence</p>
