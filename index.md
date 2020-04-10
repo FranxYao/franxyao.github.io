@@ -11,14 +11,14 @@ But, fight for your deepest belief no mater what the world is.
 
 Yao Fu 符尧 
 
-I am an MSCS student at Columbia University (w. Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). I finished my undergraduate at Peking University (w. Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). I will be coming to University of Edinburgh in Spring 20 as a Ph.D. student. During my MS at Columbia, I focus on statistical machine learning. I will switch back to NLP in my Ph.D. study at Edinburgh. 
+I am an MSCS student at Columbia University (w. Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). I finished my undergraduate at Peking University (w. Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). I will be coming to University of Edinburgh in Fall 20 as a Ph.D. student. During my MS at Columbia, I focus on probabilistic machine learning. I will switch back to NLP in my Ph.D. study at Edinburgh. 
 
-Generally, I am interested in the interaction between the machine and the world through Human Language. 
-This includes how the machine shall learn the world through meaningful reprensentations, how it may process the knowledge through efficient statistical inference, and how to produce responses through language generation. 
+Generally, I am interested in the interaction between the machine and the world through human language. 
+This includes how to learn the ambiguity of language with probabilistic modeling, how it may process the knowledge with efficient inference, how to understand language with structured representations, and how to produce responses through conditional generation. 
 
 In terms of specific topics, I am interested in 
-* [Text generation](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/yaofu_NLG.pdf), structural knowledge representation learning
-* Deep generative models with discrete variables and continuous relaxation of discrete Structures
+* [Text generation](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/yaofu_NLG.pdf), structured representations
+* Deep generative models with discrete structures and their optimization methods
 * Model transparency, interpretability, and controllability
 
 I am maintaining the reading lists about:
@@ -47,6 +47,10 @@ Beside research, I love photography, boating and hiking. Follow [my ins](https:/
 -----
 
 ### PROJECTS
+* Variational Learning Latent Sentence Templates with Gumbel-CRFs
+
+* On the Interpretability of Discrete Structured Representations: A Bayesian Perspective
+
 * Structure-preserving text generation (Current, with prof. John Cunningham and prof Alexander Rush)
 
 * Semantic parsing with RNNGs under supervised, semi-supervised, and transfer learning settings (Current, partially done during my internship at Tencent AI Lab with Dr. Kun Xu). 
