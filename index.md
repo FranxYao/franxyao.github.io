@@ -13,12 +13,11 @@ Yao Fu 符尧
 
 I am an MSCS student at Columbia University (w. Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). I finished my undergraduate at Peking University (w. Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). I will be coming to University of Edinburgh in Fall 20 as a Ph.D. student. During my MS at Columbia, I focus on probabilistic machine learning. I will switch back to NLP in my Ph.D. study at Edinburgh. 
 
-Generally, I am interested in the interaction between the machine and the world through human language. 
-This includes how to learn the ambiguity of language with probabilistic modeling, how it may process the knowledge with efficient inference, how to understand language with structured representations, and how to produce responses through conditional generation. 
+I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models equipped with modern architectures and efficient inference, while grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
-* [Text generation](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/yaofu_NLG.pdf), structured representations
-* Deep generative models with discrete structures and their optimization methods
+* [Text generation](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/yaofu_NLG.pdf), structured prediction
+* Deep generative models with discrete latent structures and their optimization methods
 * Model transparency, interpretability, and controllability
 
 I am maintaining the reading lists about:
