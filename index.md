@@ -11,7 +11,10 @@ But, fight for your deepest belief no mater what the world is.
 
 Yao Fu 符尧 
 
-I am an MSCS student at Columbia University (w. Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). I finished my undergraduate at Peking University (w. Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). I will be coming to University of Edinburgh in Fall 20 (hopefully, with the uncertainty caused by the coronavirus) as a Ph.D. student. 
+I am an MSCS student at Columbia University (w. prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). 
+I finished my undergraduate at Peking University (w. prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). 
+Currently, I am visiting prof. [Alexander "Sasha" Rush](http://rush-nlp.com/) remotely in this quarantine. 
+I will be coming to University of Edinburgh in Fall 20 (hopefully, with the uncertainty caused by the coronavirus) as a Ph.D. student. 
 
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models equipped with modern architectures and efficient inference, while grounded to linguistics and real-world scenarios. 
 
@@ -46,11 +49,9 @@ Beside research, I love photography, boating and hiking. Follow [my ins](https:/
 -----
 
 ### PROJECTS
-* Variational Learning Latent Sentence Templates with Gumbel-CRFs
+* Variational Learning Latent Sentence Templates with Gumbel-CRFs. with Sasha Rush. In submission 
 
 * On the Interpretability of Discrete Structured Representations: A Bayesian Perspective
-
-* Structure-preserving text generation (Current, with prof. John Cunningham and prof Alexander Rush)
 
 * Semantic parsing with RNNGs under supervised, semi-supervised, and transfer learning settings (Current, partially done during my internship at Tencent AI Lab with Dr. Kun Xu). 
 
