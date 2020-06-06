@@ -13,7 +13,7 @@ Yao Fu 符尧
 
 I am an MSCS student at Columbia University (w. prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). 
 I finished my undergraduate at Peking University (w. prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). 
-Currently, I am visiting prof. [Alexander "Sasha" Rush](http://rush-nlp.com/)'s group remotely in this quarantine. 
+Currently, I am visiting prof. [Alexander Rush](http://rush-nlp.com/)'s group remotely in this quarantine. 
 I will be coming to University of Edinburgh in Fall 20 (hopefully, with the uncertainty caused by the coronavirus) as a Ph.D. student. 
 
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models equipped with modern architectures and efficient inference, while grounded to linguistics and real-world scenarios. 
