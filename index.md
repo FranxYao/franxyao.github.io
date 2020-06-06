@@ -49,11 +49,11 @@ Beside research, I love photography, boating and hiking. Follow [my ins](https:/
 -----
 
 ### PROJECTS
-* Variational Learning Latent Sentence Templates with Gumbel-CRFs. with Sasha Rush. In submission 
+* Variational Learning Latent Sentence Templates with Gumbel-CRFs. With Sasha Rush. In submission 
 
 * On the Interpretability of Discrete Structured Representations: A Bayesian Perspective
 
-* Semantic parsing with RNNGs under supervised, semi-supervised, and transfer learning settings (Current, partially done during my internship at Tencent AI Lab with Dr. Kun Xu). 
+* Semantic parsing with RNNGs under supervised, semi-supervised, and transfer learning settings. With Kun Xu at Tencent AI Lab Seattle.
 
 * Paraphrase Generation with Latent Bag of Words. NeurIPS 2019. 
 
