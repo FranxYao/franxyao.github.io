@@ -37,46 +37,27 @@ Beside research, I love photography, boating and hiking. Follow [my ins](https:/
   * _Paraphrase Generation with Latent Bag of Words_. w. prof. Cunningham at Columbia Stats. NeurIPS 2019. [code and paper](https://github.com/FranxYao/dgm_latent_bow)
   * _Rethink Text Style Transfer: A Lexical Analysis_. w. Dr. Hao Zhou and Dr. Lei Li at Bytedance AI Lab. INLG 2019 (oral). [code and paper](https://github.com/FranxYao/pivot_analysis)
 
-* Apr 29 2019. I gave a talk about [table to text generation and evaluation](https://franxyao.github.io/blog/on_text_generation_evaluation) at [Interactions](https://www.interactions.com/). 
+* Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). This list originated from the [Columbia DGM seminar](http://stat.columbia.edu/~cunningham/teaching/GR8201/) class, then evolved to be more comprehensive. 
 
-* Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). This is my reading list in the [Columbia DGM seminar](http://stat.columbia.edu/~cunningham/teaching/GR8201/) class, and I gave a detailed presentation about the [Adversarially Regularizaed Autoencoder paper](https://franxyao.github.io/blog/annotated_arae.pdf). 
-
-* Feb 15 2018, Our paper [Natural Answer Generation with Heterogeneous Memory](https://franxyao.github.io/NaturalAnswerGeneration.pdf) is accepted by NAACL-HLT 2018!  
-
-  * This is [a QA system aims to compose answer words into sentences](https://franxyao.github.io/NaturalAnswer.html). Given a question, the system is able to read the question, find answer words from information of different sources, compose these words into sentences with related information in the memory.
-  * This work is my summer research project under supervision of Professor [Yansong Feng](https://sites.google.com/site/ysfeng/home)
+* Feb 15 2018, Our paper Natural Answer Generation with Heterogeneous Memory is accepted by NAACL-HLT 2018! [paper](https://franxyao.github.io/NaturalAnswerGeneration.pdf) [blog](https://franxyao.github.io/NaturalAnswer.html)
 
 -----
 
 ### PROJECTS
-* Variational Learning Latent Sentence Templates with Gumbel-CRFs. With Sasha Rush. In submission 
+* Variational Learning Latent Sentence Templates with Gumbel-CRFs. With Sasha Rush at Cornell University. In submission 
 
-* On the Interpretability of Discrete Structured Representations: A Bayesian Perspective
+* On the Interpretability of Discrete Structured Representations: A Bayesian Perspective. On going
 
 * Semantic parsing with RNNGs under supervised, semi-supervised, and transfer learning settings. With Kun Xu at Tencent AI Lab Seattle.
 
-* Paraphrase Generation with Latent Bag of Words. NeurIPS 2019. 
+* Paraphrase Generation with Latent Bag of Words. NeurIPS 2019. With [prof. John P. Cunningham](https://stat.columbia.edu/~cunningham/) at Columbia University.  
 
-  * A latent bag of words model with differentiable content planning and surface realization. advised by [prof. John P. Cunningham](https://stat.columbia.edu/~cunningham/).  
-
-* Pivot Analysis: An Lexical Analysis Method for Text Attribute Transfer. INLG 2019.
-
-  * Text style transfer is recently a hot topic in NLP, but few have examined what determines the style and what is changed during the transfer.
-  * We analyze the underlying assumptions of state-of-the-art text style transfer systems and their performance. 
+* Pivot Analysis: An Lexical Analysis Method for Text Attribute Transfer. INLG 2019. With Dr. Hao Zhou and Dr Lei Li at Bytedance AI Lab Beijing. 
   
-* Natural Answer Generation with Heterogeneous Memory. NAACL 2018.
+* Natural Answer Generation with Heterogeneous Memory. NAACL 2018. With prof. Yansong Feng at Peking University.
 
-  * A QA system aims to compose answer words into sentences with information enrichment. 
+* [Scheduling and routing models for food rescue and delivery operations](https://github.com/franxyao/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master). Socio-Economic Planning Sciences 2017. With [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair) at University of New South Wales. 
 
-* [Scheduling and routing models for food rescue and delivery operations](https://github.com/franxyao/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master). Socio-Economic Planning Sciences 2017. 
-
-  * This project was finished during my exchange in University of New South Wales, Australia. 
-  * It was a scheduling and routing model for food rescue (i.e. deliver foods to people in need) traffic distribution networks. 
-  * It was an extension of my mentor, [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair)'s work in 2016. This work won the Tranportation Research Board 2016 Best Paper Award. 
-  * Under Dyvia's supervision, I extended the algorithm into a dynamic version. 
-  * Now it is being applied to the [OzHarvest project](http://www.ozharvest.org/), Australia's leading food rescue charity. 
-  * Publication: D.J. Nair, H. Grzybowska, Y. Fu, V.V. Dixit, _Scheduling and routing models for food rescue and delivery operations_, Socio-Economic Planning Sciences
-  
 -----
 
 ### Teaching 
