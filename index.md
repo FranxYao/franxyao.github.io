@@ -37,26 +37,26 @@ Beside research, I love photography, boating and hiking. Follow [my ins](https:/
   * _Paraphrase Generation with Latent Bag of Words_. w. prof. Cunningham at Columbia Stats. NeurIPS 2019. [code and paper](https://github.com/FranxYao/dgm_latent_bow)
   * _Rethink Text Style Transfer: A Lexical Analysis_. w. Dr. Hao Zhou and Dr. Lei Li at Bytedance AI Lab. INLG 2019 (oral). [code and paper](https://github.com/FranxYao/pivot_analysis)
 
-* Apr 09 2019. I am maintaining a reading list about [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). This list originated from the [Columbia DGM seminar](http://stat.columbia.edu/~cunningham/teaching/GR8201/) class, then evolved to be more comprehensive. 
+* Apr 09 2019. I am maintaining a reading list about [_Deep Generative Models for Natural Language Processing_](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). This list originated from the [Columbia DGM seminar](http://stat.columbia.edu/~cunningham/teaching/GR8201/) class, then evolved to be more comprehensive. 
 
-* Feb 15 2018, Our paper Natural Answer Generation with Heterogeneous Memory is accepted by NAACL-HLT 2018! [paper](https://franxyao.github.io/NaturalAnswerGeneration.pdf) [blog](https://franxyao.github.io/NaturalAnswer.html)
+* Feb 15 2018, Our paper _Natural Answer Generation with Heterogeneous Memory_ is accepted by NAACL-HLT 2018! [paper](https://franxyao.github.io/NaturalAnswerGeneration.pdf) [blog](https://franxyao.github.io/NaturalAnswer.html)
 
 -----
 
 ### PROJECTS
-* Variational Learning Latent Sentence Templates with Gumbel-CRFs. With Sasha Rush at Cornell University. In submission 
+* _Variational Learning Latent Sentence Templates with Gumbel-CRFs_. With Sasha Rush at Cornell University. In submission 
 
-* On the Interpretability of Discrete Structured Representations: A Bayesian Perspective. On going
+* _On the Interpretability of Discrete Structured Representations: A Bayesian Perspective_. On going
 
-* Semantic parsing with RNNGs under supervised, semi-supervised, and transfer learning settings. With Kun Xu at Tencent AI Lab Seattle.
+* _Semantic parsing with RNNGs under supervised, semi-supervised, and transfer learning settings_. With Dr. Kun Xu at Tencent AI Lab Seattle.
 
-* Paraphrase Generation with Latent Bag of Words. NeurIPS 2019. With [prof. John P. Cunningham](https://stat.columbia.edu/~cunningham/) at Columbia University.  
+* _Paraphrase Generation with Latent Bag of Words_. NeurIPS 2019. With [prof. John P. Cunningham](https://stat.columbia.edu/~cunningham/) at Columbia University.  
 
-* Pivot Analysis: An Lexical Analysis Method for Text Attribute Transfer. INLG 2019. With Dr. Hao Zhou and Dr Lei Li at Bytedance AI Lab Beijing. 
+* _Pivot Analysis: An Lexical Analysis Method for Text Attribute Transfer_. INLG 2019. With Dr. Hao Zhou and Dr Lei Li at Bytedance AI Lab Beijing. 
   
-* Natural Answer Generation with Heterogeneous Memory. NAACL 2018. With prof. Yansong Feng at Peking University.
+* _Natural Answer Generation with Heterogeneous Memory_. NAACL 2018. With prof. Yansong Feng at Peking University.
 
-* [Scheduling and routing models for food rescue and delivery operations](https://github.com/franxyao/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master). Socio-Economic Planning Sciences 2017. With [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair) at University of New South Wales. 
+* [_Scheduling and routing models for food rescue and delivery operations_](https://github.com/franxyao/Multi-Vehicle-Multi-Peroid-Dynamic-Tabu-Search/tree/master). Socio-Economic Planning Sciences 2017. With [Dr. Dyvia Nair](http://www.rciti.unsw.edu.au/staff/divya-nair) at University of New South Wales. 
 
 -----
 
