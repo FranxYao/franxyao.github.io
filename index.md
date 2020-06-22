@@ -13,15 +13,15 @@ Yao Fu 符尧
 
 I am an MSCS student at Columbia University (w. prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)). 
 I finished my undergraduate at Peking University (w. prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). 
-Currently, I am visiting prof. [Alexander Rush](http://rush-nlp.com/)'s group remotely in this quarantine. 
-I will be coming to University of Edinburgh in Fall 20 (hopefully, with the uncertainty caused by the coronavirus) as a Ph.D. student. 
+In the current quarantine, I am visiting prof. [Alexander Rush](http://rush-nlp.com/)'s group remotely. 
+I will be coming to University of Edinburgh in Fall 20 as a Ph.D. student with prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models equipped with modern architectures and efficient inference, while grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
-* [Text generation](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/yaofu_NLG.pdf) and structured prediction
-* Deep generative models with discrete latent structures and their optimization methods
-* Model transparency, interpretability, and controllability
+* NLP: [Text generation](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/yaofu_NLG.pdf) and structured prediction
+* ML: Deep generative models with discrete latent structures 
+* Combined: Model transparency, interpretability, and controllability
 
 I am maintaining the reading lists about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
@@ -37,9 +37,9 @@ Beside research, I love photography, boating and hiking. Follow [my ins](https:/
   * _Paraphrase Generation with Latent Bag of Words_. w. prof. Cunningham at Columbia Stats. NeurIPS 2019. [code and paper](https://github.com/FranxYao/dgm_latent_bow)
   * _Rethink Text Style Transfer: A Lexical Analysis_. w. Dr. Hao Zhou and Dr. Lei Li at Bytedance AI Lab. INLG 2019 (oral). [code and paper](https://github.com/FranxYao/pivot_analysis)
 
-* Apr 09 2019. I am maintaining a reading list about [_Deep Generative Models for Natural Language Processing_](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). This list originated from the [Columbia DGM seminar](http://stat.columbia.edu/~cunningham/teaching/GR8201/) class, then evolved to be more comprehensive. 
+* Apr 09 2019. Introduce a reading list about [_Deep Generative Models for Natural Language Processing_](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). This list originated from the [Columbia DGM seminar](http://stat.columbia.edu/~cunningham/teaching/GR8201/) class, then evolved to be more comprehensive. 
 
-* Feb 15 2018, Our paper _Natural Answer Generation with Heterogeneous Memory_ is accepted by NAACL-HLT 2018! [paper](https://franxyao.github.io/NaturalAnswerGeneration.pdf) [blog](https://franxyao.github.io/NaturalAnswer.html)
+* Feb 15 2018, Our paper _Natural Answer Generation with Heterogeneous Memory_ is accepted by NAACL-HLT 2018 [paper](https://franxyao.github.io/NaturalAnswerGeneration.pdf) [blog](https://franxyao.github.io/NaturalAnswer.html)
 
 -----
 
@@ -78,7 +78,7 @@ Beside research, I love photography, boating and hiking. Follow [my ins](https:/
 ### MY PERSONAL BACKGROUND
 
 * I come from a river town in Hunan Province, southwest China. Like the one in Peter Hessler's [_River Town_](http://www.goodreads.com/book/show/94053.River_Town)). 
-
+* If not choosing CS as my major, I might choose business or literature. 
 
 
 
