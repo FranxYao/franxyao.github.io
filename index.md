@@ -26,7 +26,7 @@ In terms of specific topics, I am interested in
 I am maintaining the reading lists about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
 
-Beside research, I love photography, boating and hiking. Follow [my ins](https://www.instagram.com/franx_yao/)
+Beside research, I love photography. Follow [my ins](https://www.instagram.com/franx_yao/)
 
 -----
 
