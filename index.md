@@ -16,7 +16,7 @@ I finished my undergraduate at Peking University (w. prof. [Yansong Feng](https:
 In the current quarantine, I am visiting prof. [Alexander Rush](http://rush-nlp.com/)'s group remotely. 
 I will be coming to University of Edinburgh in Fall 20 as a Ph.D. student with prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 
-I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models equipped with modern architectures and efficient inference, while grounded to linguistics and real-world scenarios. 
+I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
 * NLP: [Text generation](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/yaofu_NLG.pdf) and structured prediction
