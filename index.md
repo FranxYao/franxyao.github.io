@@ -11,7 +11,7 @@ But, fight for your deepest belief no mater what the world is.
 
 Yao Fu 符尧 
 
-I an a Ph.D. student at the University of Edinburgh with prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
+I am a Ph.D. student at the University of Edinburgh with prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 I finished my MS at Columbia University (w. prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)) and my undergraduate at Peking University (w. prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). 
 I was a visiting student at Cornell University with prof. [Alexander Rush](http://rush-nlp.com/). 
 
@@ -60,6 +60,7 @@ Beside research, I love photography. Follow [my ins](https://www.instagram.com/f
 
 * I come from a river town in Hunan Province, southwest China. Like the one in Peter Hessler's [_River Town_](http://www.goodreads.com/book/show/94053.River_Town)). 
 * If not choosing CS as my major, I might choose business or literature. 
+* My favorite poet it Li Bai. 
 
 
 
