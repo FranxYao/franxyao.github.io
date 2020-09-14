@@ -13,7 +13,7 @@ Yao Fu 符尧
 
 I am a Ph.D. student at the University of Edinburgh with prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 I finished my MS at Columbia University (w. prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)) and my undergraduate at Peking University (w. prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). 
-I was a visiting student at Cornell University with prof. [Alexander Rush](http://rush-nlp.com/). 
+I was a visiting student at Cornell University with prof. [Alexander Rush](http://rush-nlp.com/) after MS and before Ph.D. 
 
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
@@ -25,7 +25,7 @@ In terms of specific topics, I am interested in
 I am maintaining the reading list about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
 
-Beside research, I love photography. Follow [my ins](https://www.instagram.com/franx_yao/)
+Beside research, I love photography ([instagram](https://www.instagram.com/franx_yao/)). The cover photos of this page is a small collection of last year's highlights. 
 
 -----
 
