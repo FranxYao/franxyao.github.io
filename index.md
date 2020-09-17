@@ -5,15 +5,15 @@
 
 Never let your shallow prior understanding override the truth of the world.
 
-But, fight for your deepest belief no mater what the world is. 
+But fight for your deepest belief no mater what the world is. 
 
 ### General
 
 Yao Fu 符尧 
 
 I am a Ph.D. student at the University of Edinburgh with prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
-I finished my MS at Columbia University (w. prof. [John Cunningham](https://stat.columbia.edu/~cunningham/)) and my undergraduate at Peking University (w. prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home)). 
-I was a visiting student at Cornell University with prof. [Alexander Rush](http://rush-nlp.com/) after MS and before Ph.D. 
+I finished my MS at Columbia University with prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my undergraduate at Peking University with prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
+I am also remotely visiting prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University. 
 
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
