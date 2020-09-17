@@ -59,7 +59,7 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 
 ### Personal
 
-* I come from a river town in Hunan Province, southwest China. Like the one in Peter Hessler's [_River Town_](http://www.goodreads.com/book/show/94053.River_Town)). 
+* I come from a river town in Hunan Province, southwest China. Like the one in Peter Hessler's [_River Town_](http://www.goodreads.com/book/show/94053.River_Town). 
 * If not choosing CS as my major, I might choose business or literature. 
 * My favorite poet it Li Bai. 
 
