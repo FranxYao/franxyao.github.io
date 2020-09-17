@@ -13,7 +13,7 @@ Yao Fu 符尧
 
 I am a Ph.D. student at the University of Edinburgh with prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 I am also remotely visiting prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University. 
-I finished my MS at Columbia University with prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my undergraduate at Peking University with prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
+I finished my M.S. at Columbia University with prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University with prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
 
 
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
