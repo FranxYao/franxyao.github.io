@@ -36,7 +36,7 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
   * Yao Fu, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush
 * _Paraphrase Generation with Latent Bag of Words_. NeurIPS 2019. [code and paper](https://github.com/FranxYao/dgm_latent_bow)
   * Yao Fu, Yansong Feng and John Cunningham
-* _Rethinking Text Style Transfer: A Lexical Analysis_. INLG 2019 (oral). [code and paper](https://github.com/FranxYao/pivot_analysis)
+* _Rethinking Text Attribute Transfer: A Lexical Analysis_. INLG 2019 (oral). [code and paper](https://github.com/FranxYao/pivot_analysis)
   * Yao Fu, Hao Zhou, Jiaze Chen and Lei Li
 * _Natural Answer Generation with Heterogeneous Memory_ . NAACL 2018
   * Yao Fu and Yansong Feng
