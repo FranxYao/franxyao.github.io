@@ -55,7 +55,7 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 
 ### Internships
 
-* Dec 19 - . Natural Language Processing Research Intern. Alibaba Damo Academy, Beijing
+* Jan 20 - Oct 20. Natural Language Processing Research Intern. Alibaba Damo Academy, Beijing and Hangzhou. 
 * May 19 - Aug 19.  Natural Language Processing Research Intern. Tencent AI Lab, Seattle.
 * Dec 17 - Aug 18. Natural Language Processing Research Intern. Bytedance AI Lab, Beijing. 
 
@@ -64,7 +64,6 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 ### Personal
 
 * I come from a river town in Hunan Province, southwest China. Like the one in Peter Hessler's [_River Town_](http://www.goodreads.com/book/show/94053.River_Town). 
-* If not choosing CS as my major, I might choose business or literature. 
 * My favorite poet it Li Bai. 
 
 
