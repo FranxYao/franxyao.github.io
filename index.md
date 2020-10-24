@@ -9,7 +9,7 @@ But fight for your deepest belief no mater what the world is.
 
 ### General
 
-Yao Fu 符尧 | [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | (Github)[https://github.com/FranxYao] | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/)
+Yao Fu 符尧 | [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | [Github](https://github.com/FranxYao) | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/)
 
 I am a Ph.D. student at the University of Edinburgh with Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 I am also co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University. 
