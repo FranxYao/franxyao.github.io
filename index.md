@@ -9,11 +9,11 @@ But fight for your deepest belief no mater what the world is.
 
 ### General
 
-Yao Fu 符尧 
+Yao Fu 符尧 | [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | (Github)[https://github.com/FranxYao] | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/)
 
-I am a Ph.D. student at the University of Edinburgh with prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
-I am also remotely visiting prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University. 
-I finished my M.S. at Columbia University with prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University with prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
+I am a Ph.D. student at the University of Edinburgh with Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
+I am also co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University. 
+I finished my M.S. at Columbia University with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
 
 
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
@@ -32,7 +32,7 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 
 ### Publications
 
-* _Latent Template Induction with Gumbel-CRFs_. NeurIPS 2020
+* _Latent Template Induction with Gumbel-CRFs_. NeurIPS 2020. [code and paper](https://github.com/FranxYao/Gumbel-CRF)
   * Yao Fu, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush
 * _Paraphrase Generation with Latent Bag of Words_. NeurIPS 2019. [code and paper](https://github.com/FranxYao/dgm_latent_bow)
   * Yao Fu, Yansong Feng and John Cunningham
