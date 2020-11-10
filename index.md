@@ -8,9 +8,9 @@ Never let your shallow prior understanding override the truth of the world.
 But fight for your deepest belief no mater what the world is. 
 
 
-Yao Fu 符尧 | [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | [Github](https://github.com/FranxYao) | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/)
+[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | [Github](https://github.com/FranxYao) | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/)
 
-I am a Ph.D. student at the University of Edinburgh advised by Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
+Yao Fu 符尧. I am a Ph.D. student at the University of Edinburgh advised by Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 I am also co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University. 
 I finished my M.S. at Columbia University with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
 
