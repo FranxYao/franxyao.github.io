@@ -40,7 +40,7 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 * INLG 2019. _Rethinking Text Attribute Transfer: A Lexical Analysis_. Yao Fu, Hao Zhou, Jiaze Chen and Lei Li. [code and paper](https://github.com/FranxYao/pivot_analysis)
   * A series of text mining algorithm for discovering words with strong influence on classification. Applied to analysing text attribute transfer models. 
 * NAACL 2018. _Natural Answer Generation with Heterogeneous Memory_. Yao Fu and Yansong Feng
-  * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation 
+  * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
 
 -----
 
@@ -56,12 +56,6 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 * May 19 - Aug 19.  Natural Language Processing Research Intern. Tencent AI Lab, Seattle.
 * Dec 17 - Aug 18. Natural Language Processing Research Intern. Bytedance AI Lab, Beijing. 
 
------
-
-### Personal
-
-* I come from a river town in Hunan Province, southwest China. Like the one in Peter Hessler's [_River Town_](http://www.goodreads.com/book/show/94053.River_Town). 
-* My favorite poet it Li Bai. 
 
 
 
