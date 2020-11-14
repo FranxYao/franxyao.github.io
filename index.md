@@ -33,16 +33,14 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 
 ### Publications
 
-* _Latent Template Induction with Gumbel-CRFs_. NeurIPS 2020. [code and paper](https://github.com/FranxYao/Gumbel-CRF)
-  * Yao Fu, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush
-* _Paraphrase Generation with Latent Bag of Words_. NeurIPS 2019. [code and paper](https://github.com/FranxYao/dgm_latent_bow)
-  * Yao Fu, Yansong Feng and John Cunningham
-* _Rethinking Text Attribute Transfer: A Lexical Analysis_. INLG 2019 (oral). [code and paper](https://github.com/FranxYao/pivot_analysis)
-  * Yao Fu, Hao Zhou, Jiaze Chen and Lei Li
-* _Natural Answer Generation with Heterogeneous Memory_ . NAACL 2018
-  * Yao Fu and Yansong Feng
-* _Scheduling and Routing Models for Food Rescue and Delivery Operations_. Socio-Economic Planning Sciences 2017 
-  * Divya Nair, Hanna Grzybowska, Yao Fu and Dr. Vinayak V Dixit
+* NeurIPS 2020. _Latent Template Induction with Gumbel-CRFs_. Yao Fu, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush. [code and paper](https://github.com/FranxYao/Gumbel-CRF)
+  * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
+* NeurIPS 2019. _Paraphrase Generation with Latent Bag of Words_. Yao Fu, Yansong Feng and John Cunningham. [code and paper](https://github.com/FranxYao/dgm_latent_bow)
+  * A differentiable planning and realization model for paraphrasing with latent bag of words by Gumbel-topK reparameterization.
+* INLG 2019. _Rethinking Text Attribute Transfer: A Lexical Analysis_. Yao Fu, Hao Zhou, Jiaze Chen and Lei Li. [code and paper](https://github.com/FranxYao/pivot_analysis)
+  * A series of text mining algorithm for discovering words with strong influence on classification. Applied to analysing text attribute transfer models. 
+* NAACL 2018. _Natural Answer Generation with Heterogeneous Memory_. Yao Fu and Yansong Feng
+  * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation 
 
 -----
 
