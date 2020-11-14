@@ -12,8 +12,7 @@ But fight for your deepest belief no mater what the world is.
 
 Yao Fu 符尧. 
 
-I am a Ph.D. student at the University of Edinburgh advised by Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
-I am also co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University. 
+I am a Ph.D. student at the University of Edinburgh. I am advised by Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) at Edinburgh and co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell. 
 I finished my M.S. at Columbia University with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
 
 
@@ -38,7 +37,7 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 * NeurIPS 2019. _Paraphrase Generation with Latent Bag of Words_. Yao Fu, Yansong Feng and John Cunningham. [code and paper](https://github.com/FranxYao/dgm_latent_bow)
   * A differentiable planning and realization model for paraphrasing with latent bag of words by Gumbel-topK reparameterization.
 * INLG 2019. _Rethinking Text Attribute Transfer: A Lexical Analysis_. Yao Fu, Hao Zhou, Jiaze Chen and Lei Li. [code and paper](https://github.com/FranxYao/pivot_analysis)
-  * A series of text mining algorithm for discovering words with strong influence on classification. Applied to analysing text attribute transfer models. 
+  * A series of text mining algorithms for discovering words with strong influence on classification. Applied to analysing text attribute transfer models. 
 * NAACL 2018. _Natural Answer Generation with Heterogeneous Memory_. Yao Fu and Yansong Feng
   * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
 
