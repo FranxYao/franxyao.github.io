@@ -10,7 +10,7 @@ But fight for your deepest belief no mater what the world is.
 
 [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | [Github](https://github.com/FranxYao) | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/)
 
-Yao Fu 符尧. 
+My name is Yao Fu 符尧
 
 I am a Ph.D. student at the University of Edinburgh. I am advised by Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) at Edinburgh and co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell. 
 I finished my M.S. at Columbia University with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
