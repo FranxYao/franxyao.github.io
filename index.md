@@ -32,7 +32,7 @@ Beside research, I love photography ([instagram](https://www.instagram.com/franx
 
 ### Publications
 
-* AAAI 2021. _Nested Named Entity Recognition with Partially Observed TreeCRFs_. Yao Fu\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang
+* AAAI 2021. _Nested Named Entity Recognition with Partially Observed TreeCRFs_. Yao Fu\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang [paper](https://franxyao.github.io/blog/nestedner.pdf)
   * A Masked Inside algorithm for efficient partial marginalization of TreeCRFs. Applied to Nested NER. \*Equal contribution. 
 * NeurIPS 2020. _Latent Template Induction with Gumbel-CRFs_. Yao Fu, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush. [code and paper](https://github.com/FranxYao/Gumbel-CRF)
   * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
