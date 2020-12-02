@@ -19,9 +19,8 @@ I finished my M.S. at Columbia University with Prof. [John Cunningham](https://s
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
-* NLP: Text generation and structured prediction
-* ML: Deep generative models with discrete latent structures 
-* Combined: Model transparency, interpretability, and controllability
+* NLP: Semantics; Text Generation; Structured Prediction
+* ML: Deep Generative Models; Discrete Latent Structures 
 
 I am maintaining the reading list about:
 * Deep Generative Models for Natural Language Processing. ([link](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
