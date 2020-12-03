@@ -29,15 +29,15 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Publications
 
-* AAAI 2021. _Nested Named Entity Recognition with Partially Observed TreeCRFs_. Yao Fu\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang. ([paper](https://franxyao.github.io/blog/nestedner.pdf))
+* AAAI 2021. _Nested Named Entity Recognition with Partially Observed TreeCRFs_. **Yao Fu**\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang. ([paper](https://franxyao.github.io/blog/nestedner.pdf))
   * A Masked Inside algorithm for efficient partial marginalization of TreeCRFs. Applied to Nested NER. \*Equal contribution. 
-* NeurIPS 2020. _Latent Template Induction with Gumbel-CRFs_. Yao Fu, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush. ([code and paper](https://github.com/FranxYao/Gumbel-CRF))
+* NeurIPS 2020. _Latent Template Induction with Gumbel-CRFs_. **Yao Fu**, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush. ([code and paper](https://github.com/FranxYao/Gumbel-CRF))
   * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
-* NeurIPS 2019. _Paraphrase Generation with Latent Bag of Words_. Yao Fu, Yansong Feng and John Cunningham. ([code and paper](https://github.com/FranxYao/dgm_latent_bow))
+* NeurIPS 2019. _Paraphrase Generation with Latent Bag of Words_. **Yao Fu**, Yansong Feng and John Cunningham. ([code and paper](https://github.com/FranxYao/dgm_latent_bow))
   * A differentiable planning and realization model for paraphrasing with latent bag of words by Gumbel-topK reparameterization.
-* INLG 2019. _Rethinking Text Attribute Transfer: A Lexical Analysis_. Yao Fu, Hao Zhou, Jiaze Chen and Lei Li. ([code and paper](https://github.com/FranxYao/pivot_analysis))
+* INLG 2019. _Rethinking Text Attribute Transfer: A Lexical Analysis_. **Yao Fu**, Hao Zhou, Jiaze Chen and Lei Li. ([code and paper](https://github.com/FranxYao/pivot_analysis))
   * A series of text mining algorithms for discovering words with strong influence on classification. Applied to analysing text attribute transfer models. 
-* NAACL 2018. _Natural Answer Generation with Heterogeneous Memory_. Yao Fu and Yansong Feng
+* NAACL 2018. _Natural Answer Generation with Heterogeneous Memory_. **Yao Fu** and Yansong Feng
   * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
 
 -----
