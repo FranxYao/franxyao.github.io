@@ -22,7 +22,7 @@ In terms of specific topics, I am interested in
 * NLP: Semantics; Text Generation; Structured Prediction
 * ML: Deep Generative Models; Discrete Latent Structures 
 
-Many topics that I'm interested in are covered by the following reading list about:
+Many topics that I'm interested in are covered by the following reading list:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
 
 -----
