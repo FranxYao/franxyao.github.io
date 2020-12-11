@@ -29,16 +29,21 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Publications
 
-*  __Yao Fu__\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang. _Nested Named Entity Recognition with Partially Observed TreeCRFs_. AAAI 2021. (\*Equal contribution.  [paper](https://franxyao.github.io/blog/nestedner.pdf))
-    * A Masked Inside algorithm for efficient partial marginalization of TreeCRFs. Applied to Nested NER.
-*  __Yao Fu__, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush.  _Latent Template Induction with Gumbel-CRFs_. NeurIPS 2020. ([code and paper](https://github.com/FranxYao/Gumbel-CRF))
-    * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
-* **Yao Fu**, Yansong Feng and John Cunningham. _Paraphrase Generation with Latent Bag of Words_. NeurIPS 2019. ([code and paper](https://github.com/FranxYao/dgm_latent_bow))
-    * A differentiable planning and realization model for paraphrasing with latent bag of words by Gumbel-topK reparameterization.
-* **Yao Fu**, Hao Zhou, Jiaze Chen and Lei Li. _Rethinking Text Attribute Transfer: A Lexical Analysis_. INLG 2019. ([code and paper](https://github.com/FranxYao/pivot_analysis))
-    * A series of text mining algorithms for discovering words with strong influence on classification. Applied to analysing text attribute transfer models. 
-* **Yao Fu** and Yansong Feng. _Natural Answer Generation with Heterogeneous Memory_.  NAACL 2018. ([paper](https://www.aclweb.org/anthology/N18-1017/))
-    * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
+* _Nested Named Entity Recognition with Partially Observed TreeCRFs_. [[paper](https://franxyao.github.io/blog/nestedner.pdf)]
+   *  __Yao Fu__\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang. \*Equal contribution. AAAI 2021
+   * A Masked Inside algorithm for efficient partial marginalization of TreeCRFs. Applied to Nested NER.
+* _Latent Template Induction with Gumbel-CRFs_. [[code and paper](https://github.com/FranxYao/Gumbel-CRF)]
+   * __Yao Fu__, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush. NeurIPS 2020
+   * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
+* _Paraphrase Generation with Latent Bag of Words_. [[code and paper](https://github.com/FranxYao/dgm_latent_bow)]
+   * **Yao Fu**, Yansong Feng and John Cunningham. NeurIPS 2019
+   * A differentiable planning and realization model for paraphrasing with latent bag of words by Gumbel-topK reparameterization.
+*  _Rethinking Text Attribute Transfer: A Lexical Analysis_. [[code and paper](https://github.com/FranxYao/pivot_analysis)]
+   * **Yao Fu**, Hao Zhou, Jiaze Chen and Lei Li. INLG 2019.
+   * A series of text mining algorithms for discovering words with strong influence on classification. Applied to analysing text attribute transfer models. 
+* _Natural Answer Generation with Heterogeneous Memory_. [[paper](https://www.aclweb.org/anthology/N18-1017/)]
+   * **Yao Fu** and Yansong Feng. NAACL 2018.
+   * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
 
 -----
 
