@@ -12,8 +12,8 @@ But fight for your deepest belief no mater what the world is.
 
 My name is Yao Fu 符尧
 
-I am a Ph.D. student at the University of Edinburgh. I am advised by Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) at Edinburgh and co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell. 
-I finished my M.S. at Columbia University with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
+I am a Ph.D. student at the University of Edinburgh (2020-). I am advised by Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) at Edinburgh and co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell. 
+I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
 
 
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
