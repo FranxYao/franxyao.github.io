@@ -1,5 +1,5 @@
 
-![](https://franxyao.github.io/images/cover.jpeg)
+![](https://franxyao.github.io/images/cover.jpg)
 
 ### The Bayesian's Creed
 
