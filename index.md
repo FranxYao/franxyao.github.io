@@ -29,7 +29,7 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Publications
 
-* ICLR 2021. _Probing BERT in Hyperbolic Space_. [[paper](https://openreview.net/forum?id=17VnwXYZyhH)]
+* ICLR 2021. _Probing BERT in Hyperbolic Spaces_. [[paper](https://openreview.net/forum?id=17VnwXYZyhH)]
   * Boli Chen\*, __Yao Fu__\*, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jing. \*Equal contribution. 
   * A Poincare probe for finding hierarchical structures in BERT. Applied to probing syntax and sentiment. 
 * ICLR 2021. _Prototypical Representation Learning for Relation Extraction_. [[paper](https://openreview.net/forum?id=aCgLmfhIy_f)]
