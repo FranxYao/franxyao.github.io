@@ -29,6 +29,12 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Publications
 
+* ICLR 2021. _Probing BERT in Hyperbolic Space_. [[paper](https://openreview.net/forum?id=17VnwXYZyhH)]
+  * Boli Chen\*, __Yao Fu__\*, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jing. \*Equal contribution. 
+  * A Poincare probe for finding hierarchical structures in BERT. Applied to probing syntax and sentiment. 
+* ICLR 2021. _Prototypical Representation Learning for Relation Extraction_. [[paper](https://openreview.net/forum?id=aCgLmfhIy_f)]
+  * Ning Ding, Xiaobin Wang, __Yao Fu__, Guangwei Xu, Rui Wang, Pengjun Xie, Ying Shen, Fei Huang, Hai-Tao Zheng, Rui Zhang
+  * A representation learning method for embedding relations prototypes on hyperspheres. Applied to supervised, semi-supervised, and few-shot representation learning settings. 
 * AAAI 2021. _Nested Named Entity Recognition with Partially Observed TreeCRFs_. [[paper](https://arxiv.org/abs/2012.08478)][[code](https://github.com/FranxYao/Partially-Observed-TreeCRFs)]
    *  __Yao Fu__\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang. \*Equal contribution. 
    * A Masked Inside algorithm for efficient partial marginalization of TreeCRFs. Applied to Nested NER.
