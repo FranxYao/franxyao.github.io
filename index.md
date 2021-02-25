@@ -1,18 +1,13 @@
 
 ![](images/cover.jpg)
 
-### The Bayesian's Creed
-
-Never let your shallow prior understanding override the truth of the world.
-
-But fight for your deepest belief no mater what the world is. 
 
 
 [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | [Github](https://github.com/FranxYao) | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/)
 
 My name is Yao Fu 符尧
 
-I am a Ph.D. student at the University of Edinburgh (2020-). I am advised by Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) at Edinburgh and co-advised by Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell. 
+I am a Ph.D. student at the University of Edinburgh (2020-) with Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
 
 
