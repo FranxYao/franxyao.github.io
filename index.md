@@ -58,9 +58,9 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Internships
 
-* Jan 20 - Oct 20. Natural Language Processing Research Intern. Alibaba Damo Academy, Beijing and Hangzhou. 
-* May 19 - Aug 19.  Natural Language Processing Research Intern. Tencent AI Lab, Seattle.
-* Dec 17 - Aug 18. Natural Language Processing Research Intern. Bytedance AI Lab, Beijing. 
+* Jan 20 - Oct 20. Alibaba Damo Academy. Natural Language Processing Research Intern. Beijing and Hangzhou. 
+* May 19 - Aug 19. Tencent AI Lab. Natural Language Processing Research Intern. Seattle.
+* Dec 17 - Aug 18. Bytedance AI Lab. Natural Language Processing Research Intern. Beijing. 
 
 
 
