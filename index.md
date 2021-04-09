@@ -19,6 +19,7 @@ In terms of specific topics, I am interested in
 
 Many topics that I'm interested in are covered by the following reading list:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
+* Compositional Generalization in Natural Language Processing. ([github](https://github.com/FranxYao/Compositional-Generalization-in-Natural-Language-Processing))
 
 -----
 
