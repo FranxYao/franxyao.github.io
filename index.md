@@ -24,7 +24,7 @@ Many topics that I'm interested in are covered by the following reading list:
 -----
 
 ### Publications
-* NAACL 2021. _Noisy Labeled NER with Confidence Estimation_. 
+* NAACL 2021. _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)]
   * Kun Liu\*, __Yao Fu__\*, Chuanqi Tan, Mosha Chen, Ningyu Zhang, Songfang Huang and Sheng Gao. \*Equal contribution.
   * A confidence estimation method for estimating label noise in NER annotations and a training method based on partial marginalization according to estimated noise.
 * ICLR 2021. _Probing BERT in Hyperbolic Spaces_. [[paper](https://openreview.net/forum?id=17VnwXYZyhH)][[code](https://github.com/FranxYao/PoincareProbe)]
