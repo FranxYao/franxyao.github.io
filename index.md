@@ -14,7 +14,7 @@ I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningha
 I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
-* NLP: Semantics; Text Generation; Structured Prediction
+* NLP: Semantics; Text Generation; Linguistic Structure Prediction
 * ML: Generalization; Deep Generative Models; Discrete Latent Structures 
 
 Many topics that I'm interested in are covered by the following reading list:
