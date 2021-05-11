@@ -11,7 +11,7 @@ I am a Ph.D. student at the University of Edinburgh (2020-) with Prof. [Mirella 
 I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). Before Ph.D., I spent great time visiting Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
 
 
-I study machine learning problems rooted from NLP tasks, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
+I study learning problems rooted from human language, particularly generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
 * NLP: Semantics; Text Generation; Linguistic Structure Prediction
@@ -53,16 +53,17 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Teaching 
 
-* Alibaba Advanced Probabilistic Machine Learning Seminar. 2020. Instructor. 
-* [Columbia COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 19 Spring, Course Assistant. Tought by prof. Andreas Muller. 
+* PKU EECS. Empirical Methods for Natural Language Processing. 2021 Spring. Guest lecture on Text Generation. Tought by Prof. Yansong Feng.
+* Alibaba Advanced Probabilistic Machine Learning Seminar. 2020 Spring. Instructor. 
+* [Columbia COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 19 Spring, Course Assistant. Tought by Prof. Andreas Muller. 
 
 -----
 
 ### Internships
-
-* Jan 20 - Oct 20. Alibaba Damo Academy. Natural Language Processing Research Intern. Beijing and Hangzhou. 
-* May 19 - Aug 19. Tencent AI Lab. Natural Language Processing Research Intern. Seattle.
-* Dec 17 - Aug 18. Bytedance AI Lab. Natural Language Processing Research Intern. Beijing. 
+* Sep 21 - Dec 21 (Expected). Facebook AI. Applied Research Intern. London
+* Jan 20 - Oct 20. Alibaba Damo Academy. Natural Language Processing Research Intern. Beijing and Hangzhou
+* May 19 - Aug 19. Tencent AI Lab. Natural Language Processing Research Intern. Seattle
+* Dec 17 - Aug 18. Bytedance AI Lab. Natural Language Processing Research Intern. Beijing
 
 
 
