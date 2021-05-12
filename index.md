@@ -57,6 +57,13 @@ Many topics that I'm interested in are covered by the following reading list:
 * Alibaba Advanced Probabilistic Machine Learning Seminar. 2020 Spring. Instructor. 
 * [Columbia COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 19 Spring, Course Assistant. Tought by Prof. Andreas Muller. 
 
+
+-----
+
+### Resources and Tutorials 
+
+* How to write Variational Inference and Generative Models for NLP: a recipe. [[pdf](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing/blob/master/src/VI4NLP_Recipe.pdf)]
+
 -----
 
 ### Internships
