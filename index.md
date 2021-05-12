@@ -24,13 +24,13 @@ Many topics that I'm interested in are covered by the following reading list:
 -----
 
 ### Publications
-* NAACL 2021. _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)]
+* NAACL 2021. _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)][[code](https://github.com/liukun95/Noisy-NER-Confidence-Estimation)]
   * Kun Liu\*, __Yao Fu__\*, Chuanqi Tan, Mosha Chen, Ningyu Zhang, Songfang Huang and Sheng Gao. \*Equal contribution.
   * A confidence estimation method for estimating label noise in NER annotations and a training method based on partial marginalization according to estimated noise.
 * ICLR 2021. _Probing BERT in Hyperbolic Spaces_. [[paper](https://openreview.net/forum?id=17VnwXYZyhH)][[code](https://github.com/FranxYao/PoincareProbe)]
   * Boli Chen\*, __Yao Fu__\*, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jing. \*Equal contribution. 
   * A Poincare probe for recovering hierarchical structures from contextualized representations. Applied to probing syntax and sentiment in BERT. 
-* ICLR 2021. _Prototypical Representation Learning for Relation Extraction_. [[paper](https://openreview.net/forum?id=aCgLmfhIy_f)]
+* ICLR 2021. _Prototypical Representation Learning for Relation Extraction_. [[paper](https://openreview.net/forum?id=aCgLmfhIy_f)][[code](https://github.com/Alibaba-NLP/ProtoRE)]
   * Ning Ding, Xiaobin Wang, __Yao Fu__, Guangwei Xu, Rui Wang, Pengjun Xie, Ying Shen, Fei Huang, Hai-Tao Zheng, Rui Zhang
   * A representation learning method for embedding relation prototypes on hyperspheres. Applied to supervised, semi-supervised, and few-shot relational learning. 
 * AAAI 2021. _Nested Named Entity Recognition with Partially Observed TreeCRFs_. [[paper](https://arxiv.org/abs/2012.08478)][[code](https://github.com/FranxYao/Partially-Observed-TreeCRFs)]
