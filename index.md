@@ -62,6 +62,7 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Resources and Tutorials 
 
+* Deep Structured Prediction: Inference, Reparameterization and Applications. [[pdf](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/bytedance%20structured%20prediction%20pub.pdf)]
 * How to write Variational Inference and Generative Models for NLP: a recipe. [[pdf](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing/blob/master/src/VI4NLP_Recipe.pdf)]
 
 -----
