@@ -2,7 +2,7 @@
 
 ### The Bayesian's Creed
 
-Your deep belief and core value are independent of any outer environment factors
+Your deep belief and core value are independent of any temporal environment variation
 
 ---
 
