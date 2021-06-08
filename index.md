@@ -15,11 +15,11 @@ I am a Ph.D. student at the University of Edinburgh (2020-) with Prof. [Mirella 
 I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) doing deep generative models and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home) doing text generation. Before Ph.D., I spent great time visiting Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020) doing structured latent variable models. 
 
 
-I study a spectrum of learning problems rooted from human language, with particular focus on generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
+I persue the fundamental principles of human language through a spectrum of learning problems rooted from NLP tasks, with particular focus on generation and structured prediction. I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
 * NLP: Semantics; Text Generation; Linguistic Structure Prediction
-* ML: Generalization; Deep Generative Models; Discrete Latent Structures 
+* ML: Generalization; Representation; Discrete Latent Structures; Deep Generative Models
 
 Many topics that I'm interested in are covered by the following reading list:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
