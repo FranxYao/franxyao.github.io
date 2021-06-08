@@ -1,6 +1,10 @@
-
 ![](images/cover.jpg)
 
+### The Bayesian's Creed
+
+The deep belief and core value that are independent of outer environment. 独立于环境变化的深刻信念与核心价值
+
+---
 
 
 [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | [Github](https://github.com/FranxYao) | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/)
