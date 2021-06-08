@@ -19,7 +19,7 @@ I persue the fundamental principles of human language through a spectrum of lear
 
 In terms of specific topics, I am interested in 
 * NLP: Semantics; Text Generation; Linguistic Structure Prediction
-* ML: Generalization; Representation; Discrete Latent Structures; Deep Generative Models
+* ML: Generalization; Discrete Latent Structures; Deep Generative Models
 
 Many topics that I'm interested in are covered by the following reading list:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
