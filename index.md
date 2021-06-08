@@ -2,7 +2,7 @@
 
 ### The Bayesian's Creed
 
-The deep belief and core value that are independent of outer environment. 独立于环境变化的深刻信念与核心价值
+Your deep belief and core value are independent of any outer environment factors
 
 ---
 
