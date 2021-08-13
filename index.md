@@ -11,7 +11,7 @@ Deep belief and core value are independent of temporal environment variation
 
 My name is Yao Fu 符尧
 
-I am a Ph.D. student at the University of Edinburgh (2020-) with Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) doing semantic parsing. 
+I am a Ph.D. student at the University of Edinburgh (2020-) with Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) studying latent structures of human language. 
 I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) doing deep generative models and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home) doing text generation. Before Ph.D., I spent great time visiting Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020) doing structured latent variable models. 
 
 
@@ -72,7 +72,6 @@ Many topics that I'm interested in are covered by the following reading list:
 -----
 
 ### Internships
-* Sep 21 - Dec 21 (Expected). Facebook AI. Applied Research Intern. London
 * Jan 20 - Oct 20. Alibaba Damo Academy. Natural Language Processing Research Intern. Beijing and Hangzhou
 * May 19 - Aug 19. Tencent AI Lab. Natural Language Processing Research Intern. Seattle
 * Dec 17 - Aug 18. Bytedance AI Lab. Natural Language Processing Research Intern. Beijing
