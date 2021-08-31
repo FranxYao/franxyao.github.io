@@ -28,28 +28,28 @@ Many topics that I'm interested in are covered by the following reading list:
 -----
 
 ### Publications
-* NAACL 2021. _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)][[code](https://github.com/liukun95/Noisy-NER-Confidence-Estimation)]
+* [NAACL 2021] _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)][[code](https://github.com/liukun95/Noisy-NER-Confidence-Estimation)]
   * Kun Liu\*, __Yao Fu__\*, Chuanqi Tan, Mosha Chen, Ningyu Zhang, Songfang Huang and Sheng Gao. \*Equal contribution.
   * A confidence estimation method for estimating label noise in NER annotations and a training method based on partial marginalization according to estimated noise.
-* ICLR 2021. _Probing BERT in Hyperbolic Spaces_. [[paper](https://openreview.net/forum?id=17VnwXYZyhH)][[code](https://github.com/FranxYao/PoincareProbe)]
+* [ICLR 2021] _Probing BERT in Hyperbolic Spaces_. [[paper](https://openreview.net/forum?id=17VnwXYZyhH)][[code](https://github.com/FranxYao/PoincareProbe)]
   * Boli Chen\*, __Yao Fu__\*, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jing. \*Equal contribution. 
   * A Poincare probe for recovering hierarchical structures from contextualized representations. Applied to probing syntax and sentiment in BERT. 
-* ICLR 2021. _Prototypical Representation Learning for Relation Extraction_. [[paper](https://openreview.net/forum?id=aCgLmfhIy_f)][[code](https://github.com/Alibaba-NLP/ProtoRE)]
+* [ICLR 2021] _Prototypical Representation Learning for Relation Extraction_. [[paper](https://openreview.net/forum?id=aCgLmfhIy_f)][[code](https://github.com/Alibaba-NLP/ProtoRE)]
   * Ning Ding, Xiaobin Wang, __Yao Fu__, Guangwei Xu, Rui Wang, Pengjun Xie, Ying Shen, Fei Huang, Hai-Tao Zheng, Rui Zhang
   * A representation learning method for embedding relation prototypes on hyperspheres. Applied to supervised, semi-supervised, and few-shot relational learning. 
-* AAAI 2021. _Nested Named Entity Recognition with Partially Observed TreeCRFs_. [[paper](https://arxiv.org/abs/2012.08478)][[code](https://github.com/FranxYao/Partially-Observed-TreeCRFs)]
+* [AAAI 2021] _Nested Named Entity Recognition with Partially Observed TreeCRFs_. [[paper](https://arxiv.org/abs/2012.08478)][[code](https://github.com/FranxYao/Partially-Observed-TreeCRFs)]
    *  __Yao Fu__\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang. \*Equal contribution. 
    * A Masked Inside algorithm for efficient partial marginalization of TreeCRFs. Applied to Nested NER.
-* NeurIPS 2020. _Latent Template Induction with Gumbel-CRFs_. [[paper](https://arxiv.org/abs/2011.14244)][[code](https://github.com/FranxYao/Gumbel-CRF)]
+* [NeurIPS 2020] _Latent Template Induction with Gumbel-CRFs_. [[paper](https://arxiv.org/abs/2011.14244)][[code](https://github.com/FranxYao/Gumbel-CRF)]
    * __Yao Fu__, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush. 
    * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
-* NeurIPS 2019. _Paraphrase Generation with Latent Bag of Words_. [[paper](https://arxiv.org/abs/2001.01941)][[code](https://github.com/FranxYao/dgm_latent_bow)]
+* [NeurIPS 2019] _Paraphrase Generation with Latent Bag of Words_. [[paper](https://arxiv.org/abs/2001.01941)][[code](https://github.com/FranxYao/dgm_latent_bow)]
    * **Yao Fu**, Yansong Feng and John Cunningham. 
    * A differentiable planning and realization model with latent bag of words by Gumbel-topK reparameterization. Applied to paraphrase generation.
-* INLG 2019. _Rethinking Text Attribute Transfer: A Lexical Analysis_. [[paper](https://arxiv.org/abs/1909.12335)][[code](https://github.com/FranxYao/pivot_analysis)]
+* [INLG 2019] _Rethinking Text Attribute Transfer: A Lexical Analysis_. [[paper](https://arxiv.org/abs/1909.12335)][[code](https://github.com/FranxYao/pivot_analysis)]
    * **Yao Fu**, Hao Zhou, Jiaze Chen and Lei Li. 
    * A series of text mining algorithms for discovering words with strong influence on classification. Applied to analysing text attribute transfer models. 
-* NAACL 2018. _Natural Answer Generation with Heterogeneous Memory_. [[paper](https://www.aclweb.org/anthology/N18-1017/)]
+* [NAACL 2018] _Natural Answer Generation with Heterogeneous Memory_. [[paper](https://www.aclweb.org/anthology/N18-1017/)]
    * **Yao Fu** and Yansong Feng. 
    * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
 
