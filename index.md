@@ -9,7 +9,7 @@ Deep belief and core value are independent of temporal environment variation
 
 [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | [Github](https://github.com/FranxYao) | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/) | [Galary](galary.md)
 
-My name is Yao Fu 符尧
+My name is Yao Fu 符尧. My email address is yao.fu@ed.ac.uk
 
 I am a Ph.D. student at the University of Edinburgh (2020-) with Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) doing deep generative models and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home) doing text generation. 
