@@ -1,9 +1,5 @@
 ![](images/cover.jpg)
 
-### The Bayesian's Creed
-
-Deep belief and core value are independent of temporal environment variation
-
 ---
 
 
@@ -16,10 +12,10 @@ I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningha
 Before Ph.D., I spent great time visiting Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020) doing structured latent variable models. 
 
 
-Although my research focus is structured prediction and text generation, 
-I believe that to persue the most fundamental principles of human language, one must utilize a spectrum of interdisciplinary techniques: ML, NLP, Linguistics, Statistics, Optimization, Geometry, .etc. 
-Many of my research lay in the intersection of these areas. 
-But in general, I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
+My research focus is structured prediction and text generation, 
+and I believe that to persue the most fundamental principles of human language, one must utilize a spectrum of interdisciplinary techniques: ML, NLP, Linguistics, Statistics, Optimization, Geometry, .etc. 
+Many of my papers lay in the intersection of these areas. 
+In general, I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
 * NLP: Semantics; Text Generation; Linguistic Structure Prediction
