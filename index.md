@@ -18,8 +18,8 @@ Many of my papers lay in the intersection of these areas.
 In general, I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
-* NLP: Semantics; Text Generation; Linguistic Structure Prediction
-* ML: Generalization; Discrete Latent Structures; Deep Generative Models
+* NLP: Text Generation; Linguistic Structure Prediction
+* ML: Discrete Latent Structures; Deep Generative Models
 
 Many topics that I'm interested in are covered by the following reading list:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
