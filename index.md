@@ -31,6 +31,7 @@ Many topics that I'm interested in are covered by the following reading list:
 
 * _Scaling Structured Inference with Randomization_. 2021
   * Yao Fu and Mirella Lapata
+  *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
 
 ### Publications
 * [NAACL 2021] _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)][[code](https://github.com/liukun95/Noisy-NER-Confidence-Estimation)]
@@ -62,6 +63,7 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Teaching 
 
+* University of Edinburgh. Probabilistic Modeling and Reasoning. 2022 Spring. Tought by Michael Gutmann.
 * PKU EECS. Empirical Methods for Natural Language Processing. 2021 Spring. Guest lecture on Text Generation. Tought by Prof. Yansong Feng.
 * Alibaba Advanced Probabilistic Machine Learning Seminar. 2020 Spring. Instructor. 
 * [Columbia COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 19 Spring, Course Assistant. Tought by Prof. Andreas Muller. 
