@@ -27,6 +27,11 @@ Many topics that I'm interested in are covered by the following reading list:
 
 -----
 
+### Priprint
+
+* _Scaling Structured Inference with Randomization_. 2021
+  * Yao Fu and Mirella Lapata
+
 ### Publications
 * [NAACL 2021] _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)][[code](https://github.com/liukun95/Noisy-NER-Confidence-Estimation)]
   * Kun Liu\*, __Yao Fu__\*, Chuanqi Tan, Mosha Chen, Ningyu Zhang, Songfang Huang and Sheng Gao. \*Equal contribution.
