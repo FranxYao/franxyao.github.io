@@ -29,7 +29,7 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Priprint
 
-* _Scaling Structured Inference with Randomization_. 2021
+* _Scaling Structured Inference with Randomization_. 2021. [[Arxiv](https://arxiv.org/abs/2112.03638)]
   * Yao Fu and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
 
