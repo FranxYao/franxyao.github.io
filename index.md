@@ -12,25 +12,26 @@ I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningha
 Before Ph.D., I spent great time visiting Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020) doing structured latent variable models. 
 
 
-My research focus is structured prediction and text generation, 
-and I believe that to persue the most fundamental principles of human language, one must utilize a spectrum of interdisciplinary techniques: ML, NLP, Linguistics, Statistics, Optimization, Geometry, .etc. 
-Many of my papers lay in the intersection of these areas. 
-In general, I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
+My research focus on deep generative models for NLP, particularily language generation and structured prediction.
+
+I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
+I believe that to persue the most fundamental principles of human language, one must utilize a spectrum of interdisciplinary techniques: ML, NLP, Linguistics, Statistics, Optimization, .etc. 
+Many of my papers utilize techniques from these areas. 
 
 In terms of specific topics, I am interested in 
 * NLP: Text Generation; Linguistic Structure Prediction
 * ML: Discrete Latent Structures; Deep Generative Models
 
-Many topics that I'm interested in are covered by the following reading list:
+I'm maintaining the following reading list:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
 * Compositional Generalization in Natural Language Processing. ([github](https://github.com/FranxYao/Compositional-Generalization-in-Natural-Language-Processing))
 
 -----
 
-### Priprint
+### Preprints
 
 * _Scaling Structured Inference with Randomization_. 2021. [[Arxiv](https://arxiv.org/abs/2112.03638)]
-  * Yao Fu and Mirella Lapata
+  * Yao Fu, John P. Cunningham and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
 
 ### Publications
@@ -63,6 +64,7 @@ Many topics that I'm interested in are covered by the following reading list:
 
 ### Teaching 
 
+* University of Edinburgh. Natural Language Understanding. 2022 Spring. Tought by Alexandra Birch, Frank Keller, and Laura Perez.
 * University of Edinburgh. Probabilistic Modeling and Reasoning. 2022 Spring. Tought by Michael Gutmann.
 * PKU EECS. Empirical Methods for Natural Language Processing. 2021 Spring. Guest lecture on Text Generation. Tought by Prof. Yansong Feng.
 * Alibaba Advanced Probabilistic Machine Learning Seminar. 2020 Spring. Instructor. 
