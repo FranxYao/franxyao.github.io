@@ -62,8 +62,8 @@ I'm maintaining the following reading list:
 
 ### Teaching 
 
-* University of Edinburgh. Natural Language Understanding. 2022 Spring. Tought by Alexandra Birch, Frank Keller, and Laura Perez.
-* University of Edinburgh. Probabilistic Modeling and Reasoning. 2022 Spring. Tought by Michael Gutmann.
+* University of Edinburgh. Natural Language Understanding. 2022 Spring. Teaching Assistant. Tought by Alexandra Birch, Frank Keller, and Laura Perez.
+* University of Edinburgh. [Probabilistic Modeling and Reasoning](http://www.inf.ed.ac.uk/teaching/courses/pmr/21-22/). 2022 Spring. Teaching Assistant. Tought by Michael Gutmann.
 * PKU EECS. Empirical Methods for Natural Language Processing. 2021 Spring. Guest lecture on Text Generation. Tought by Prof. Yansong Feng.
 * Alibaba Advanced Probabilistic Machine Learning Seminar. 2020 Spring. Instructor. 
 * [Columbia COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 19 Spring, Course Assistant. Tought by Prof. Andreas Muller. 
