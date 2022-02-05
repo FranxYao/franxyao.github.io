@@ -8,18 +8,16 @@
 My name is Yao Fu 符尧. My email address is yao.fu@ed.ac.uk
 
 I am a Ph.D. student at the University of Edinburgh (2020-) with Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
-I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) doing deep generative models and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home) doing text generation. 
-Before Ph.D., I spent great time visiting Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020) doing structured latent variable models. 
+I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
+Before Ph.D., I spent great time visiting Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
 
 
-My research focus on deep generative models for NLP, particularily language generation and structured prediction.
+My research focuses on deep generative models for natural language processing.
 
 I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
-I believe that to persue the most fundamental principles of human language, one must utilize a spectrum of interdisciplinary techniques: ML, NLP, Linguistics, Statistics, Optimization, .etc. 
-Many of my papers utilize techniques from these areas. 
 
 In terms of specific topics, I am interested in 
-* NLP: Text Generation; Linguistic Structure Prediction
+* NLP: Language Generation; Linguistic Structure Prediction
 * ML: Discrete Latent Structures; Deep Generative Models
 
 I'm maintaining the following reading list:
@@ -75,8 +73,9 @@ I'm maintaining the following reading list:
 
 ### Resources and Tutorials 
 
-* Deep Structured Prediction: Inference, Reparameterization and Applications. Talk at Bytedance. Jun 2021 [[pdf](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/bytedance%20structured%20prediction%20pub.pdf)]
-* How to write Variational Inference and Generative Models for NLP: a recipe. Talk at Edinburgh. Mar 2021 [[pdf](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing/blob/master/src/VI4NLP_Recipe.pdf)]
+* [Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://www.notion.so/yaofu/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f). Feb 2022. 
+* Deep Structured Prediction: Inference, Reparameterization and Applications. Jun 2021 [[pdf](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/bytedance%20structured%20prediction%20pub.pdf)]
+* How to write Variational Inference and Generative Models for NLP: a recipe. Mar 2021 [[pdf](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing/blob/master/src/VI4NLP_Recipe.pdf)]
 
 -----
 
