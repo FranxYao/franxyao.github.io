@@ -7,18 +7,18 @@
 
 My name is Yao Fu 符尧. My email address is yao.fu@ed.ac.uk
 
-I am a Ph.D. student at the University of Edinburgh (2020-) with Prof. [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
-I finished my M.S. at Columbia University (2018-2020) with Prof. [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with Prof. [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
-Before Ph.D., I spent great time visiting Prof. [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
+I am a Ph.D. student at the University of Edinburgh (2020-) with professor [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
+I finished my M.S. at Columbia University (2018-2020) with professor [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with professor [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
+Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
 
 
 My research focuses on deep generative models for natural language processing.
 
-I derive probabilistic models guided by Bayesian principles, equipped with modern neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
+I derive probabilistic models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
 In terms of specific topics, I am interested in 
 * NLP: Language Generation; Linguistic Structure Prediction
-* ML: Discrete Latent Structures; Deep Generative Models
+* ML: Discrete Structures; Efficient Inference 
 
 I'm maintaining the following reading list:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
