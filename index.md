@@ -12,15 +12,15 @@ I finished my M.S. at Columbia University (2018-2020) with professor [John Cunni
 Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
 
 
-My research focuses on deep generative models for natural language processing.
+I study deep generative models for natural language processing.
 
 I derive probabilistic models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
-In terms of specific topics, I am interested in 
+My research is equally divided between NLP and ML. My publications cover the following topics: 
 * NLP: Language Generation; Linguistic Structure Prediction
 * ML: Discrete Structures; Efficient Inference 
 
-I'm maintaining the following reading list:
+I'm maintaining the following reading list as research roadmaps:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
 * Compositional Generalization in Natural Language Processing. ([github](https://github.com/FranxYao/Compositional-Generalization-in-Natural-Language-Processing))
 
