@@ -12,7 +12,7 @@ I finished my M.S. at Columbia University (2018-2020) with professor [John Cunni
 Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
 
 
-I study deep generative models for natural language processing.
+I study generative models for natural language.
 
 I derive probabilistic models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
 
