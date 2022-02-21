@@ -12,13 +12,13 @@ I finished my M.S. at Columbia University (2018-2020) with professor [John Cunni
 Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
 
 
-I study generative models for natural language.
+I study probabilistic models for human language.
 
-I derive probabilistic models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference, and grounded to linguistics and real-world scenarios. 
+I build generative models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference and computation, and grounded to linguistic structures and real-world scenarios. 
 
-My research is equally divided between NLP and ML. My publications cover the following topics: 
+My research is equally divided between ML and NLP. My publications cover the following topics: 
 * NLP: Language Generation; Linguistic Structure Prediction
-* ML: Discrete Structures; Efficient Inference 
+* ML: Discrete Latent Structures; Efficient Inference 
 
 I'm maintaining the following reading list as research roadmaps:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
