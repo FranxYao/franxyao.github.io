@@ -5,7 +5,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) | [Github](https://github.com/FranxYao) | [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) | [Instagram](https://www.instagram.com/franx_yao/) | [Galary](galary.md)
 
-My name is Yao Fu 符尧. My email address is yao.fu@ed.ac.uk
+Yao Fu 符尧. yao.fu@ed.ac.uk
 
 I am a Ph.D. student at the University of Edinburgh (2020-) with professor [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). 
 I finished my M.S. at Columbia University (2018-2020) with professor [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with professor [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
@@ -16,7 +16,7 @@ I study probabilistic models for human language.
 
 I build generative models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference and computation, and grounded to linguistic structures and real-world scenarios. 
 
-My research is equally divided between ML and NLP. My publications cover the following topics: 
+My research is equally distributed into Machine Learning and Natural Language Processing. My publications cover the following topics: 
 * NLP: Language Generation; Linguistic Structure Prediction
 * ML: Discrete Latent Structures; Efficient Inference 
 
