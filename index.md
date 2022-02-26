@@ -29,10 +29,13 @@ I'm maintaining the following reading lists as research roadmaps:
 ### Preprints
 
 * _Scaling Structured Inference with Randomization_. 2021. [[Arxiv](https://arxiv.org/abs/2112.03638)]
-  * Yao Fu, John P. Cunningham and Mirella Lapata
+  * __Yao Fu__, John P. Cunningham and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
 
 ### Publications
+* [TACL 2022] _Data-to-text Generation with Variational Sequential Planning_
+  * Ratish Puduppully, __Yao Fu__, Mirella Lapata
+  * A latent planning model for generate very long document.
 * [NAACL 2021] _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)][[code](https://github.com/liukun95/Noisy-NER-Confidence-Estimation)]
   * Kun Liu\*, __Yao Fu__\*, Chuanqi Tan, Mosha Chen, Ningyu Zhang, Songfang Huang and Sheng Gao. \*Equal contribution.
   * A confidence estimation method for estimating label noise in NER annotations and a training method based on partial marginalization according to estimated noise.
