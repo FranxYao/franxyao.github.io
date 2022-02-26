@@ -20,7 +20,7 @@ My research is equally distributed into Machine Learning and Natural Language Pr
 * NLP: Language Generation; Linguistic Structure Prediction
 * ML: Discrete Latent Structures; Efficient Inference 
 
-I'm maintaining the following reading list as research roadmaps:
+I'm maintaining the following reading lists as research roadmaps:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
 * Compositional Generalization in Natural Language Processing. ([github](https://github.com/FranxYao/Compositional-Generalization-in-Natural-Language-Processing))
 
