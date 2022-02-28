@@ -35,7 +35,7 @@ I'm maintaining the following reading lists as research roadmaps:
 ### Publications
 * [TACL 2022] _Data-to-text Generation with Variational Sequential Planning_.
   * Ratish Puduppully, __Yao Fu__, Mirella Lapata
-  * A latent planning model for generate very long document.
+  * A latent planning model for generating very long document.
 * [NAACL 2021] _Noisy Labeled NER with Confidence Estimation_. [[paper](https://arxiv.org/abs/2104.04318)][[code](https://github.com/liukun95/Noisy-NER-Confidence-Estimation)]
   * Kun Liu\*, __Yao Fu__\*, Chuanqi Tan, Mosha Chen, Ningyu Zhang, Songfang Huang and Sheng Gao. \*Equal contribution.
   * A confidence estimation method for estimating label noise in NER annotations and a training method based on partial marginalization according to estimated noise.
