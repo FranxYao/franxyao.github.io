@@ -88,6 +88,7 @@ I'm maintaining the following reading lists as research roadmaps:
 -----
 
 ### Internships
+* Jun 22 (Expected). Allen Institute for Artificial Intelligence. Seattle. 
 * Jan 20 - Oct 20. Alibaba Damo Academy. Natural Language Processing Research Intern. Beijing and Hangzhou
 * May 19 - Aug 19. Tencent AI Lab. Natural Language Processing Research Intern. Seattle
 * Dec 17 - Aug 18. Bytedance AI Lab. Natural Language Processing Research Intern. Beijing
