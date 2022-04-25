@@ -18,7 +18,7 @@ I build generative models guided by Bayesian principles, equipped with modern la
 
 My research is equally distributed into Machine Learning and Natural Language Processing. My publications cover the following topics: 
 * NLP: Language Generation; Linguistic Structure Prediction
-* ML: Discrete Latent Structures; Efficient Inference 
+* ML: Discrete Latent Structures; Efficient Inference Algorithms
 
 I'm maintaining the following reading lists as research roadmaps:
 * Deep Generative Models for Natural Language Processing. ([github](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing))
