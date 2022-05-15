@@ -12,7 +12,7 @@ I finished my M.S. at Columbia University (2018-2020) with professor [John Cunni
 Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
 
 
-I study probabilistic models for human language, one small step at a time.
+I study probabilistic models for human language, one step at a time.
 
 I build generative models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference and computation, and grounded to linguistic structures and real-world scenarios. 
 
@@ -26,13 +26,10 @@ I'm maintaining the following reading lists as research roadmaps:
 
 -----
 
-### Preprints
-
-* _Scaling Structured Inference with Randomization_. 2021. [[Arxiv](https://arxiv.org/abs/2112.03638)]
+### Publications
+* [ICML 2022] _Scaling Structured Inference with Randomization_. 2021. [[paper](https://arxiv.org/abs/2112.03638)]
   * __Yao Fu__, John P. Cunningham and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
-
-### Publications
 * [TACL 2022] _Data-to-text Generation with Variational Sequential Planning_.[[paper](https://arxiv.org/abs/2202.13756)][[code](https://github.com/ratishsp/data2text-seq-plan-py)]
   * Ratish Puduppully, __Yao Fu__, Mirella Lapata
   * A latent planning model for generating very long document.
