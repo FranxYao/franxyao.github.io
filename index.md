@@ -25,9 +25,15 @@ I'm maintaining the following reading lists as research roadmaps:
 * Compositional Generalization in Natural Language Processing. ([github](https://github.com/FranxYao/Compositional-Generalization-in-Natural-Language-Processing))
 
 -----
+### Preprints
+* [Arvix 2022] _Latent Topology Induction for Understanding Contextualized Representations_. 
+  * __Yao Fu__ and Mirella Lapata
+  * Discover a latent network within the representation space of large language models.
+
+-----
 
 ### Publications
-* [ICML 2022] _Scaling Structured Inference with Randomization_. 2021. [[paper](https://arxiv.org/abs/2112.03638)]
+* [ICML 2022] _Scaling Structured Inference with Randomization_. [[paper](https://arxiv.org/abs/2112.03638)]
   * __Yao Fu__, John P. Cunningham and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
 * [TACL 2022] _Data-to-text Generation with Variational Sequential Planning_.[[paper](https://arxiv.org/abs/2202.13756)][[code](https://github.com/ratishsp/data2text-seq-plan-py)]
