@@ -68,6 +68,8 @@ I'm maintaining the following reading lists as research roadmaps:
 
 ### Teaching 
 
+* Peking University. Empirical Methods for Natural Language Processing. 2022 Spring. 
+  * Guest lecture on Text Generation. Tought by Yansong Feng.
 * University of Edinburgh. Natural Language Understanding. 2022 Spring. 
   * Teaching Assistant. Tought by Alexandra Birch, Frank Keller, and Laura Perez.
 * University of Edinburgh. [Probabilistic Modeling and Reasoning](http://www.inf.ed.ac.uk/teaching/courses/pmr/21-22/). 2022 Spring. 
@@ -91,10 +93,14 @@ I'm maintaining the following reading lists as research roadmaps:
 -----
 
 ### Internships
-* Jun 22 - Aug 22 (Expected). Allen Institute for Artificial Intelligence. Natural Language Processing Research Intern. Seattle. 
+* Jun 22 - Aug 22. Allen Institute for Artificial Intelligence. Natural Language Processing Research Intern. Seattle. 
+  * with Dr. [Tushar Khot](https://scholar.google.com/citations?user=_8mkIjgAAAAJ&hl=en)
 * Jan 20 - Oct 20. Alibaba Damo Academy. Natural Language Processing Research Intern. Beijing and Hangzhou
+  * with Dr. [Chuanqi Tan](https://scholar.google.com/citations?user=tOfo4ncAAAAJ&hl=zh-CN) and [Mosha Chen](https://scholar.google.com/citations?user=6bTGGDAAAAAJ&hl=en)
 * May 19 - Aug 19. Tencent AI Lab. Natural Language Processing Research Intern. Seattle
+  * with Dr. [Kun Xu](https://sites.google.com/view/kunxu/home) and Dr. [Dong Yu](https://sites.google.com/view/dongyu888/)
 * Dec 17 - Aug 18. Bytedance AI Lab. Natural Language Processing Research Intern. Beijing
+  * with Prof. [Hao Zhou](https://scholar.google.com/citations?user=q3WaozcAAAAJ&hl=en) and Prof. [Lei Li](https://scholar.google.com/citations?user=BYXqAlwAAAAJ&hl=en)
 
 
 
