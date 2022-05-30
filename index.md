@@ -16,7 +16,7 @@ I study probabilistic models for human language.
 
 I build generative models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference and computation, and grounded to linguistic structures and real-world scenarios. 
 
-My research is equally distributed into Machine Learning and Natural Language Processing. My publications cover the following topics: 
+My research is equally distributed into Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP. My publications cover the following topics: 
 * NLP: Language Generation; Linguistic Structure Prediction
 * ML: Discrete Latent Structures; Efficient Inference Algorithms
 
