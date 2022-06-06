@@ -14,7 +14,7 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study probabilistic models for human language.
 
-I build generative models guided by Bayesian principles, equipped with modern large-scale neural architectures, utilizing efficient inference and computation, and grounded to linguistic structures and real-world scenarios. 
+I build generative models guided by Bayesian principles, equipped with large language models, utilizing efficient inference and computation, and grounded to linguistic structures and real-world scenarios. 
 
 My research is equally distributed into Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP. My publications cover the following topics: 
 * NLP: Language Generation; Linguistic Structure Prediction
@@ -26,7 +26,7 @@ I'm maintaining the following reading lists as research roadmaps:
 
 -----
 ### Preprints
-* [Arvix 2022] _Latent Topology Induction for Understanding Contextualized Representations_. 
+* [Arvix 2022] _Latent Topology Induction for Understanding Contextualized Representations_. [[paper](https://arxiv.org/abs/2206.01512)]
   * __Yao Fu__ and Mirella Lapata
   * Discover a latent network within the representation space of large language models.
 
