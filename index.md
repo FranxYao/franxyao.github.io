@@ -14,7 +14,7 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study probabilistic models for human language.
 
-I build generative models guided by Bayesian principles, equipped with large language models, utilizing efficient inference, and grounded to real-world language scenarios. 
+I build generative models guided by Bayesian principles, powered by large language models, exploiting efficient inference, and grounded to real-world language scenarios. 
 
 My research is equally distributed into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP. My publications cover the following topics: 
 * NLP: Language Generation; Linguistic Structure Prediction
@@ -93,7 +93,7 @@ I'm maintaining the following reading lists as research roadmaps:
 -----
 
 ### Internships
-* Jun 22 - Aug 22. Allen Institute for Artificial Intelligence. Research Intern. Seattle. 
+* Jul 22 - Sep 22. Allen Institute for Artificial Intelligence. Research Intern. Seattle. 
   * with Dr. [Tushar Khot](https://scholar.google.com/citations?user=_8mkIjgAAAAJ&hl=en)
 * Jan 20 - Oct 20. Alibaba Damo Academy. Research Intern. Beijing and Hangzhou
   * with Dr. [Chuanqi Tan](https://scholar.google.com/citations?user=tOfo4ncAAAAJ&hl=zh-CN) and [Mosha Chen](https://scholar.google.com/citations?user=6bTGGDAAAAAJ&hl=en)
