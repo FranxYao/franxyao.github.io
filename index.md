@@ -1,4 +1,4 @@
-![](images/cover.jpg)
+![](images/cover_2.jpg)
 
 ---
 
