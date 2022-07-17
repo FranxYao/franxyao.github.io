@@ -1,4 +1,5 @@
-![](images/cover_2.jpg)
+![](images/cover_3.jpg)
+*Face the Mountain. Isle of Skye. 2022*
 
 ---
 
