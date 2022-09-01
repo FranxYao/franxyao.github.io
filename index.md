@@ -1,5 +1,5 @@
 ![](images/cover_4.jpeg)
-*Face the Mountain. Isle of Skye. 2022*
+*Blue Hours Seattle. 2022*
 
 ---
 
