@@ -13,11 +13,11 @@ I finished my M.S. at Columbia University (2018-2020) with professor [John Cunni
 Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush-nlp.com/) at Cornell University (2019-2020). 
 
 
-I study probabilistic models for human language.
+I study large-scale probabilistic models for human language.
 
-I build generative models guided by Bayesian principles, powered by large language models, exploiting efficient inference, and grounded to real-world language scenarios. 
+I build generative models guided by Bayesian principles, powered by large language models, exploiting efficient inference, and grounded to real-world language scenarios. Recently, I am particularly interested in emergent abilities in large language models and their underlying linguistic and probabilistic principles.
 
-My research is equally distributed into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP. My publications cover the following topics: 
+Generally, my research is equally distributed into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP.  My publications cover the following topics: 
 * NLP: Language Generation; Structured Reasoning, Large Language Models
 * ML: Generative Models with Discrete Structures; Efficient Inference Algorithms
 
