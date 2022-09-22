@@ -18,7 +18,7 @@ I study probabilistic models for human language.
 I build generative models guided by Bayesian principles, powered by large language models, exploiting efficient inference, and grounded to real-world language scenarios. 
 
 My research is equally distributed into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP. My publications cover the following topics: 
-* NLP: Language Generation; Linguistic Structure Prediction
+* NLP: Language Generation; Structured Reasoning, Large Language Models
 * ML: Generative Models with Discrete Structures; Efficient Inference Algorithms
 
 I'm maintaining the following reading lists as research roadmaps:
