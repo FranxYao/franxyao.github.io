@@ -27,9 +27,17 @@ I'm maintaining the following reading lists as research roadmaps:
 
 -----
 ### Preprints
-* [Arvix 2022] _Latent Topology Induction for Understanding Contextualized Representations_. [[paper](https://arxiv.org/abs/2206.01512)]
+* [Arxiv 2022] _Complexity-Based Prompt Selection for Multi-Step Reasoning_
+  * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
+  * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
+
+* [Arxiv 2022] _Decomposed Prompting: A Modular Approach for Solving Complex Tasks_
+  * Tushar Khot, Harsh Trivedi, Matthew Finlayson, __Yao Fu__, Kyle Richardson, Peter Clark and Ashish Sabharwal
+  * Decomposing complex task into simpler sub-tasks then solve each of them by prompting language models. 
+
+* [Arxiv 2022] _Latent Topology Induction for Understanding Contextualized Representations_. [[paper](https://arxiv.org/abs/2206.01512)]
   * __Yao Fu__ and Mirella Lapata
-  * Discover a latent network within the representation space of large language models.
+  * Discovering hidden geometric structures of pretrained language models by unsupervised induction of a latent network. 
 
 -----
 
