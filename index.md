@@ -15,10 +15,10 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale probabilistic models for human language.
 
-I build generative models guided by Bayesian principles, powered by large language models, exploiting efficient inference, and grounded to real-world language scenarios. Recently, I am particularly interested in emergent abilities in large language models and their underlying linguistic and probabilistic principles.
+I build generative models guided by Bayesian principles, powered by large language models, exploiting efficient inference, and grounded to real-world language scenarios. Recently, I am particularly interested in emergent abilities in large language models and the paradigm changes in the regime of large scale.
 
 Generally, my research is equally distributed into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP.  My publications cover the following topics: 
-* NLP: Language Generation; Structured Reasoning, Large Language Models
+* NLP: Large Language Models; Language Generation; Structured Reasoning
 * ML: Generative Models with Discrete Structures; Efficient Inference Algorithms
 
 I'm maintaining the following reading lists as research roadmaps:
