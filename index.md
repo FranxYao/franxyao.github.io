@@ -40,7 +40,7 @@ I'm maintaining the following reading lists as research roadmaps:
    * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
 
 -----
-### Preprints and Publications
+### Preprints and Conference Publications
 
 * [Arxiv 2022] _Decomposed Prompting: A Modular Approach for Solving Complex Tasks_. [[paper](https://arxiv.org/abs/2210.02406)]
   * Tushar Khot, Harsh Trivedi, Matthew Finlayson, __Yao Fu__, Kyle Richardson, Peter Clark and Ashish Sabharwal
@@ -83,7 +83,13 @@ I'm maintaining the following reading lists as research roadmaps:
    * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
 
 -----
+### Workshop Publications
+* [EMNLP FigLang 2022] _Just DREAM aboutit: Figurative Language Understanding with DREAM-FLUTE._ 
+  * The Third Workshop on Figurative Language Processing. In conjunction with EMNLP 2022
+  * Yuling Gu, **Yao Fu**, Valentina Pyatkin, Ian Magnusson, Bhavana Dalvi Mishra and Peter Clark
+  * **Ranked top 1** in the task leaderboard. A mental model utilizing scene elaboration for understanding figurative language.
 
+-----
 ### Teaching 
 
 * Peking University. Empirical Methods for Natural Language Processing. 2022 Spring. 
