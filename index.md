@@ -27,7 +27,7 @@ I'm maintaining the following reading lists as research roadmaps:
 
 -----
 ### Representative Work
-* [Arxiv 2022] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2210.00720)]
+* [Arxiv 2022] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2210.00720)][[code](https://github.com/FranxYao/Complexity-Based-Prompting)]
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
   * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
 
