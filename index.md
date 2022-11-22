@@ -104,7 +104,7 @@ Generally, my research is equally distributed into Probabilistic Machine Learnin
 
 -----
 
-### Blog
+### Blog and Open Source
 
 * [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f). Nov 2022.
   * Scrutinizing Large Language Model Emergent Abilities to see if the paradigm is really shifting to in-context learning.
@@ -115,13 +115,13 @@ Generally, my research is equally distributed into Probabilistic Machine Learnin
 * [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). 2019
   * A roadmap tracking past, present, and future about generative models for NLP.
 
-* [Distributional Generalization in Natural Language Processing](https://github.com/FranxYao/Distributional-Generalization-in-Natural-Language-Processing)). 2020
+* [Distributional Generalization in Natural Language Processing](https://github.com/FranxYao/Distributional-Generalization-in-Natural-Language-Processing). 2020
   * A roadmap tracking past, present, and future about generalization challenges in NLP.
 
 -----
 
 ### Internships
-* Jul 22 - Sep 22. Allen Institute for Artificial Intelligence. Research Intern. Seattle. 
+* Jul 22 - . Allen Institute for Artificial Intelligence. Research Intern. Seattle. 
   * with Dr. [Tushar Khot](https://scholar.google.com/citations?user=_8mkIjgAAAAJ&hl=en)
 * Jan 20 - Oct 20. Alibaba Damo Academy. Research Intern. Beijing and Hangzhou
   * with Dr. [Chuanqi Tan](https://scholar.google.com/citations?user=tOfo4ncAAAAJ&hl=zh-CN) and [Mosha Chen](https://scholar.google.com/citations?user=6bTGGDAAAAAJ&hl=en)
