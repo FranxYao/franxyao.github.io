@@ -108,11 +108,13 @@ I'm maintaining the following reading lists as research roadmaps:
 
 -----
 
-### Resources and Tutorials 
+### Blog
 
-* [Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f). Feb 2022. 
-* Deep Structured Prediction: Inference, Reparameterization and Applications. Jun 2021 [[pdf](https://github.com/FranxYao/franxyao.github.io/blob/master/blog/bytedance%20structured%20prediction%20pub.pdf)]
-* How to write Variational Inference and Generative Models for NLP: a recipe. Mar 2021 [[pdf](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing/blob/master/src/VI4NLP_Recipe.pdf)]
+[A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f). Nov 2022.
+
+[Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f). Feb 2022. 
+
+[How to write Variational Inference and Generative Models for NLP: a recipe](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing/blob/master/src/VI4NLP_Recipe.pdf). Mar 2021.
 
 -----
 
