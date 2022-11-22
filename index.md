@@ -106,17 +106,17 @@ Generally, my research is equally distributed into Probabilistic Machine Learnin
 
 ### Blog
 
-[A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f). Nov 2022.
-* Scrutinizing Large Language Model Emergent Abilities to see if the paradigm is really shifting to in-context learning.
+* [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f). Nov 2022.
+  * Scrutinizing Large Language Model Emergent Abilities to see if the paradigm is really shifting to in-context learning.
 
-[Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f). Feb 2022. 
-* explaining the S4 model with function approximation theory.
+* [Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f). Feb 2022. 
+  * explaining the S4 model with function approximation theory.
 
-[Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). 2019
-* A roadmap tracking past, present, and future about generative models for NLP.
+* [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). 2019
+  * A roadmap tracking past, present, and future about generative models for NLP.
 
-[Distributional Generalization in Natural Language Processing](https://github.com/FranxYao/Distributional-Generalization-in-Natural-Language-Processing)). 2020
-* A roadmap tracking past, present, and future about generalization challenges in NLP.
+* [Distributional Generalization in Natural Language Processing](https://github.com/FranxYao/Distributional-Generalization-in-Natural-Language-Processing)). 2020
+  * A roadmap tracking past, present, and future about generalization challenges in NLP.
 
 -----
 
