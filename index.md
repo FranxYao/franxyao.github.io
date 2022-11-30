@@ -4,7 +4,7 @@
 ---
 
 
-[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Instagram](https://www.instagram.com/franx_yao/) / [Blog & Open Source](franxyao.github.io#Blog-and-Open-Source) / [CV](cv.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Instagram](https://www.instagram.com/franx_yao/) 
 
 Yao Fu 符尧. yao.fu@ed.ac.uk
 
@@ -15,9 +15,9 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale probabilistic generative models for human language.
 
-I build generative models guided by Bayesian principles, powered by large scale neural architectures, exploiting efficient inference, and grounded to real-world scenarios. Recently, I am particularly interested in emergent abilities in large language models and paradigm shifts in large scale regime.
+I build generative models guided by Bayesian principles, powered by large scale neural architectures, exploiting efficient inference, and grounded to real-world scenarios. Recently, I am particularly interested in emergent abilities in large language models and the potential paradigm shift in large scale regime.
 
-Generally, my research is equally distributed into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP.  My publications cover the following topics: 
+My research equally distributes into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP.  My publications cover the following topics: 
 * NLP: Large Language Models; Machine Reasoning; Language Generation; Structured Prediction
 * ML: Generative Models with Discrete Structures; Efficient Inference Algorithms
 
@@ -80,26 +80,10 @@ Generally, my research is equally distributed into Probabilistic Machine Learnin
 
 -----
 ### Workshop Publications
-* [EMNLP FigLang 2022] _Just DREAM about it: Figurative Language Understanding with DREAM-FLUTE._ 
+* [EMNLP FigLang 2022] _Just DREAM about it: Figurative Language Understanding with DREAM-FLUTE._ [[paper](https://arxiv.org/abs/2210.16407)][[code](https://github.com/allenai/dream)]
   * The Third Workshop on Figurative Language Processing. In conjunction with EMNLP 2022
   * Yuling Gu, **Yao Fu**, Valentina Pyatkin, Ian Magnusson, Bhavana Dalvi Mishra and Peter Clark
   * **Ranked top 1** in the task leaderboard. A mental model utilizing scene elaboration for understanding figurative language.
-
------
-### Teaching 
-
-* Peking University. Empirical Methods for Natural Language Processing. 2022 Spring. 
-  * Guest lecture on Text Generation. Tought by Yansong Feng.
-* University of Edinburgh. Natural Language Understanding. 2022 Spring. 
-  * Teaching Assistant. Tought by Alexandra Birch, Frank Keller, and Laura Perez.
-* University of Edinburgh. [Probabilistic Modeling and Reasoning](http://www.inf.ed.ac.uk/teaching/courses/pmr/21-22/). 2022 Spring. 
-  * Teaching Assistant. Tought by Michael Gutmann.
-* Peking University. Empirical Methods for Natural Language Processing. 2021 Spring. 
-  * Guest lecture on Text Generation. Tought by Yansong Feng.
-* Alibaba DAMO Academy. Advanced Probabilistic Machine Learning Seminar. 2020 Spring. 
-  * Instructor. 
-* Columbia University. [COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 2019 Spring.
-  * Course Assistant. Tought by Andreas Muller. 
 
 
 -----
@@ -117,6 +101,22 @@ Generally, my research is equally distributed into Probabilistic Machine Learnin
 
 * [Distributional Generalization in Natural Language Processing](https://github.com/FranxYao/Distributional-Generalization-in-Natural-Language-Processing). 2020
   * A roadmap tracking past, present, and future about generalization challenges in NLP.
+
+-----
+### Teaching 
+
+* Peking University. Empirical Methods for Natural Language Processing. 2022 Spring. 
+  * Guest lecture on Text Generation. Tought by Yansong Feng.
+* University of Edinburgh. Natural Language Understanding. 2022 Spring. 
+  * Teaching Assistant. Tought by Alexandra Birch, Frank Keller, and Laura Perez.
+* University of Edinburgh. [Probabilistic Modeling and Reasoning](http://www.inf.ed.ac.uk/teaching/courses/pmr/21-22/). 2022 Spring. 
+  * Teaching Assistant. Tought by Michael Gutmann.
+* Peking University. Empirical Methods for Natural Language Processing. 2021 Spring. 
+  * Guest lecture on Text Generation. Tought by Yansong Feng.
+* Alibaba DAMO Academy. Advanced Probabilistic Machine Learning Seminar. 2020 Spring. 
+  * Instructor. 
+* Columbia University. [COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 2019 Spring.
+  * Course Assistant. Tought by Andreas Muller. 
 
 -----
 
