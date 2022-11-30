@@ -4,7 +4,7 @@
 ---
 
 
-[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Instagram](https://www.instagram.com/franx_yao/) / [Galary](galary.md) / [CV](cv.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Instagram](https://www.instagram.com/franx_yao/) / [Blog & Open Source](franxyao.github.io#Blog-and-Open-Source) / [CV](cv.pdf)
 
 Yao Fu 符尧. yao.fu@ed.ac.uk
 
@@ -18,11 +18,11 @@ I study large-scale probabilistic generative models for human language.
 I build generative models guided by Bayesian principles, powered by large scale neural architectures, exploiting efficient inference, and grounded to real-world scenarios. Recently, I am particularly interested in emergent abilities in large language models and paradigm shifts in large scale regime.
 
 Generally, my research is equally distributed into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP.  My publications cover the following topics: 
-* NLP: Large Language Models; Language Generation; Structured Prediction and Reasoning
+* NLP: Large Language Models; Machine Reasoning; Language Generation; Structured Prediction
 * ML: Generative Models with Discrete Structures; Efficient Inference Algorithms
 
 -----
-### Representative Work
+### Selected Work
 * [Arxiv 2022] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2210.00720)][[code](https://github.com/FranxYao/Complexity-Based-Prompting)]
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
   * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
@@ -80,7 +80,7 @@ Generally, my research is equally distributed into Probabilistic Machine Learnin
 
 -----
 ### Workshop Publications
-* [EMNLP FigLang 2022] _Just DREAM aboutit: Figurative Language Understanding with DREAM-FLUTE._ 
+* [EMNLP FigLang 2022] _Just DREAM about it: Figurative Language Understanding with DREAM-FLUTE._ 
   * The Third Workshop on Figurative Language Processing. In conjunction with EMNLP 2022
   * Yuling Gu, **Yao Fu**, Valentina Pyatkin, Ian Magnusson, Bhavana Dalvi Mishra and Peter Clark
   * **Ranked top 1** in the task leaderboard. A mental model utilizing scene elaboration for understanding figurative language.
