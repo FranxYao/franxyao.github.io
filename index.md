@@ -31,6 +31,10 @@ My research equally distributes into Natural Language Processing and Probabilist
   * __Yao Fu__, John P. Cunningham and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
 
+* [Blog Post 2022] [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f).
+  * Yao Fu, Hao Peng and Tushar Khot
+  * Scrutinizing Large Language Model Emergent Abilities to see if the paradigm is really shifting to in-context learning.
+
 -----
 ### Preprints and Conference Publications
 
@@ -89,9 +93,6 @@ My research equally distributes into Natural Language Processing and Probabilist
 -----
 
 ### Blog and Open Source
-
-* [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f). Nov 2022.
-  * Scrutinizing Large Language Model Emergent Abilities to see if the paradigm is really shifting to in-context learning.
 
 * [Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f). Feb 2022. 
   * explaining the S4 model with function approximation theory.
