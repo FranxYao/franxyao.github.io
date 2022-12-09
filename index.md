@@ -15,11 +15,11 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale probabilistic generative models for human language.
 
-I build generative models guided by Bayesian principles, powered by large scale neural architectures, exploiting efficient inference, and grounded to real-world scenarios. Recently, I am particularly interested in emergent abilities in large language models and the potential paradigm shift in large scale regime.
+I build generative models guided by Bayesian principles, powered by large scale neural architectures, exploiting efficient inference, and grounded to real-world scenarios. Recently, I am particularly interested in emergent abilities in large language models and the new research paradigm in large scale regime.
 
-My research equally distributes into Probabilistic Machine Learning and Natural Language Processing. Usually, NLP people think I'm doing ML while ML people think I'm doing NLP.  My publications cover the following topics: 
-* NLP: Large Language Models; Machine Reasoning; Language Generation; Structured Prediction
-* ML: Generative Models with Discrete Structures; Efficient Inference Algorithms
+My research equally distributes into Natural Language Processing and Probabilistic Machine Learning. My publications cover the following topics: 
+* NLP: Large Language Models; Machine Reasoning; Language Generation;
+* ML: Generative Models; Structured Prediction; Efficient Inference Algorithms
 
 -----
 ### Selected Work
@@ -30,10 +30,6 @@ My research equally distributes into Probabilistic Machine Learning and Natural 
 * [ICML 2022] _Scaling Structured Inference with Randomization_. [[paper](https://arxiv.org/abs/2112.03638)][[code](https://github.com/FranxYao/RDP)]
   * __Yao Fu__, John P. Cunningham and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
-
-* [NeurIPS 2020] _Latent Template Induction with Gumbel-CRFs_. [[paper](https://arxiv.org/abs/2011.14244)][[code](https://github.com/FranxYao/Gumbel-CRF)]
-   * __Yao Fu__, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush. 
-   * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
 
 -----
 ### Preprints and Conference Publications
@@ -65,6 +61,10 @@ My research equally distributes into Probabilistic Machine Learning and Natural 
 * [AAAI 2021] _Nested Named Entity Recognition with Partially Observed TreeCRFs_. [[paper](https://arxiv.org/abs/2012.08478)][[code](https://github.com/FranxYao/Partially-Observed-TreeCRFs)]
    *  __Yao Fu__\*, Chuanqi Tan\*, Mosha Chen, Songfang Huang, Fei Huang. \*Equal contribution. 
    * A Masked Inside algorithm for efficient partial marginalization of TreeCRFs. Applied to Nested NER.
+
+* [NeurIPS 2020] _Latent Template Induction with Gumbel-CRFs_. [[paper](https://arxiv.org/abs/2011.14244)][[code](https://github.com/FranxYao/Gumbel-CRF)]
+   * __Yao Fu__, Chuanqi Tan, Mosha Chen, Bin Bi, Yansong Feng and Alexander Rush. 
+   * A Gumbel-FFBS algorithm for reparameterizing and relaxing CRFs. Applied to controllable text generation with latent templates.
 
 * [NeurIPS 2019] _Paraphrase Generation with Latent Bag of Words_. [[paper](https://arxiv.org/abs/2001.01941)][[code](https://github.com/FranxYao/dgm_latent_bow)]
    * **Yao Fu**, Yansong Feng and John Cunningham. 
