@@ -15,7 +15,7 @@ Nov 2022. [A Closer Look at Large Language Models Emergent Abilities](https://ya
 
 ----
 
-[Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f)
+Jan 2022. [Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f)
 * Yao Fu 
 * explaining the S4 model with function approximation theory
 > The Structured State Space for Sequence Modeling (S4) model achieves impressive results on the Long-range Arena benchmark with a substantial margin over previous methods. However, it is written in the language of control theory, ordinary differential equation, function approximation, and matrix decomposition, which is hard for a large portion of researchers and engineers from a computer science background. This post aims to explain the math in an intuitive way, providing an approximate feeling/ intuition/ understanding of the S4 model: Efficiently Modeling Long Sequences with Structured State Spaces. ICLR 2022
