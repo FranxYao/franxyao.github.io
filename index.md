@@ -32,6 +32,7 @@ I build generative models guided by Bayesian principles, powered by large scale 
 * [Blog Post 2022] [How does GPT Obtain its Ability? Tracing  Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
   * Yao Fu, Hao Peng and Tushar Khot
   * Analysing sources of emergent abilities of Large Language Models from first principle.
+  * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
 
 * [Blog Post 2022] [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f).
   * Yao Fu, Hao Peng and Tushar Khot
