@@ -34,10 +34,6 @@ I build generative models guided by Bayesian principles, powered by large scale 
   * Analysing sources of emergent abilities of Large Language Models from first principle.
   * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
 
-* [Blog Post 2022] [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f).
-  * Yao Fu, Hao Peng and Tushar Khot
-  * Scrutinizing Large Language Model Emergent Abilities to see if the paradigm is really shifting to in-context learning.
-
 -----
 ### Preprints and Conference Publications
 
@@ -97,13 +93,20 @@ I build generative models guided by Bayesian principles, powered by large scale 
 
 ### Blog and Open Source
 
+* [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f).
+  * Yao Fu, Hao Peng and Tushar Khot
+  * Scrutinizing Large Language Model Emergent Abilities to see if the paradigm is really shifting to in-context learning.
+
 * [Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f). Feb 2022. 
+  * Yao Fu
   * explaining the S4 model with function approximation theory.
 
 * [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). 2019
+  * Yao Fu
   * A roadmap tracking past, present, and future about generative models for NLP.
 
 * [Distributional Generalization in Natural Language Processing](https://github.com/FranxYao/Distributional-Generalization-in-Natural-Language-Processing). 2020
+  * Yao Fu
   * A roadmap tracking past, present, and future about generalization challenges in NLP.
 
 -----
