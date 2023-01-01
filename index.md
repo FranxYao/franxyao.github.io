@@ -15,9 +15,9 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale probabilistic generative models for human language.
 
-I build generative models guided by Bayesian principles, powered by large scale neural architectures, exploiting efficient inference, and grounded to real-world scenarios. Recently, I am particularly interested in emergent abilities in large language models and the new research paradigm in large scale regime. My publications cover the following topics: 
-* NLP: Large Language Models; Machine Reasoning; Language Generation;
-* ML: Generative Models; Structured Prediction; Efficient Inference Algorithms
+In the era of large language models, my research focus on scaling, emergent abilities, complex reasoning, and new research paradigm in the large scale regime. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap on large language model evolution. 
+
+Before the LLM era, I studied latent variable models for language generation and structure prediction. 
 
 -----
 ### Selected Work
