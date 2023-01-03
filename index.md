@@ -15,14 +15,14 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale probabilistic generative models for human language.
 
-In the era of large language models, my research focuses on scaling, emergent abilities, complex reasoning, and new research paradigm in the large scale regime. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap on large language model evolution. 
+In the era of large language models, my research focuses on scaling, emergent abilities, complex reasoning, and new research paradigm in the large scale regime. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. 
 
 Before the LLM era, I studied latent variable models for language generation and structure prediction. 
 
 -----
 ### Selected Work
 * [Blog Post 2022] [How does GPT Obtain its Ability? Tracing  Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
-  * Yao Fu, Hao Peng and Tushar Khot
+  * __Yao Fu__, Hao Peng and Tushar Khot
   * Analysing sources of emergent abilities of Large Language Models from first principle.
   * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
 
