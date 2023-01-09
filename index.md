@@ -4,7 +4,7 @@
 ---
 
 
-[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Instagram](https://www.instagram.com/franx_yao/) / [CV](cv.pdf) / [Blog](blog.md)
+[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Instagram](https://www.instagram.com/franx_yao/) / [CV](cv.pdf) / [Blog](https://yaofu.notion.site/Yao-Fu-s-Blog-b536c3d6912149a395931f1e871370db)
 
 Yao Fu 符尧. yao.fu@ed.ac.uk
 
