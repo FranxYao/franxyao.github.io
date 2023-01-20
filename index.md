@@ -26,7 +26,7 @@ Before the LLM era, I studied latent variable models for language generation and
   * Analysing sources of emergent abilities of Large Language Models from first principle.
   * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
 
-* [Arxiv 2022] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2210.00720)][[code](https://github.com/FranxYao/Complexity-Based-Prompting)]
+* [ICLR 2023] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2210.00720)][[code](https://github.com/FranxYao/Complexity-Based-Prompting)]
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
   * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
 
@@ -37,7 +37,7 @@ Before the LLM era, I studied latent variable models for language generation and
 -----
 ### Preprints and Conference Publications
 
-* [Arxiv 2022] _Decomposed Prompting: A Modular Approach for Solving Complex Tasks_. [[paper](https://arxiv.org/abs/2210.02406)]
+* [ICL 2023] _Decomposed Prompting: A Modular Approach for Solving Complex Tasks_. [[paper](https://arxiv.org/abs/2210.02406)]
   * Tushar Khot, Harsh Trivedi, Matthew Finlayson, __Yao Fu__, Kyle Richardson, Peter Clark and Ashish Sabharwal
   * Decomposing complex task into simpler sub-tasks then solve each of them by prompting language models. 
 
