@@ -28,7 +28,7 @@ Before the LLM era, I studied latent variable models for language generation and
 
 * [Arxiv 2023] _Specializing Smaller Language Models towards Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2301.12726)]
   * __Yao Fu__, Hao Peng, Litu Ou, Ashish Sabharwal, and Tushar Khot 
-  * Trading language model's generic ability for a specialized chain-of-thought ability. 
+  * Trading language model's generic ability for specialized math chain-of-thought ability. 
 
 * [ICLR 2023] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://openreview.net/forum?id=yf1icZHC-l9)][[code](https://github.com/FranxYao/Complexity-Based-Prompting)]
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
