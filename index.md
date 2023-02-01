@@ -15,7 +15,7 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale probabilistic generative models for human language.
 
-In the era of large language models, my research focuses on specialized language models, emergent abilities, complex reasoning, and new research paradigm in the large scale regime. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. 
+In the era of large language models, my research focuses on specialized language models, complex reasoning, emergent abilities, and how to inject strong abilities to language models from first principles. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. 
 
 Before the LLM era, I studied latent variable models for language generation and structure prediction. 
 
@@ -25,6 +25,10 @@ Before the LLM era, I studied latent variable models for language generation and
   * __Yao Fu__, Hao Peng and Tushar Khot
   * Analysing sources of emergent abilities of Large Language Models from first principle.
   * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
+
+* [Arxiv 2023] _Specializing Smaller Language Models towards Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2301.12726)]
+  * __Yao Fu__, Hao Peng, Litu Ou, Ashish Sabharwal, and Tushar Khot 
+  * Trading language model's generic ability for a specialized chain-of-thought ability. 
 
 * [ICLR 2023] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://openreview.net/forum?id=yf1icZHC-l9)][[code](https://github.com/FranxYao/Complexity-Based-Prompting)]
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
