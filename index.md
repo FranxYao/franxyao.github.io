@@ -28,7 +28,7 @@ In the era of large language models, my research focuses on language model evolu
   * __Yao Fu__, Hao Peng, Litu Ou, Ashish Sabharwal, and Tushar Khot 
   * Trading language model's generic ability for specialized math chain-of-thought ability. 
 
-* [ICLR 2023] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://openreview.net/forum?id=yf1icZHC-l9)][[code](https://github.com/FranxYao/Complexity-Based-Prompting)]
+* [ICLR 2023] _Complexity-Based Prompting for Multi-Step Reasoning_. [[paper](https://openreview.net/forum?id=yf1icZHC-l9)][[code]([https://github.com/FranxYao/Complexity-Based-Prompting](https://github.com/FranxYao/chain-of-thought-hub)]
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
   * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
 
