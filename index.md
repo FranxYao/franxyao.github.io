@@ -8,7 +8,7 @@
 
 Yao Fu 符尧. yao.fu@ed.ac.uk
 
-I am a Ph.D. student at the University of Edinburgh (2020-) with professor [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) and currently a research intern at Allen Institute for AI.
+I am a Ph.D. student at the University of Edinburgh (2020-) with professor [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/).
 I finished my M.S. at Columbia University (2018-2020) with professor [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with professor [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
 Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush-nlp.com/) at Cornell Tech (2019-2020). 
 
