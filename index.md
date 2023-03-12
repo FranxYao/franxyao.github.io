@@ -130,7 +130,7 @@ In the era of large language models, my research focuses on language model evolu
 -----
 
 ### Internships
-* Jul 22 - . Allen Institute for Artificial Intelligence. Research Intern. Seattle. 
+* Jul 22 - Dec 22. Allen Institute for Artificial Intelligence. Research Intern. Seattle. 
   * with Dr. [Tushar Khot](https://scholar.google.com/citations?user=_8mkIjgAAAAJ&hl=en)
 * Jan 20 - Oct 20. Alibaba Damo Academy. Research Intern. Beijing and Hangzhou
   * with Dr. [Chuanqi Tan](https://scholar.google.com/citations?user=tOfo4ncAAAAJ&hl=zh-CN) and [Mosha Chen](https://scholar.google.com/citations?user=6bTGGDAAAAAJ&hl=en)
