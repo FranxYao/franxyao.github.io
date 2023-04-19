@@ -17,6 +17,17 @@ I study large-scale probabilistic generative models for human language.
 
 In the era of large language models, my research focuses on language model evolution, complex reasoning, and how to inject strong abilities to language models from first principles. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. Before the LLM era, I studied generative models, latent variable models, variational inference, and structure prediction. 
 
+I am expected to graduate in Dec 2023 and will be on job market for industrial positions of training large language models. 
+
+-----
+### Experiences
+* Sep - Dec 2023 (expected). Google Brain. Student Researcher on Large Language Models
+* Jun - Sep 2023 (expected). MIT-IBM Waston AI Lab. Research Intern on Large Language Models
+* Jul 2022 - Feb 2023. Allen Institute for AI. Research Intern on Language Model Reasoning
+* Jan - Oct 2020. Alibaba DAMO Academy. Research Intern on Latent Variable Models
+* May - Sep 2019. Tencent AI Lab. Research Intern on Structured Prediction
+* Jan - Aug 2018. Bytedance AI Lab. Research Intern on Language Generation
+
 -----
 ### Selected Work
 * [Blog Post 2022] [How does GPT Obtain its Ability? Tracing  Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
@@ -126,19 +137,6 @@ In the era of large language models, my research focuses on language model evolu
   * Instructor. 
 * Columbia University. [COMS 4995 Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/), 2019 Spring.
   * Course Assistant. Tought by Andreas Muller. 
-
------
-
-### Internships
-* Jul 22 - Dec 22. Allen Institute for Artificial Intelligence. Research Intern. Seattle. 
-  * with Dr. [Tushar Khot](https://scholar.google.com/citations?user=_8mkIjgAAAAJ&hl=en)
-* Jan 20 - Oct 20. Alibaba Damo Academy. Research Intern. Beijing and Hangzhou
-  * with Dr. [Chuanqi Tan](https://scholar.google.com/citations?user=tOfo4ncAAAAJ&hl=zh-CN) and [Mosha Chen](https://scholar.google.com/citations?user=6bTGGDAAAAAJ&hl=en)
-* May 19 - Aug 19. Tencent AI Lab. Research Intern. Seattle
-  * with Dr. [Kun Xu](https://sites.google.com/view/kunxu/home) and Dr. [Dong Yu](https://sites.google.com/view/dongyu888/)
-* Dec 17 - Aug 18. Bytedance AI Lab. Research Intern. Beijing
-  * with Prof. [Hao Zhou](https://scholar.google.com/citations?user=q3WaozcAAAAJ&hl=en) and Prof. [Lei Li](https://scholar.google.com/citations?user=BYXqAlwAAAAJ&hl=en)
-
 
 
 
