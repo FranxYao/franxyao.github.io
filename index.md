@@ -15,7 +15,7 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale probabilistic generative models for human language.
 
-In the era of large language models, my research focuses on language model evolution, complex reasoning, and how to inject strong abilities to language models from first principles. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. Before the LLM era, I studied generative models, latent variable models, variational inference, and structure prediction. 
+In the era of large language models, my research focuses on language model complex reasoning, alignment, and how to inject strong abilities to language models from first principles. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. Before the LLM era, I studied generative models, latent variable models, variational inference, and structure prediction. 
 
 I am expected to graduate in Dec 2023 and will be on job market for industrial positions of training large language models. 
 
