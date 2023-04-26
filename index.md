@@ -62,12 +62,12 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * __Yao Fu__ and Litu Ou
   * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
 
+-----
+## Early reseach before large language models
+
 * [ICML 2022] _Scaling Structured Inference with Randomization_. [[paper](https://arxiv.org/abs/2112.03638)][[code](https://github.com/FranxYao/RDP)]
   * __Yao Fu__, John P. Cunningham and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
-
------
-## Early reseach before large language models
 
 * [EMNLP FigLang 2022] _Just DREAM about it: Figurative Language Understanding with DREAM-FLUTE._ [[paper](https://arxiv.org/abs/2210.16407)][[code](https://github.com/allenai/dream)]
   * The Third Workshop on Figurative Language Processing. In conjunction with EMNLP 2022
