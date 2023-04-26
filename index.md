@@ -53,7 +53,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
   * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
 
-* [ICLR 2023] _Decomposed Prompting: A Modular Approach for Solving Complex Tasks_. [[paper](https://arxiv.org/abs/2210.02406)]
+* [ICLR 2023] _Decomposed Prompting: A Modular Approach for Solving Complex Tasks_. [[paper](https://arxiv.org/abs/2210.02406)][[code](https://github.com/allenai/DecomP)]
   * Tushar Khot, Harsh Trivedi, Matthew Finlayson, __Yao Fu__, Kyle Richardson, Peter Clark and Ashish Sabharwal
   * Decomposing complex task into simpler sub-tasks then solve each of them by prompting language models. 
 
