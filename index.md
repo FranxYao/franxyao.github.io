@@ -4,7 +4,7 @@
 ---
 
 
-[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Semantic Scholar](https://www.semanticscholar.org/author/Yao-Fu/46956602) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Instagram](https://www.instagram.com/franx_yao/) / [CV](cv.pdf) / [Blog](https://yaofu.notion.site/Yao-Fu-s-Blog-b536c3d6912149a395931f1e871370db)
+[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Blog](https://yaofu.notion.site/Yao-Fu-s-Blog-b536c3d6912149a395931f1e871370db)
 
 Yao Fu 符尧. yao.fu@ed.ac.uk
 
@@ -22,9 +22,9 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 -----
 ## Experiences
 ### Academia
-2020 - 2023. Ph.D. at University of Edinburgh
-2018 - 2020. M.S. at Columbia University
-2013 - 2018. B.S. at Peking University
+* 2020 - 2023. Ph.D. at University of Edinburgh
+* 2018 - 2020. M.S. at Columbia University
+* 2013 - 2018. B.S. at Peking University
 
 ### Industry
 * Sep - Dec 2023 (expected). Google Brain. Student Researcher on Large Language Models
