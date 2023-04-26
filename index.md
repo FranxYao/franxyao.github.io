@@ -20,7 +20,13 @@ In the era of large language models, my research focuses on language model compl
 I am expected to graduate in Dec 2023 and will be on job market for industrial positions of building large language models. 
 
 -----
-### Experiences
+## Experiences
+### Academia
+2020 - 2023. Ph.D. at University of Edinburgh
+2018 - 2020. M.S. at Columbia University
+2013 - 2018. B.S. at Peking University
+
+### Industry
 * Sep - Dec 2023 (expected). Google Brain. Student Researcher on Large Language Models
 * Jun - Sep 2023 (expected). MIT-IBM Waston AI Lab. Research Intern on Large Language Models
 * Jul 2022 - Feb 2023. Allen Institute for AI. Research Intern on Language Model Reasoning
@@ -29,11 +35,15 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 * Jan - Aug 2018. Bytedance AI Lab. Research Intern on Language Generation
 
 -----
-### Selected Work
+## Research in Large Language Models
+
+### Roadmap
 * [Blog Post 2022] [How does GPT Obtain its Ability? Tracing  Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
   * __Yao Fu__, Hao Peng and Tushar Khot
   * Analysing sources of emergent abilities of Large Language Models from first principle.
   * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
+
+### Complex Reasoning
 
 * [ICML 2023] _Specializing Smaller Language Models towards Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2301.12726)][[Code](https://github.com/FranxYao/FlanT5-CoT-Specialization)]
   * __Yao Fu__, Hao Peng, Litu Ou, Ashish Sabharwal, and Tushar Khot 
@@ -43,16 +53,26 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
   * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
 
+* [ICLR 2023] _Decomposed Prompting: A Modular Approach for Solving Complex Tasks_. [[paper](https://arxiv.org/abs/2210.02406)]
+  * Tushar Khot, Harsh Trivedi, Matthew Finlayson, __Yao Fu__, Kyle Richardson, Peter Clark and Ashish Sabharwal
+  * Decomposing complex task into simpler sub-tasks then solve each of them by prompting language models. 
+
+### Evaluation
+* [Github] Chain-of-thougth Hub [[code](https://github.com/FranxYao/chain-of-thought-hub)]
+  * __Yao Fu__ and Litu Ou
+  * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
+
 * [ICML 2022] _Scaling Structured Inference with Randomization_. [[paper](https://arxiv.org/abs/2112.03638)][[code](https://github.com/FranxYao/RDP)]
   * __Yao Fu__, John P. Cunningham and Mirella Lapata
   *  A family of randomized dynamic programming algorithms for scaling up classical structured prediction algorithms of different inferences (partition, marginal, entropy, reparameterization) of structures (chains, trees, and general sum-product).
 
 -----
-### Preprints and Conference Publications
+## Early reseach before large language models
 
-* [ICLR 2023] _Decomposed Prompting: A Modular Approach for Solving Complex Tasks_. [[paper](https://arxiv.org/abs/2210.02406)]
-  * Tushar Khot, Harsh Trivedi, Matthew Finlayson, __Yao Fu__, Kyle Richardson, Peter Clark and Ashish Sabharwal
-  * Decomposing complex task into simpler sub-tasks then solve each of them by prompting language models. 
+* [EMNLP FigLang 2022] _Just DREAM about it: Figurative Language Understanding with DREAM-FLUTE._ [[paper](https://arxiv.org/abs/2210.16407)][[code](https://github.com/allenai/dream)]
+  * The Third Workshop on Figurative Language Processing. In conjunction with EMNLP 2022
+  * Yuling Gu, **Yao Fu**, Valentina Pyatkin, Ian Magnusson, Bhavana Dalvi Mishra and Peter Clark
+  * **Ranked top 1** in the task leaderboard. A mental model utilizing scene elaboration for understanding figurative language.
 
 * [Arxiv 2022] _Latent Topology Induction for Understanding Contextualized Representations_. [[paper](https://arxiv.org/abs/2206.01512)]
   * __Yao Fu__ and Mirella Lapata
@@ -95,16 +115,8 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
    * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
 
 -----
-### Workshop Publications
-* [EMNLP FigLang 2022] _Just DREAM about it: Figurative Language Understanding with DREAM-FLUTE._ [[paper](https://arxiv.org/abs/2210.16407)][[code](https://github.com/allenai/dream)]
-  * The Third Workshop on Figurative Language Processing. In conjunction with EMNLP 2022
-  * Yuling Gu, **Yao Fu**, Valentina Pyatkin, Ian Magnusson, Bhavana Dalvi Mishra and Peter Clark
-  * **Ranked top 1** in the task leaderboard. A mental model utilizing scene elaboration for understanding figurative language.
 
-
------
-
-### Blog and Open Source
+## Blog and Open Source
 
 * [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f).
   * Yao Fu, Hao Peng and Tushar Khot
@@ -123,7 +135,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * A roadmap tracking past, present, and future about generalization challenges in NLP.
 
 -----
-### Teaching 
+## Teaching 
 
 * Peking University. Empirical Methods for Natural Language Processing. 2022 Spring. 
   * Guest lecture on Text Generation. Tought by Yansong Feng.
