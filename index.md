@@ -12,8 +12,9 @@ I am a Ph.D. student at the University of Edinburgh (2020-) with professor [Mire
 I finished my M.S. at Columbia University (2018-2020) with professor [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with professor [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
 Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush-nlp.com/) at Cornell Tech (2019-2020). 
 
+I study large-scale generative models for human language.
 
-My research objective is to make large language models the next generation operating systems, empower developers to build applications, thus creating the foundation for new language model based computational ecosystem. My research focuses on how to inject strong abilities (like complex reasoning) to language models from first principles. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. Before the LLM era, I studied generative models, latent variable models, variational inference, and structure prediction. 
+My research objective is to make large language models the next generation operating systems, empower developers to build applications, and create a new language model based computational ecosystem. My works focus on how to inject strong abilities (like complex reasoning) to language models from first principles. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. Before the LLM era, I studied generative models, latent variable models, variational inference, and structure prediction. 
 
 I am expected to graduate in Dec 2023 and will be on job market for industrial positions of building large language models. 
 
@@ -25,9 +26,9 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 * 2013 - 2018. B.S. at Peking University
 
 ### Industry
-* Sep - Dec 2023 (expected). Google Brain. Student Researcher on Large Language Models
-* Jun - Sep 2023 (expected). MIT-IBM Waston AI Lab. Research Intern on Large Language Models
-* Jul 2022 - Feb 2023. Allen Institute for AI. Research Intern on Language Model Reasoning
+* Sep - Dec 2023 (incoming). Google DeepMind. Student Researcher on Large Language Models
+* Jun - Sep 2023 (incoming). MIT-IBM Waston AI Lab. Research Intern on Large Language Models
+* Jul - Dec 2022. Allen Institute for AI. Research Intern on Language Model Reasoning
 * Jan - Oct 2020. Alibaba DAMO Academy. Research Intern on Latent Variable Models
 * May - Sep 2019. Tencent AI Lab. Research Intern on Structured Prediction
 * Jan - Aug 2018. Bytedance AI Lab. Research Intern on Language Generation
@@ -47,7 +48,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 
 ### Complex Reasoning
 
-* [ICML 2023] _Specializing Smaller Language Models towards Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2301.12726)][[Code](https://github.com/FranxYao/FlanT5-CoT-Specialization)]
+* [ICML 2023] Oral. _Specializing Smaller Language Models towards Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2301.12726)][[Code](https://github.com/FranxYao/FlanT5-CoT-Specialization)]
   * __Yao Fu__, Hao Peng, Litu Ou, Ashish Sabharwal, and Tushar Khot 
   * Trading language model's generic ability for specialized math chain-of-thought ability. 
 
