@@ -14,7 +14,7 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale generative models for human language.
 
-My research objective is to make large language models the next generation operating systems, empower developers to build applications, and create a new language model based computational ecosystem. My works focus on how to inject strong abilities (like complex reasoning) to language models from first principles. My article on [tracing emergent abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. Before the LLM era, I studied generative models, latent variable models, variational inference, and structure prediction. 
+My research objective is to make large language models the next generation operating systems, empower developers to create applications, and build a new language model based computational ecosystem together with the community. My works study on how to inject strong abilities (like complex reasoning) to language models from first principles. My article on [tracing language model abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. Before the LLM era, I studied generative models, latent variable models, variational inference, and structure prediction. 
 
 I am expected to graduate in Dec 2023 and will be on job market for industrial positions of building large language models. 
 
@@ -42,11 +42,11 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * Analysing sources of emergent abilities of Large Language Models from first principle.
   * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
 
+### Complex Reasoning
+
 * [Blog Post 2023]. [Towards Complex Reasoning: the Polaris of Large Language Models](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)
   * __Yao Fu__
   * A roadmap towards building language models of strong reasoning capabilties. Covers the full development stages: pretraining, continue training, supervised finetuning, reinforcemeng learning, chain-of-thought prompting, and evaluation. 
-
-### Complex Reasoning
 
 * [ICML 2023] Oral. _Specializing Smaller Language Models towards Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2301.12726)][[Code](https://github.com/FranxYao/FlanT5-CoT-Specialization)]
   * __Yao Fu__, Hao Peng, Litu Ou, Ashish Sabharwal, and Tushar Khot 
@@ -61,6 +61,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * Decomposing complex task into simpler sub-tasks then solve each of them by prompting language models. 
 
 ### Evaluation
+
 * [Github] Chain-of-thougth Hub [[code](https://github.com/FranxYao/chain-of-thought-hub)]
   * __Yao Fu__ and Litu Ou
   * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
