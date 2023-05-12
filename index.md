@@ -119,28 +119,9 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
    * An attention mechanism fusing information from different source of knowledge. Applied to answer sentence generation.
 
 -----
-
-## Blog and Open Source
-
-* [A Closer Look at Large Language Models Emergent Abilities](https://yaofu.notion.site/A-Closer-Look-at-Large-Language-Models-Emergent-Abilities-493876b55df5479d80686f68a1abd72f).
-  * Yao Fu, Hao Peng and Tushar Khot
-  * Scrutinizing Large Language Model Emergent Abilities to see if the paradigm is really shifting to in-context learning.
-
-* [Why S4 is Good at Long Sequence: Remembering a Sequence with Online Function Approximation](https://yaofu.notion.site/Why-S4-is-Good-at-Long-Sequence-Remembering-a-Sequence-with-Online-Function-Approximation-836fc54a49aa413b84997a265132f13f). Feb 2022. 
-  * Yao Fu
-  * explaining the S4 model with function approximation theory.
-
-* [Deep Generative Models for Natural Language Processing](https://github.com/franxyao/Deep-Generative-Models-for-Natural-Language-Processing). 2019
-  * Yao Fu
-  * A roadmap tracking past, present, and future about generative models for NLP.
-
-* [Distributional Generalization in Natural Language Processing](https://github.com/FranxYao/Distributional-Generalization-in-Natural-Language-Processing). 2020
-  * Yao Fu
-  * A roadmap tracking past, present, and future about generalization challenges in NLP.
-
------
 ## Teaching 
-
+* University of Edinburgh. Natural Language Understanding. 2023 Spring. 
+  * Teaching Assistant. Tought by Alexandra Birch, Frank Keller, and Mirela Lapata.
 * Peking University. Empirical Methods for Natural Language Processing. 2022 Spring. 
   * Guest lecture on Text Generation. Tought by Yansong Feng.
 * University of Edinburgh. Natural Language Understanding. 2022 Spring. 
