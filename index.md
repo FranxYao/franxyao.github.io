@@ -62,7 +62,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 
 ### Evaluation
 
-* Chain-of-thougth Hub [[code](https://github.com/FranxYao/chain-of-thought-hub)]
+* Chain-of-thougth Hub: Measuring LLMs' Reasoning Performance. [[website](https://github.com/FranxYao/chain-of-thought-hub)]
   * __Yao Fu__, Litu Ou, Mingyu Chen and Yuhao Wan
   * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
 
