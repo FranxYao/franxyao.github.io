@@ -62,9 +62,13 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 
 ### Evaluation
 
-* [Github] Chain-of-thougth Hub [[code](https://github.com/FranxYao/chain-of-thought-hub)]
-  * __Yao Fu__ and Litu Ou
+* Chain-of-thougth Hub [[code](https://github.com/FranxYao/chain-of-thought-hub)]
+  * __Yao Fu__, Litu Ou, Mingyu Chen and Yuhao Wan
   * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
+
+* C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[website](https://cevalbenchmark.com/index.html)] [paper]
+  * Yuzhen Huang*, Yuzhuo Bai*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Fanchao Qi, **Yao Fu**, Maosong Sun, Junxian He
+  * A evaluation suite consisting of 52 subjects of STEM/ Social science/ Humanity/ Other testing language models' Chinese ability (knowledge and reasoning) 
 
 -----
 ## Early reseach before large language models
