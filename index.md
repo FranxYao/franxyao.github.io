@@ -62,7 +62,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 
 ### Multi-Agent Game
 
-* [Arxiv 2023] Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback. [[code](https://github.com/FranxYao/GPT-Bargaining)]
+* [Arxiv 2023] Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback. [[code and paper](https://github.com/FranxYao/GPT-Bargaining)]
   * __Yao Fu__, Hao Peng, Tushar Khot, and Mirella Lapata
   * Two language models negotiate with each other and continuously improve their negotiation strategies by multi-round game playing and iterative in-context learning from AI feedback. 
 
@@ -76,7 +76,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * __Yao Fu__, Litu Ou, Mingyu Chen and Yuhao Wan
   * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
 
-* [Arxiv 2023] C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[website](https://cevalbenchmark.com/index.html)] [paper()]
+* [Arxiv 2023] C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[website](https://cevalbenchmark.com/index.html)] [[code](https://github.com/SJTU-LIT/ceval)] [paper(http://arxiv.org/abs/2305.08322)]
   * Yuzhen Huang*, Yuzhuo Bai*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Fanchao Qi, **Yao Fu**, Maosong Sun, Junxian He
   * A evaluation suite consisting of 52 subjects of STEM/ Social science/ Humanity/ Other testing language models' Chinese ability (knowledge and reasoning) 
 
