@@ -44,7 +44,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 
 ### Complex Reasoning
 
-* [Blog Post 2023]. _[Towards Complex Reasoning: the Polaris of Large Language Models](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)_
+* [Blog Post 2023]. _Towards Complex Reasoning: the Polaris of Large Language Models_ [[notion](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)]
   * __Yao Fu__
   * A roadmap towards building language models of strong reasoning capabilties. Covers the full development stages: pretraining, continue training, supervised finetuning, reinforcemeng learning, chain-of-thought prompting, and evaluation. 
 
@@ -62,21 +62,21 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 
 ### Multi-Agent Game
 
-* [Arxiv 2023] Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback. [[code and paper](https://github.com/FranxYao/GPT-Bargaining)]
+* [Arxiv 2023] _Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback_ [[code and paper](https://github.com/FranxYao/GPT-Bargaining)]
   * __Yao Fu__, Hao Peng, Tushar Khot, and Mirella Lapata
   * Two language models negotiate with each other and continuously improve their negotiation strategies by multi-round game playing and iterative in-context learning from AI feedback. 
 
-* [Opensource] ChatArena: Multi-Agent Language Game Environments for Large Language Models [[code](https://github.com/chatarena/chatarena)]
+* [Opensource] _ChatArena: Multi-Agent Language Game Environments for Large Language Models_ [[code](https://github.com/chatarena/chatarena)]
   * Yuxiang Wu, Zhengyao Jiang, Akbir Khan, __Yao Fu__, Laura Ruis, Edward Grefenstette, and Tim Rocktäschel
   * A library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions
 
 ### Evaluation
 
-* [Opensource] Chain-of-thougth Hub: Measuring LLMs' Reasoning Performance. [[website](https://github.com/FranxYao/chain-of-thought-hub)]
+* [Opensource] _Chain-of-thougth Hub: Measuring LLMs' Reasoning Performance_ [[website](https://github.com/FranxYao/chain-of-thought-hub)]
   * __Yao Fu__, Litu Ou, Mingyu Chen and Yuhao Wan
   * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
 
-* [Arxiv 2023] C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[website](https://cevalbenchmark.com/index.html)] [[code](https://github.com/SJTU-LIT/ceval)] [paper(http://arxiv.org/abs/2305.08322)]
+* [Arxiv 2023] _C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models_ [[website](https://cevalbenchmark.com/index.html)] [[code](https://github.com/SJTU-LIT/ceval)] [paper(http://arxiv.org/abs/2305.08322)]
   * Yuzhen Huang*, Yuzhuo Bai*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Fanchao Qi, **Yao Fu**, Maosong Sun, Junxian He
   * A evaluation suite consisting of 52 subjects of STEM/ Social science/ Humanity/ Other testing language models' Chinese ability (knowledge and reasoning) 
 
