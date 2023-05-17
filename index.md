@@ -76,7 +76,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * __Yao Fu__, Litu Ou, Mingyu Chen and Yuhao Wan
   * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
 
-* [Arxiv 2023] _C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models_ [[website](https://cevalbenchmark.com/index.html)] [[code](https://github.com/SJTU-LIT/ceval)] [paper(http://arxiv.org/abs/2305.08322)]
+* [Arxiv 2023] _C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models_ [[website](https://cevalbenchmark.com/index.html)] [[code](https://github.com/SJTU-LIT/ceval)] [[paper](http://arxiv.org/abs/2305.08322)]
   * Yuzhen Huang*, Yuzhuo Bai*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Fanchao Qi, **Yao Fu**, Maosong Sun, Junxian He
   * A evaluation suite consisting of 52 subjects of STEM/ Social science/ Humanity/ Other testing language models' Chinese ability (knowledge and reasoning) 
 
