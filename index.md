@@ -62,7 +62,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 
 ### Multi-Agent Game
 
-* [Arxiv 2023] _Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback_ [[code and paper](https://github.com/FranxYao/GPT-Bargaining)]
+* [Arxiv 2023] _Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback_ [[code](https://github.com/FranxYao/GPT-Bargaining)][[paper](https://arxiv.org/abs/2305.10142)]
   * __Yao Fu__, Hao Peng, Tushar Khot, and Mirella Lapata
   * Two language models negotiate with each other and continuously improve their negotiation strategies by multi-round game playing and iterative in-context learning from AI feedback. 
 
