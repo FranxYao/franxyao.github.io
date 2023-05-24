@@ -4,7 +4,7 @@
 ---
 
 
-[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Blog](https://yaofu.notion.site/Yao-Fu-s-Blog-b536c3d6912149a395931f1e871370db) / [cv](cv.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=liSP4cEAAAAJ&hl=en) / [Github](https://github.com/FranxYao) / [Twitter](https://twitter.com/Francis_YAO_) / [LinkedIn](https://www.linkedin.com/in/yao-fu-281847b5/) / [Blog](https://yaofu.notion.site/Yao-Fu-s-Blog-b536c3d6912149a395931f1e871370db) / [CV](cv.pdf)
 
 Yao Fu 符尧. yao.fu@ed.ac.uk
 
