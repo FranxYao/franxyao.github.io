@@ -66,17 +66,17 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * __Yao Fu__, Hao Peng, Tushar Khot, and Mirella Lapata
   * Two language models negotiate with each other and continuously improve their negotiation strategies by multi-round game playing and iterative in-context learning from AI feedback. 
 
-* [Opensource] _ChatArena: Multi-Agent Language Game Environments for Large Language Models_ [[code](https://github.com/chatarena/chatarena)]
+* [Opensource] _ChatArena: Multi-Agent Language Game Environments for Large Language Models_ [[GitHub](https://github.com/chatarena/chatarena)]
   * Yuxiang Wu, Zhengyao Jiang, Akbir Khan, __Yao Fu__, Laura Ruis, Edward Grefenstette, and Tim Rocktäschel
   * A library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions
 
 ### Evaluation
 
-* [Opensource] _Chain-of-thougth Hub: Measuring LLMs' Reasoning Performance_ [[github](https://github.com/FranxYao/chain-of-thought-hub)][[paper]()]
+* [Opensource] _Chain-of-thougth Hub: Measuring LLMs' Reasoning Performance_ [[GitHub](https://github.com/FranxYao/chain-of-thought-hub)][[paper](https://arxiv.org/abs/2305.17306)]
   * __Yao Fu__, Litu Ou, Mingyu Chen and Yuhao Wan
   * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
 
-* [Arxiv 2023] _C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models_ [[website](https://cevalbenchmark.com/index.html)] [[code](https://github.com/SJTU-LIT/ceval)] [[paper](http://arxiv.org/abs/2305.08322)]
+* [Arxiv 2023] _C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models_ [[website](https://cevalbenchmark.com/index.html)] [[GitHub](https://github.com/SJTU-LIT/ceval)] [[paper](http://arxiv.org/abs/2305.08322)]
   * Yuzhen Huang*, Yuzhuo Bai*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, **Yao Fu**, Maosong Sun, Junxian He
   * A evaluation suite consisting of 52 subjects of STEM/ Social science/ Humanity/ Other testing language models' Chinese ability (knowledge and reasoning) 
 
