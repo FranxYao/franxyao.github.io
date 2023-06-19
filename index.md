@@ -27,7 +27,7 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 
 ### Industry
 * Sep - Dec 2023 (incoming). Google DeepMind. Student Researcher on Large Language Models
-* Jun - Sep 2023 (incoming). MIT-IBM Waston AI Lab. Research Intern on Large Language Models
+* Jun - Sep 2023. MIT-IBM Waston AI Lab. Research Intern on Training Large Language Models
 * Jul - Dec 2022. Allen Institute for AI. Research Intern on Language Model Reasoning
 * Jan - Oct 2020. Alibaba DAMO Academy. Research Intern on Latent Variable Models
 * May - Sep 2019. Tencent AI Lab. Research Intern on Structured Prediction
