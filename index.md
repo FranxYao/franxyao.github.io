@@ -23,9 +23,9 @@ I am expected to graduate in Dec 2023 and will be joining Google DeepMind in Mou
 -----
 ## Experiences
 ### Academia
-* 2020 - 2023. Ph.D. at University of Edinburgh
-* 2018 - 2020. M.S. at Columbia University
-* 2013 - 2018. B.S. at Peking University
+* 2020 - 2023. Ph.D. at University of Edinburgh. Large Language Models
+* 2018 - 2020. M.S. at Columbia University. Deep Generative Models
+* 2013 - 2018. B.S. at Peking University. Language Generation
 
 ### Industry
 * Jun - Sep 2023. MIT-IBM Waston AI Lab. Research Intern on Training Large Language Models
@@ -65,3 +65,5 @@ I am expected to graduate in Dec 2023 and will be joining Google DeepMind in Mou
   * A roadmap towards building language models of strong reasoning capabilties. Covers the full development stages: pretraining, continue training, supervised finetuning, reinforcemeng learning, chain-of-thought prompting, and evaluation.
  
 * [Jun 2023]. _A Stage Review of Instruction Tuning_ [[notion](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)]
+  * __Yao Fu__
+  * A review of the development of LLaMA-based models after the release of ChatGPT and discusses the next challenges of Instruction Tuning.
