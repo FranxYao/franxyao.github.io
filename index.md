@@ -18,7 +18,7 @@ My research objective is to make large language models the next generation compu
 * Scaling: data composition, long context, efficiency, science of language modeling
 * Reasoning: coding, agent, chain-of-thought, learning from feedback
 
-I am expected to graduate in Dec 2023 and will be joining Google DeepMind as a full-time research scientist afterwards. 
+I am expected to graduate in Dec 2023 and will be joining Google DeepMind in Mountain View as a full-time research scientist. 
 
 -----
 ## Experiences
