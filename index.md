@@ -14,9 +14,11 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 
 I study large-scale generative models for human language.
 
-My research objective is to make large language models the next generation computational platforms and build a language model based application ecosystem together with the community. My works study  how to inject core reasoning capabilities into language models, with techniques spanning the full stack LLM development, including data mixture, pretraining, finetuning, prompting, and learning from AI feedback. My article on [tracing language model abilities to their sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) is now an important roadmap about large language model evolution. Before the LLM era, I studied generative models, latent variable models, variational inference, and structure prediction. 
+My research objective is to make large language models the next generation computational platforms and build a language model based application ecosystem together with the community. I am broadly interested in the following topics: 
+* Scaling: data composition, long context, efficiency, science of language modeling
+* Reasoning: coding, agent, chain-of-thought, learning from feedback
 
-I am expected to graduate in Dec 2023 and will be on job market for industrial positions of building large language models. 
+I am expected to graduate in Dec 2023 and will be joining Google DeepMind as a full-time research scientist afterwards. 
 
 -----
 ## Experiences
@@ -26,7 +28,6 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 * 2013 - 2018. B.S. at Peking University
 
 ### Industry
-* Sep - Dec 2023 (incoming). Google DeepMind. Student Researcher on Large Language Models
 * Jun - Sep 2023. MIT-IBM Waston AI Lab. Research Intern on Training Large Language Models
 * Jul - Dec 2022. Allen Institute for AI. Research Intern on Language Model Reasoning
 * Jan - Oct 2020. Alibaba DAMO Academy. Research Intern on Latent Variable Models
@@ -34,19 +35,20 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
 * Jan - Aug 2018. Bytedance AI Lab. Research Intern on Language Generation
 
 -----
-## Research in Large Language Models
+## Research in Language Models
 
-### Roadmap
 * [Blog Post 2022] _How does GPT Obtain its Ability? Tracing  Emergent Abilities of Language Models to their Sources_ [[notion](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)]
   * __Yao Fu__, Hao Peng and Tushar Khot
   * Analysing sources of emergent abilities of Large Language Models from first principle.
   * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
 
-### Complex Reasoning
-
 * [Blog Post 2023]. _Towards Complex Reasoning: the Polaris of Large Language Models_ [[notion](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)]
   * __Yao Fu__
-  * A roadmap towards building language models of strong reasoning capabilties. Covers the full development stages: pretraining, continue training, supervised finetuning, reinforcemeng learning, chain-of-thought prompting, and evaluation. 
+  * A roadmap towards building language models of strong reasoning capabilties. Covers the full development stages: pretraining, continue training, supervised finetuning, reinforcemeng learning, chain-of-thought prompting, and evaluation.
+ 
+* [Arxiv 2023] _Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback_ [[code](https://github.com/FranxYao/GPT-Bargaining)][[paper](https://arxiv.org/abs/2305.10142)]
+  * __Yao Fu__, Hao Peng, Tushar Khot, and Mirella Lapata
+  * Two language models negotiate with each other and continuously improve their negotiation strategies by multi-round game playing and iterative in-context learning from AI feedback. 
 
 * [ICML 2023] Oral. _Specializing Smaller Language Models towards Multi-Step Reasoning_. [[paper](https://arxiv.org/abs/2301.12726)][[Code](https://github.com/FranxYao/FlanT5-CoT-Specialization)]
   * __Yao Fu__, Hao Peng, Litu Ou, Ashish Sabharwal, and Tushar Khot 
@@ -60,17 +62,9 @@ I am expected to graduate in Dec 2023 and will be on job market for industrial p
   * Tushar Khot, Harsh Trivedi, Matthew Finlayson, __Yao Fu__, Kyle Richardson, Peter Clark and Ashish Sabharwal
   * Decomposing complex task into simpler sub-tasks then solve each of them by prompting language models. 
 
-### Multi-Agent Game
-
-* [Arxiv 2023] _Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback_ [[code](https://github.com/FranxYao/GPT-Bargaining)][[paper](https://arxiv.org/abs/2305.10142)]
-  * __Yao Fu__, Hao Peng, Tushar Khot, and Mirella Lapata
-  * Two language models negotiate with each other and continuously improve their negotiation strategies by multi-round game playing and iterative in-context learning from AI feedback. 
-
 * [Opensource] _ChatArena: Multi-Agent Language Game Environments for Large Language Models_ [[GitHub](https://github.com/chatarena/chatarena)]
   * Yuxiang Wu, Zhengyao Jiang, Akbir Khan, __Yao Fu__, Laura Ruis, Edward Grefenstette, and Tim Rocktäschel
   * A library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions
-
-### Evaluation
 
 * [ICML Deployable GenAI 2023] _Chain-of-thougth Hub: Measuring LLMs' Reasoning Performance_ [[GitHub](https://github.com/FranxYao/chain-of-thought-hub)][[paper](https://arxiv.org/abs/2305.17306)]
   * __Yao Fu__, Litu Ou, Mingyu Chen and Yuhao Wan
