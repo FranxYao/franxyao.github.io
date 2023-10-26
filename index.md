@@ -15,8 +15,8 @@ Before Ph.D., I spent great time visiting professor [Alexander Rush](http://rush
 I study large-scale generative models for human language.
 
 My research objective is to make large language models the next generation computational platforms and build a language model based application ecosystem together with the community. I am broadly interested in the following topics: 
-* Scaling: data composition, long context, efficiency, science of language modeling
-* Reasoning: coding, agent, chain-of-thought, learning from feedback
+* Scaling: data engineering, long context, efficiency, science of language models
+* Reasoning: coding, multi-agent games, chain-of-thought, learning from feedback
 
 I am expected to graduate in Dec 2023 and will be joining Google DeepMind in Mountain View as a full-time research scientist. 
 
