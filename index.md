@@ -20,6 +20,8 @@ My research objective is to make large language models the next generation compu
 
 I am expected to graduate in Dec 2023 and will be joining Google DeepMind in Mountain View as a full-time research scientist. 
 
+AGI has yet to come, so keep running. 
+
 -----
 ## Experiences
 ### Academia
