@@ -69,3 +69,7 @@ AGI has yet to come, so keep running.
 * [Jun 2023]. _A Stage Review of Instruction Tuning_ [[notion](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)]
   * __Yao Fu__
   * A review of the development of LLaMA-based models after the release of ChatGPT and discusses the next challenges of Instruction Tuning.
+
+* [Dec 2023]. _Towards 100x Speedup: Full Stack Transformer Inference Optimization_ [[notion](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)]
+  * __Yao Fu__
+  * From hardware specs like A100 memory hierarchy, to MLSys methods like FlashAttention and vLLM, to model architectures like Mixture of Experts, to decoding algorithms like Speculative Decoding and its variants, we discuss full-stack transformer inference optimization.
