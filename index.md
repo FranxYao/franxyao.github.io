@@ -38,6 +38,10 @@ AGI has yet to come, so keep running.
 
 -----
 ## Featured Research
+
+* [Arxiv 2024] _Data Engineering for Scaling Language Models to 128K Context_  [[code](https://github.com/FranxYao/Long-Context-Data-Engineering)]
+  * __Yao Fu__, Rameswar Panda, Xinyao Niu, Xiang Yue, Hannaneh Hajishirzi, Yoon Kim and Hao Peng
+  * An effective and affordable recipe for training language models to 128K context, the key is to continue pretrain the full-attention model on 5B per-source length-upsampled data. 
  
 * [Arxiv 2023] _Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback_ [[code](https://github.com/FranxYao/GPT-Bargaining)][[paper](https://arxiv.org/abs/2305.10142)]
   * __Yao Fu__, Hao Peng, Tushar Khot, and Mirella Lapata
