@@ -39,7 +39,7 @@ AGI has yet to come, so keep running.
 -----
 ## Featured Research
 
-* [Arxiv 2024] _Data Engineering for Scaling Language Models to 128K Context_  [[code](https://github.com/FranxYao/Long-Context-Data-Engineering)]
+* [Arxiv 2024] _Data Engineering for Scaling Language Models to 128K Context_  [[code](https://github.com/FranxYao/Long-Context-Data-Engineering)][[Paper](https://arxiv.org/abs/2402.10171)]
   * __Yao Fu__, Rameswar Panda, Xinyao Niu, Xiang Yue, Hannaneh Hajishirzi, Yoon Kim and Hao Peng
   * An effective and affordable recipe for training language models to 128K context, the key is to continue pretrain the full-attention model on 5B per-source length-upsampled data.
   * The first open-sourced model matching GPT-4 128K performance on Needle-in-a-Haystack.
