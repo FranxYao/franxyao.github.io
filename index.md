@@ -18,8 +18,6 @@ My research objective is to make large language models the next generation compu
 * **Science driven scaling**: to pursue scientific principles bebind scaling and use them to guide next-generation model development, where the subareas include data engineering, long context, efficiency, and science of language models
 * **Reasoning as agents**: to study how deployed language models reason over complex problems and environment, where the subareas include coding, multi-agent games, chain-of-thought, and learning from feedback
 
-I am expected to graduate in Dec 2023 and will be joining Google DeepMind in Mountain View as a full-time research scientist. 
-
 AGI has yet to come, so keep running. 
 
 -----
