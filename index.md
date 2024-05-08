@@ -16,7 +16,7 @@ I study large-scale generative models for human language.
 
 My research objective is to make large language models the next generation computational platforms and build a language model based application ecosystem together with the community. I am broadly interested in the following topics: 
 * **Science driven scaling**: to pursue scientific principles bebind scaling and use them to guide next-generation model development, where the subareas include data engineering, long context, efficiency, and science of language models
-* **Reasoning as agents**: to study how deployed language models reason over complex problems and environment, where the subareas include coding, multi-agent games, chain-of-thought, and learning from feedback
+* **Reasoning as agents**: to study how deployed language models reason over complex problems and environment, where the subareas include coding, multi-agent games, chain-of-thought, and learning from X feedback
 
 AGI has yet to come, so keep running. 
 
@@ -37,7 +37,11 @@ AGI has yet to come, so keep running.
 -----
 ## Featured Research
 
-* [Arxiv 2024] _Data Engineering for Scaling Language Models to 128K Context_  [[code](https://github.com/FranxYao/Long-Context-Data-Engineering)][[Paper](https://arxiv.org/abs/2402.10171)]
+* [Arxiv 2024] _Retrieval Head Mechanistically Explains Long-Context Factuality_ [[code](https://github.com/nightdessert/Retrieval_Head)][[paper](https://arxiv.org/pdf/2404.15574)]
+  * Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng and __Yao Fu__
+  * A systematic investigation upon a wide range of models reveals the existance retrieval heads, a special type of attention heads accounting for long-context factuality.
+
+* [ICML 2024] _Data Engineering for Scaling Language Models to 128K Context_  [[code](https://github.com/FranxYao/Long-Context-Data-Engineering)][[Paper](https://arxiv.org/abs/2402.10171)]
   * __Yao Fu__, Rameswar Panda, Xinyao Niu, Xiang Yue, Hannaneh Hajishirzi, Yoon Kim and Hao Peng
   * An effective and affordable recipe for training language models to 128K context, the key is to continue pretrain the full-attention model on 5B per-source length-upsampled data.
   * The first open-sourced model matching GPT-4 128K performance on Needle-in-a-Haystack.
@@ -54,25 +58,31 @@ AGI has yet to come, so keep running.
   * __Yao Fu__, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot 
   * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
 
-* [ICML Deployable GenAI 2023] _Chain-of-thougth Hub: Measuring LLMs' Reasoning Performance_ [[GitHub](https://github.com/FranxYao/chain-of-thought-hub)][[paper](https://arxiv.org/abs/2305.17306)]
-  * __Yao Fu__, Litu Ou, Mingyu Chen and Yuhao Wan
-  * Benchmarking large language models' complex reasoning performance with chain-of-thought prompting
-
 -----
 ## Featured Blog Posts
+* [Apr 2024]. _Llama 3 Opens the Second Chapter of the Game of Scale_ [[notion](https://yaofu.notion.site/Apr-2024-Llama-3-Opens-the-Second-Chapter-of-the-Game-of-Scale-efff1c0c185f4008af673b78faf83b61)]
+  * __Yao Fu__
+  * Llama 3 marks open-source models reaching GPT-4 performance. Further text scaling is likely to be saturated. Future directions of scaling may focus on video-language models and reinforcement learning from X feedback.
+ 
+* [Dec 2023]. _Towards 100x Speedup: Full Stack Transformer Inference Optimization_ [[notion](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)]
+  * __Yao Fu__
+  * From hardware specs like A100 memory hierarchy, to MLSys methods like FlashAttention and vLLM, to model architectures like Mixture of Experts, to decoding algorithms like Speculative Decoding and its variants, we discuss full-stack transformer inference optimization.
+
+* [Jun 2023]. _A Stage Review of Instruction Tuning_ [[notion](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)]
+  * __Yao Fu__
+  * A review of the development of LLaMA-based models after the release of ChatGPT and discusses the next challenges of Instruction Tuning.
+
+* [May 2023]. _Towards Complex Reasoning: the Polaris of Large Language Models_ [[notion](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)]
+  * __Yao Fu__
+  * A roadmap towards building language models of strong reasoning capabilties. Covers the full development stages: pretraining, continue training, supervised finetuning, reinforcemeng learning, chain-of-thought prompting, and evaluation.
+
 * [Dec 2022] _How does GPT Obtain its Ability? Tracing  Emergent Abilities of Language Models to their Sources_ [[notion](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)]
   * __Yao Fu__, Hao Peng and Tushar Khot
   * Analysing sources of emergent abilities of Large Language Models from first principle.
   * [Hacker News](https://news.ycombinator.com/front?day=2022-12-15) top 3 trending.
 
-* [May 2023]. _Towards Complex Reasoning: the Polaris of Large Language Models_ [[notion](https://yaofu.notion.site/Towards-Complex-Reasoning-the-Polaris-of-Large-Language-Models-c2b4a51355b44764975f88e6a42d4e75)]
-  * __Yao Fu__
-  * A roadmap towards building language models of strong reasoning capabilties. Covers the full development stages: pretraining, continue training, supervised finetuning, reinforcemeng learning, chain-of-thought prompting, and evaluation.
- 
-* [Jun 2023]. _A Stage Review of Instruction Tuning_ [[notion](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2)]
-  * __Yao Fu__
-  * A review of the development of LLaMA-based models after the release of ChatGPT and discusses the next challenges of Instruction Tuning.
 
-* [Dec 2023]. _Towards 100x Speedup: Full Stack Transformer Inference Optimization_ [[notion](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)]
-  * __Yao Fu__
-  * From hardware specs like A100 memory hierarchy, to MLSys methods like FlashAttention and vLLM, to model architectures like Mixture of Experts, to decoding algorithms like Speculative Decoding and its variants, we discuss full-stack transformer inference optimization.
+ 
+
+
+
