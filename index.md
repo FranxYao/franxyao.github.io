@@ -23,7 +23,7 @@ AGI has yet to come, so keep running.
 -----
 ## Experiences
 ### Academia
-* 2020 - 2023. Ph.D. at University of Edinburgh. Large Language Models
+* 2020 - 2024. Ph.D. at University of Edinburgh. Large Language Models
 * 2018 - 2020. M.S. at Columbia University. Deep Generative Models
 * 2013 - 2018. B.S. at Peking University. Language Generation
 
@@ -37,11 +37,16 @@ AGI has yet to come, so keep running.
 -----
 ## Featured Research
 
-* [Arxiv 2024] _Retrieval Head Mechanistically Explains Long-Context Factuality_ [[code](https://github.com/nightdessert/Retrieval_Head)][[paper](https://arxiv.org/pdf/2404.15574)]
+* [Arxiv 2024] _Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performance Analysis_ [[paper](https://arxiv.org/abs/2405.08944)][[Twitter/X](https://twitter.com/Francis_YAO_/status/1791013218707439664)]
+  * __Yao Fu__
+  * A concurrent programming framework for analyzing understanding the serving cost of long-context transformers: concurrency, prefilling, decoding and context switching.
+  * Identifying lossless compression of KV cache is the number one challenge for reducing the cost of 1M to be as cheap as 4K.
+
+* [Arxiv 2024] _Retrieval Head Mechanistically Explains Long-Context Factuality_ [[code](https://github.com/nightdessert/Retrieval_Head)][[paper](https://arxiv.org/pdf/2404.15574)][[Twitter/X](https://twitter.com/Francis_YAO_/status/1783446286479286700)]
   * Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng and __Yao Fu__
   * A systematic investigation upon a wide range of models reveals the existance retrieval heads, a special type of attention heads accounting for long-context factuality.
 
-* [ICML 2024] _Data Engineering for Scaling Language Models to 128K Context_  [[code](https://github.com/FranxYao/Long-Context-Data-Engineering)][[Paper](https://arxiv.org/abs/2402.10171)]
+* [ICML 2024] _Data Engineering for Scaling Language Models to 128K Context_  [[code](https://github.com/FranxYao/Long-Context-Data-Engineering)][[Paper](https://arxiv.org/abs/2402.10171)][[Twitter/X](https://twitter.com/Francis_YAO_/status/1759986097365627054)]
   * __Yao Fu__, Rameswar Panda, Xinyao Niu, Xiang Yue, Hannaneh Hajishirzi, Yoon Kim and Hao Peng
   * An effective and affordable recipe for training language models to 128K context, the key is to continue pretrain the full-attention model on 5B per-source length-upsampled data.
   * The first open-sourced model matching GPT-4 128K performance on Needle-in-a-Haystack.
