@@ -18,22 +18,6 @@ My research objective is to make large language models the next generation compu
 * **Science driven scaling**: to pursue scientific principles bebind scaling and use them to guide next-generation model development, where the subareas include data engineering, long context, efficiency, and science of language models
 * **Reasoning as agents**: to study how deployed language models reason over complex problems and environment, where the subareas include coding, multi-agent games, chain-of-thought, and learning from X feedback
 
-AGI has yet to come, so keep running. 
-
------
-## Experiences
-### Academia
-* 2020 - 2024. Ph.D. at University of Edinburgh. Large Language Models
-* 2018 - 2020. M.S. at Columbia University. Deep Generative Models
-* 2013 - 2018. B.S. at Peking University. Language Generation
-
-### Industry
-* Jun - Sep 2023. MIT-IBM Waston AI Lab. Research Intern on Training Large Language Models
-* Jul - Dec 2022. Allen Institute for AI. Research Intern on Language Model Reasoning
-* Jan - Oct 2020. Alibaba DAMO Academy. Research Intern on Latent Variable Models
-* May - Sep 2019. Tencent AI Lab. Research Intern on Structured Prediction
-* Jan - Aug 2018. Bytedance AI Lab. Research Intern on Language Generation
-
 -----
 ## Featured Research
 
