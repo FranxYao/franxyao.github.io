@@ -8,7 +8,7 @@
 
 Yao Fu 符尧. yao.fu@ed.ac.uk
 
-I'm moving my webpage to https://yaofu.notion.site and this page is no longer maintained.
+I'm moving my webpage to [notion site](https://yaofu.notion.site) and this page is no longer maintained.
 
 I am a Ph.D. student at the University of Edinburgh (2020-) with professor [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/).
 I finished my M.S. at Columbia University (2018-2020) with professor [John Cunningham](https://stat.columbia.edu/~cunningham/) and my B.S. at Peking University (2013-2018) with professor [Yansong Feng](https://sites.google.com/site/ysfeng/home). 
